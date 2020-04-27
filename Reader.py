@@ -15,6 +15,8 @@ class Reader:
                 line_count += 1
                 list_of_dict.append(word_group)
 
+                print(word_group)
+
             print(line_count)
             return list_of_dict
 

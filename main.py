@@ -14,8 +14,8 @@ if __name__ == '__main__':
 
     all_words, wiki_words, res_words = Mapping.maps(wiki, results)
 
-    print(len(all_words))
-    print(len(wiki_words))
-    print(len(res_words))
+    print("all words common between both lists:", len(all_words))
+    print("wiktionary cognate sets", len(wiki_words))
+    print("results cognate sets", len(res_words))
 
     Compare.compare(wiki_words, res_words, all_words)
