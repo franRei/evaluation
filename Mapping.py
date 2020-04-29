@@ -17,6 +17,7 @@ class Mapping:
                                   "cog_ID_wiki": word_wiki['cog_ID'], "cog_ID_results": word_res['cog_ID'],\
                                   "pgmc_wiki": word_wiki['pgmc'], "pgmc_results": word_res['pgmc']}
                     combined.append(word_group)
+                    print(word_group)
                     if word_group["cog_ID_wiki"] in combined_sort_by_wiki_cog_id:
                         combined_sort_by_wiki_cog_id[word_group["cog_ID_wiki"]].append(word_group)
                     else:
