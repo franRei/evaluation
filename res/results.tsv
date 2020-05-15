@@ -1,0 +1,2088 @@
+status	ID_1	cognate_1	language_1	cognateID_results_1	cognateID_wiki_1	borrowed_1	pgmc_forms_results_1	pgmc_forms_wiki_1		ID_2	cognate_2	language_2	cognateID_results_2	cognateID_wiki_2	borrowed_2	pgmc_forms_results_2	pgmc_forms_wiki_2
+tp	5	eleven	en	30450	174	false	*ainalifa-	ainalif		6	elf	nl	30450	174	false	*ainalifa-	ainalif
+tp	10	elk	en	3926	1072	false	*albut-	elhaz		156	elk	en	3926	1072	false	*elha(n)-	elhaz
+tp	19	apple	en	563	348	false	*apla-	aplaz		20	Apfel	de	563	348	false	*apla-	aplaz
+tp	29	east	en	15864	415	false	*austera-	austrą		29	east	en	15864	415	false	*austera-	austrą
+tp	31	oor	nl	15625	413	false	*auzōn-	ausô		32	Ohr	de	15625	413	false	*auzōn-	ausô
+tp	33	boom	nl	1592	454	false	*bagma-	bagmaz		34	Baum	de	1592	454	false	*bagma-	bagmaz
+tp	36	beek	nl	1233	467	false	*bakja-	bakiz		37	Bach	de	1233	467	false	*bakja-	bakiz
+tp	38	bake	en	26259	465	false	*bak(k)an-	bakaną		39	bakken	nl	26259	465	false	*bak(k)an-	bakaną
+tp	48	bear	en	1323	570	false	*beran-	berô		49	beer	nl	1323	570	false	*beran-	berô
+tp	48	bear	en	1323	570	false	*beran-	berô		50	Bär	de	1323	570	false	*beran-	berô
+tp	49	beer	nl	1323	570	false	*beran-	berô		50	Bär	de	1323	570	false	*beran-	berô
+tp	49	beer	nl	1323	459	false	*beran-	bairaz		50	Bär	de	1323	459	false	*beran-	bairaz
+tp	51	berg	nl	1699	561	false	*berga-	bergaz		52	Berg	de	1699	561	false	*berga-	bergaz
+tp	56	bow	en	27533	576	false	*beugan-	beuganą		73	bow	en	27533	576	false	*bōgu-	beuganą
+tp	56	bow	en	27533	576	false	*beugan-	beuganą		98	bow	en	27533	576	false	*bugan-	beuganą
+tp	57	buigen	nl	27746	576	false	*beugan-	beuganą		58	biegen	de	27746	576	false	*beugan-	beuganą
+tp	73	bow	en	27533	576	false	*bōgu-	beuganą		98	bow	en	27533	576	false	*bugan-	beuganą
+tp	56	bow	en	27533	803	false	*beugan-	bugô		73	bow	en	27533	803	false	*bōgu-	bugô
+tp	56	bow	en	27533	803	false	*beugan-	bugô		98	bow	en	27533	803	false	*bugan-	bugô
+tp	73	bow	en	27533	803	false	*bōgu-	bugô		98	bow	en	27533	803	false	*bugan-	bugô
+tp	97	Bogen	de	2192	803	false	*bugan-	bugô		99	boog	nl	2192	803	false	*bugan-	bugô
+tp	60	bite	en	26850	636	false	*bītan-	bītaną		61	bijten	nl	26850	636	false	*bītan-	bītaną
+tp	60	bite	en	26850	636	false	*bītan-	bītaną		62	beißen	de	26850	636	false	*bītan-	bītaną
+tp	61	bijten	nl	26850	636	false	*bītan-	bītaną		62	beißen	de	26850	636	false	*bītan-	bītaną
+tp	64	blad	nl	2008	644	false	*blada-	bladą		65	Blatt	de	2008	644	false	*blada-	bladą
+tp	66	blow	en	28037	660	false	*blēan-	blēaną		68	blow	en	28037	660	false	*blewwan-	blēaną
+tp	66	blow	en	28037	668	true	*blēan-	blewwaną		68	blow	en	28037	668	true	*blewwan-	blewwaną
+tp	66	blow	en	28037	680	false	*blēan-	blōaną		68	blow	en	28037	680	false	*blewwan-	blōaną
+tp	69	bloem	nl	2063	681	false	*blōmman-	blōmô		70	Blume	de	2063	681	false	*blōmman-	blōmô
+tp	71	bouwen	nl	26445	796	false	*bōan-	būaną		72	bauen	de	26445	796	false	*bōan-	būaną
+tp	75	bosom	en	2912	712	false	*bōsma-	bōsmaz		76	boezem	nl	2912	712	false	*bōsma-	bōsmaz
+tp	75	bosom	en	2912	712	false	*bōsma-	bōsmaz		77	Busen	de	2912	712	false	*bōsma-	bōsmaz
+tp	76	boezem	nl	2912	712	false	*bōsma-	bōsmaz		77	Busen	de	2912	712	false	*bōsma-	bōsmaz
+tp	78	breed	nl	28449	723	false	*braida-	braidaz		79	breit	de	28449	723	false	*braida-	braidaz
+tp	81	break	en	52797	741	false	*brekan-	brekaną		82	breken	nl	52797	741	false	*brekan-	brekaną
+tp	88	broer	nl	2530	770	false	*brōϸer-	brōþēr		88	broer	nl	2530	770	false	*brōϸer-	brōþēr
+tp	88	broer	nl	2530	770	false	*brōϸer-	brōþēr		89	Bruder	de	2530	770	false	*brōϸer-	brōþēr
+tp	88	broer	nl	2530	770	false	*brōϸer-	brōþēr		89	Bruder	de	2530	770	false	*brōϸer-	brōþēr
+tp	91	borst	nl	2593	790	false	*brust-	brusts		92	Brust	de	2593	790	false	*brust-	brusts
+tp	93	bridge	en	2456	776	false	*bru(w)ī-	brugjǭ		94	brug	nl	2456	776	false	*bru(w)ī-	brugjǭ
+tp	93	bridge	en	2456	776	false	*bru(w)ī-	brugjǭ		95	Brücke	de	2456	776	false	*bru(w)ī-	brugjǭ
+tp	94	brug	nl	2456	776	false	*bru(w)ī-	brugjǭ		95	Brücke	de	2456	776	false	*bru(w)ī-	brugjǭ
+tp	103	dag	nl	21217	850	false	*daga-	dagaz		104	Tag	de	21217	850	false	*daga-	dagaz
+tp	106	deaf	en	47830	886	false	*dauba-	daubaz		107	doof	nl	47830	886	false	*dauba-	daubaz
+tp	109	dood	nl	21646	887	false	*daujan-	daudaz		112	dood	nl	21646	887	false	*daujan-	daudaz
+tp	109	dood	nl	21646	897	false	*daujan-	dauþuz		111	death	en	21646	897	false	*daujan-	dauþuz
+tp	109	dood	nl	21646	897	false	*daujan-	dauþuz		112	dood	nl	21646	897	false	*daujan-	dauþuz
+tp	109	dood	nl	21646	897	false	*daujan-	dauþuz		113	Tod	de	21646	897	false	*daujan-	dauþuz
+tp	111	death	en	21646	897	false	*daujan-	dauþuz		112	dood	nl	21646	897	false	*daujan-	dauþuz
+tp	111	death	en	21646	897	false	*daujan-	dauþuz		113	Tod	de	21646	897	false	*daujan-	dauþuz
+tp	112	dood	nl	21646	897	false	*daujan-	dauþuz		113	Tod	de	21646	897	false	*daujan-	dauþuz
+tp	115	dier	nl	21497	916	false	*deuza-	deuzą		116	Tier	de	21497	916	false	*deuza-	deuzą
+tp	117	doek	nl	21974	944	false	*dōka-	dōkaz		118	Tuch	de	21974	944	false	*dōka-	dōkaz
+tp	119	do	en	48613	951	false	*dōn-	dōną		120	doen	nl	48613	951	false	*dōn-	dōną
+tp	126	dream	en	21860	968	false	*dreugan-	draumaz		127	droom	nl	21860	968	false	*dreugan-	draumaz
+tp	126	dream	en	21860	968	false	*dreugan-	draumaz		128	Traum	de	21860	968	false	*dreugan-	draumaz
+tp	127	droom	nl	21860	968	false	*dreugan-	draumaz		128	Traum	de	21860	968	false	*dreugan-	draumaz
+tp	129	drive	en	48400	980	false	*drīban-	drībaną		130	drijven	nl	48400	980	false	*drīban-	drībaną
+tp	129	drive	en	48400	980	false	*drīban-	drībaną		131	treiben	de	48400	980	false	*drīban-	drībaną
+tp	130	drijven	nl	48400	980	false	*drīban-	drībaną		131	treiben	de	48400	980	false	*drīban-	drībaną
+tp	132	drink	en	48508	982	false	*drinkan-	drinkaną		133	drinken	nl	48508	982	false	*drinkan-	drinkaną
+tp	132	drink	en	48508	982	false	*drinkan-	drinkaną		134	trinken	de	48508	982	false	*drinkan-	drinkaną
+tp	132	drink	en	48508	982	false	*drinkan-	drinkaną		136	drink	en	48508	982	false	*drunki-	drinkaną
+tp	133	drinken	nl	48508	982	false	*drinkan-	drinkaną		134	trinken	de	48508	982	false	*drinkan-	drinkaną
+tp	133	drinken	nl	48508	982	false	*drinkan-	drinkaną		136	drink	en	48508	982	false	*drunki-	drinkaną
+tp	134	trinken	de	48508	982	false	*drinkan-	drinkaną		136	drink	en	48508	982	false	*drunki-	drinkaną
+tp	132	drink	en	48508	997	false	*drinkan-	drunkiz		136	drink	en	48508	997	false	*drunki-	drunkiz
+tp	137	daughter	en	21580	1010	false	*duhter-	duhtēr		138	dochter	nl	21580	1010	false	*duhter-	duhtēr
+tp	137	daughter	en	21580	1010	false	*duhter-	duhtēr		139	Tochter	de	21580	1010	false	*duhter-	duhtēr
+tp	138	dochter	nl	21580	1010	false	*duhter-	duhtēr		139	Tochter	de	21580	1010	false	*duhter-	duhtēr
+tp	144	donker	nl	29627	1029	false	*dunkla-	dunkalaz		145	dunkel	de	29627	1029	false	*dunkla-	dunkalaz
+tp	148	door	en	22018	1042	false	*dura-	durz		149	deur	nl	22018	1042	false	*dura-	durz
+tp	151	avond	nl	56	1061	false	*ēbanþ-	ēbanþs		152	Abend	de	56	1061	false	*ēbanþ-	ēbanþs
+tp	154	ik	nl	35646	1070	false	*ek(a)	ek		155	ich	de	35646	1070	false	*ek(a)	ek
+tp	157	aarde	nl	4291	1090	false	*erϸō-	erþō		158	Erde	de	4291	1090	false	*erϸō-	erþō
+tp	162	adem	nl	1125	1107	false	*ēþman-	ēþmaz		163	Atem	de	1125	1107	false	*ēþman-	ēþmaz
+tp	164	ader	nl	209	1109	false	*ēþrō-	ēþrǭ		165	Ader	de	209	1109	false	*ēþrō-	ēþrǭ
+tp	167	father	en	22192	1110	false	*fader-	fadēr		168	vader	nl	22192	1110	false	*fader-	fadēr
+tp	167	father	en	22192	1110	false	*fader-	fadēr		169	Vater	de	22192	1110	false	*fader-	fadēr
+tp	168	vader	nl	22192	1110	false	*fader-	fadēr		169	Vater	de	22192	1110	false	*fader-	fadēr
+tp	183	veer	nl	4811	1241	false	*feϸrō-	feþrō		184	Feder	de	4811	1241	false	*feϸrō-	feþrō
+tp	183	veer	nl	4811	1241	false	*feϸrō-	feþrō		185	feather	en	4811	1241	false	*feϸrō-	feþrō
+tp	184	Feder	de	4811	1241	false	*feϸrō-	feþrō		185	feather	en	4811	1241	false	*feϸrō-	feþrō
+tp	186	vijand	nl	4907	1248	false	*fi(j)ēn-	fijandz		187	Feind	de	4907	1248	false	*fi(j)ēn-	fijandz
+tp	191	finger	en	5341	1256	false	*fingra-	fingraz		192	vinger	nl	5341	1256	false	*fingra-	fingraz
+tp	191	finger	en	5341	1256	false	*fingra-	fingraz		193	Finger	de	5341	1256	false	*fingra-	fingraz
+tp	192	vinger	nl	5341	1256	false	*fingra-	fingraz		193	Finger	de	5341	1256	false	*fingra-	fingraz
+tp	194	vinden	nl	31926	1261	false	*finϸan-	finþaną		195	finden	de	31926	1261	false	*finϸan-	finþaną
+tp	194	vinden	nl	31926	1261	false	*finϸan-	finþaną		196	find	en	31926	1261	false	*finϸan-	finþaną
+tp	195	finden	de	31926	1261	false	*finϸan-	finþaną		196	find	en	31926	1261	false	*finϸan-	finþaną
+tp	201	fly	en	32157	1296	false	*fleugan-	fleuganą		202	vliegen	nl	32157	1296	false	*fleugan-	fleuganą
+tp	201	fly	en	32157	1296	false	*fleugan-	fleuganą		203	fliegen	de	32157	1296	false	*fleugan-	fleuganą
+tp	201	fly	en	32157	1296	false	*fleugan-	fleuganą		206	fly	en	32157	1296	false	*fleugōn-	fleuganą
+tp	202	vliegen	nl	32157	1296	false	*fleugan-	fleuganą		203	fliegen	de	32157	1296	false	*fleugan-	fleuganą
+tp	202	vliegen	nl	32157	1296	false	*fleugan-	fleuganą		206	fly	en	32157	1296	false	*fleugōn-	fleuganą
+tp	203	fliegen	de	32157	1296	false	*fleugan-	fleuganą		206	fly	en	32157	1296	false	*fleugōn-	fleuganą
+tp	201	fly	en	32157	1297	false	*fleugan-	fleugǭ		206	fly	en	32157	1297	false	*fleugōn-	fleugǭ
+tp	204	vlieg	nl	5544	1297	false	*fleugōn-	fleugǭ		205	Fliege	de	5544	1297	false	*fleugōn-	fleugǭ
+tp	209	floor	en	6062	1306	false	*flōra-	flōraz		210	vloer	nl	6062	1306	false	*flōra-	flōraz
+tp	213	fire	en	5229	1326	false	*fōr-	fōr		214	vuur	nl	5229	1326	false	*fōr-	fōr
+tp	213	fire	en	5229	1326	false	*fōr-	fōr		215	Feuer	de	5229	1326	false	*fōr-	fōr
+tp	214	vuur	nl	5229	1326	false	*fōr-	fōr		215	Feuer	de	5229	1326	false	*fōr-	fōr
+tp	216	foot	en	6025	1333	false	*fōt-	fōts		217	voet	nl	6025	1333	false	*fōt-	fōts
+tp	216	foot	en	6025	1333	false	*fōt-	fōts		218	Fuß	de	6025	1333	false	*fōt-	fōts
+tp	217	voet	nl	6025	1333	false	*fōt-	fōts		218	Fuß	de	6025	1333	false	*fōt-	fōts
+tp	221	friend	en	5883	1399	false	*fri(j)ōnd-	frijōndz		222	vriend	nl	5883	1399	false	*fri(j)ōnd-	frijōndz
+tp	221	friend	en	5883	1399	false	*fri(j)ōnd-	frijōndz		223	Freund	de	5883	1399	false	*fri(j)ōnd-	frijōndz
+tp	222	vriend	nl	5883	1399	false	*fri(j)ōnd-	frijōndz		223	Freund	de	5883	1399	false	*fri(j)ōnd-	frijōndz
+tp	225	vorst	nl	5950	1425	false	*freusan-	frustaz		227	frost	en	5950	1425	false	*freusan-	frustaz
+tp	228	vogel	nl	22290	1428	false	*flug-la-	fuglaz		229	Vogel	de	22290	1428	false	*flug-la-	fuglaz
+tp	230	fox	en	6147	1430	false	*fuhsa-	fuhsaz		231	Fuchs	de	6147	1430	false	*fuhsa-	fuhsaz
+tp	234	full	en	50583	1443	false	*fulla-	fullaz		235	vol	nl	50583	1443	false	*fulla-	fullaz
+tp	234	full	en	50583	1443	false	*fulla-	fullaz		236	voll	de	50583	1443	false	*fulla-	fullaz
+tp	235	vol	nl	50583	1443	false	*fulla-	fullaz		236	voll	de	50583	1443	false	*fulla-	fullaz
+tp	237	vochtig	nl	31875	1452	false	*funhtu-	funhtijaz		238	feucht	de	31875	1452	false	*funhtu-	funhtijaz
+tp	239	fürchten	de	32846	1473	false	*furhtō-	furhtijaną		239	fürchten	de	32846	1473	false	*furhtō-	furhtijaną
+tp	240	geest	nl	6703	1531	false	*gaista-	gaistaz		241	Geist	de	6703	1531	false	*gaista-	gaistaz
+tp	242	gans	nl	6345	1577	false	*gans-	gans		243	Gans	de	6345	1577	false	*gans-	gans
+tp	242	gans	nl	6345	1577	false	*gans-	gans		244	goose	en	6345	1577	false	*gans-	gans
+tp	243	Gans	de	6345	1577	false	*gans-	gans		244	goose	en	6345	1577	false	*gans-	gans
+tp	245	gast	nl	6350	1604	false	*gasti-	gastiz		246	Gast	de	6350	1604	false	*gasti-	gastiz
+tp	248	give	en	42619	1626	false	*geban-	gebaną		248	give	en	42619	1626	true	*geban-	gebaną
+tp	249	geven	nl	32950	1626	false	*geban-	gebaną		250	geben	de	32950	1626	false	*geban-	gebaną
+tp	253	gå	da	33082	1563	false	*gēn-	gāną		254	go	en	33082	1563	false	*gēn-	gāną
+tp	253	gå	da	33082	1563	false	*gēn-	gāną		256	gehen	de	33082	1563	false	*gēn-	gāną
+tp	254	go	en	33082	1563	false	*gēn-	gāną		256	gehen	de	33082	1563	false	*gēn-	gāną
+tp	261	gieten	nl	33716	1644	false	*geutan-	geutaną		262	gießen	de	33716	1644	false	*geutan-	geutaną
+tp	263	glad	nl	33823	1659	false	*glōan-	gladaz		264	glatt	de	33823	1659	false	*glōan-	gladaz
+tp	266	glass	en	7718	1663	false	*glasa-	glasą		267	Glas	de	7718	1663	false	*glasa-	glasą
+tp	268	good	en	34171	1684	false	*gōda-	gōdaz		269	goed	nl	34171	1684	false	*gōda-	gōdaz
+tp	268	good	en	34171	1684	false	*gōda-	gōdaz		270	gut	de	34171	1684	false	*gōda-	gōdaz
+tp	269	goed	nl	34171	1684	false	*gōda-	gōdaz		270	gut	de	34171	1684	false	*gōda-	gōdaz
+tp	271	graf	nl	7888	1690	false	*graba-	grabą		272	Grab	de	7888	1690	false	*graba-	grabą
+tp	273	graven	nl	33907	1691	false	*graban-	grabaną		274	graben	de	33907	1691	false	*graban-	grabaną
+tp	276	grass	en	7945	1702	false	*grasa-	grasą		277	Gras	de	7945	1702	false	*grasa-	grasą
+tp	278	groot	nl	34030	1706	false	*greutan-	grautaz		279	groß	de	34030	1706	false	*greutan-	grautaz
+tp	280	grau	de	33949	1717	false	*grēwa-	grēwaz		281	grey	en	33949	1717	false	*grēwa-	grēwaz
+tp	286	groen	nl	34079	1739	false	*grōan-	grōniz		287	grün	de	34079	1739	false	*grōan-	grōniz
+tp	288	ground	en	2136	1743	false	*grumϸu-	grunduz		289	grond	nl	2136	1743	false	*grumϸu-	grunduz
+tp	296	heet	nl	34510	1822	false	*haita-	haitaz		297	heiß	de	34510	1822	false	*haita-	haitaz
+tp	300	hals	nl	8591	1846	false	*halsa-	halsaz		301	Hals	de	8591	1846	false	*halsa-	halsaz
+tp	305	heel	en	5083	1876	false	*hanhila(n)-	hanhilaz		306	hiel	nl	5083	1876	false	*hanhila(n)-	hanhilaz
+tp	307	herfst	nl	9187	1883	false	*harbista-	harbistaz		308	Herbst	de	9187	1883	false	*harbista-	harbistaz
+tp	312	hay	en	9320	1934	false	*hauja-	hawją		313	hooi	nl	9320	1934	false	*hauja-	hawją
+tp	312	hay	en	9320	1934	false	*hauja-	hawją		314	Heu	de	9320	1934	false	*hauja-	hawją
+tp	313	hooi	nl	9320	1934	false	*hauja-	hawją		314	Heu	de	9320	1934	false	*hauja-	hawją
+tp	315	heap	en	8897	1931	false	*haupa-	haupaz		316	hoop	nl	8897	1931	false	*haupa-	haupaz
+tp	318	horen	nl	35355	1932	false	*hauzjan-	hauzijaną		319	hören	de	35355	1932	false	*hauzjan-	hauzijaną
+tp	318	horen	nl	35355	1932	false	*hauzjan-	hauzijaną		366	horen	nl	35355	1932	false	*hurna-	hauzijaną
+tp	319	hören	de	35355	1932	false	*hauzjan-	hauzijaną		366	horen	nl	35355	1932	false	*hurna-	hauzijaną
+tp	318	horen	nl	35355	2225	false	*hauzjan-	hurną		366	horen	nl	35355	2225	false	*hurna-	hurną
+tp	367	Horn	de	9717	2225	false	*hurna-	hurną		368	horn	en	9717	2225	false	*hurna-	hurną
+tp	320	houwen	nl	34398	1936	false	*hawwan-	hawwaną		321	hauen	de	34398	1936	false	*hawwan-	hawwaną
+tp	322	hemel	nl	9448	1983	false	*hemina-	himilaz		323	Himmel	de	9448	1983	false	*hemina-	himilaz
+tp	324	hair	en	8415	1957	false	*hēra-	hērą		325	haar	nl	8415	1957	false	*hēra-	hērą
+tp	324	hair	en	8415	1957	false	*hēra-	hērą		326	Haar	de	8415	1957	false	*hēra-	hērą
+tp	325	haar	nl	8415	1957	false	*hēra-	hērą		326	Haar	de	8415	1957	false	*hēra-	hērą
+tp	329	heart	en	9276	1960	false	*hertōn-	hertô		330	hart	nl	9276	1960	false	*hertōn-	hertô
+tp	329	heart	en	9276	1960	false	*hertōn-	hertô		331	Herz	de	9276	1960	false	*hertōn-	hertô
+tp	330	hart	nl	9276	1960	false	*hertōn-	hertô		331	Herz	de	9276	1960	false	*hertōn-	hertô
+tp	332	héri	is	8821	1910	false	*hesan-	hasô		332	héri	is	8821	1910	false	*hesan-	hasô
+tp	332	héri	is	8821	1910	false	*hesan-	hasô		333	hare	en	8821	1910	false	*hesan-	hasô
+tp	332	héri	is	8821	1910	false	*hesan-	hasô		333	hare	en	8821	1910	false	*hesan-	hasô
+tp	334	haas	nl	8856	1910	false	*hesan-	hasô		335	Hase	de	8856	1910	false	*hesan-	hasô
+tp	340	lopen	nl	37604	2020	false	*hluppōn	hlaupaną		341	laufen	de	37604	2020	false	*hluppōn	hlaupaną
+tp	344	hoen	nl	9911	2088	false	*hōniz-	hōną		345	Huhn	de	9911	2088	false	*hōniz-	hōną
+tp	346	roh	de	41576	2116	false	*hrawa-	hrawaz		347	raw	en	41576	2116	false	*hrawa-	hrawaz
+tp	350	ring	en	36384	2140	false	*hringa-	hringaz		350	ring	en	36384	2140	true	*hringa-	hringaz
+tp	354	hout	nl	9639	2202	false	*hulta-	hultą		355	Holz	de	9639	2202	false	*hulta-	hultą
+tp	356	honey	en	9690	2205	false	*hunanga-	hunagą		358	Honig	de	9690	2205	false	*hunanga-	hunagą
+tp	359	hond	nl	9949	2211	false	*hunda-	hundaz		360	Hund	de	9949	2211	false	*hunda-	hundaz
+tp	361	hunger	en	9991	2214	false	*hungru-	hungruz		362	honger	nl	9991	2214	false	*hungru-	hungruz
+tp	361	hunger	en	9991	2214	false	*hungru-	hungruz		363	Hunger	de	9991	2214	false	*hungru-	hungruz
+tp	362	honger	nl	9991	2214	false	*hungru-	hungruz		363	Hunger	de	9991	2214	false	*hungru-	hungruz
+tp	370	house	en	8941	2232	false	*hūsa-	hūsą		371	huis	nl	8941	2232	false	*hūsa-	hūsą
+tp	370	house	en	8941	2232	false	*hūsa-	hūsą		372	Haus	de	8941	2232	false	*hūsa-	hūsą
+tp	371	huis	nl	8941	2232	false	*hūsa-	hūsą		372	Haus	de	8941	2232	false	*hūsa-	hūsą
+tp	375	wat	nl	51247	2262	false	*hwa-	hwat		377	was	de	51247	2262	false	*hwa-	hwat
+tp	378	where	en	52376	2253	false	*hwar	hwar		380	wo	de	52376	2253	false	*hwar	hwar
+tp	381	white	en	51640	2291	false	*hwīta-	hwītaz		382	wit	nl	51640	2291	false	*hwīta-	hwītaz
+tp	381	white	en	51640	2291	false	*hwīta-	hwītaz		383	weiß	de	51640	2291	false	*hwīta-	hwītaz
+tp	382	wit	nl	51640	2291	false	*hwīta-	hwītaz		383	weiß	de	51640	2291	false	*hwīta-	hwītaz
+tp	385	ijlen	nl	29907	2309	false	*īljan-	īlijaną		386	eilen	de	29907	2309	false	*īljan-	īlijaną
+tp	390	jaar	nl	10080	2356	false	*jēra-	jērą		391	Jahr	de	10080	2356	false	*jēra-	jērą
+tp	392	young	en	35929	2370	false	*junga-	jungaz		393	jong	nl	35929	2370	false	*junga-	jungaz
+tp	392	young	en	35929	2370	false	*junga-	jungaz		394	jung	de	35929	2370	false	*junga-	jungaz
+tp	393	jong	nl	35929	2370	false	*junga-	jungaz		394	jung	de	35929	2370	false	*junga-	jungaz
+tp	398	koud	nl	35955	2386	false	*kalda-	kaldaz		399	kalt	de	35955	2386	false	*kalda-	kaldaz
+tp	404	keel	nl	10601	2427	false	*kelōn-	kelǭ		405	Kehle	de	10601	2427	false	*kelōn-	kelǭ
+tp	406	kind	nl	10814	2447	false	*kinϸa-	kinþą		407	Kind	de	10814	2447	false	*kinϸa-	kinþą
+tp	411	clay	en	12772	2462	false	*klajja-	klajjaz		412	klei	nl	12772	2462	false	*klajja-	klajjaz
+tp	414	climb	en	36343	2480	false	*klimman-	klimbaną		415	klimmen	nl	36343	2480	false	*klimman-	klimbaną
+tp	416	klinken	nl	36459	2481	false	*klingan-	klinganą		417	klingen	de	36459	2481	false	*klingan-	klinganą
+tp	418	knie	nl	11219	2494	false	*knewa-	knewą		419	Knie	de	11219	2494	false	*knewa-	knewą
+tp	423	cow	en	12003	2614	false	*kō-	kūz		424	koe	nl	12003	2614	false	*kō-	kūz
+tp	423	cow	en	12003	2614	false	*kō-	kūz		425	Kuh	de	12003	2614	false	*kō-	kūz
+tp	424	koe	nl	12003	2614	false	*kō-	kūz		425	Kuh	de	12003	2614	false	*kō-	kūz
+tp	426	cool	en	37196	2510	false	*kōlu-	kōlaz		427	koel	nl	37196	2510	false	*kōlu-	kōlaz
+tp	426	cool	en	37196	2513	false	*kōlu-	kōluz		427	koel	nl	37196	2513	false	*kōlu-	kōluz
+tp	426	cool	en	37196	2513	false	*kōlu-	kōluz		428	kühl	de	37196	2513	false	*kōlu-	kōluz
+tp	427	koel	nl	37196	2513	false	*kōlu-	kōluz		428	kühl	de	37196	2513	false	*kōlu-	kōluz
+tp	434	creep	en	37117	2539	false	*kreupan-	kreupaną		435	kruipen	nl	37117	2539	false	*kreupan-	kreupaną
+tp	436	kool	nl	11372	2568	false	*kula-	kulą		437	coal	en	11372	2568	false	*kula-	kulą
+tp	439	koning	nl	11417	2585	false	kunja-	kuningaz		440	König	de	11417	2585	false	kunja-	kuningaz
+tp	441	kunnen	nl	36717	2591	false	*kunnan-	kunnaną		442	können	de	36717	2591	false	*kunnan-	kunnaną
+tp	444	kiss	en	37297	2606	false	*kussjan-	kussijaną		445	kussen	nl	37297	2606	false	*kussjan-	kussijaną
+tp	444	kiss	en	37297	2606	false	*kussjan-	kussijaną		446	küssen	de	37297	2606	false	*kussjan-	kussijaną
+tp	445	kussen	nl	37297	2606	false	*kussjan-	kussijaną		446	küssen	de	37297	2606	false	*kussjan-	kussijaną
+tp	447	komen	nl	36704	2631	false	*kweman-	kwemaną		448	kommen	de	36704	2631	false	*kweman-	kwemaną
+tp	449	lay	en	37940	2654	false	*lagjan-	lagjaną		450	leggen	nl	37940	2654	false	*lagjan-	lagjaną
+tp	449	lay	en	37940	2654	false	*lagjan-	lagjaną		451	legen	de	37940	2654	false	*lagjan-	lagjaną
+tp	450	leggen	nl	37940	2654	false	*lagjan-	lagjaną		451	legen	de	37940	2654	false	*lagjan-	lagjaną
+tp	452	blijven	nl	28111	614	false	*līban-	bilībaną		453	bleiben	de	28111	614	false	*līban-	bilībaną
+tp	455	lead	en	38076	2664	false	*laidjan-	laidijaną		456	leiden	nl	38076	2664	false	*laidjan-	laidijaną
+tp	455	lead	en	38076	2664	false	*laidjan-	laidijaną		457	leiten	de	38076	2664	false	*laidjan-	laidijaną
+tp	455	lead	en	38076	2664	false	*laidjan-	laidijaną		464	lead	en	38076	2664	false	*lauda-	laidijaną
+tp	456	leiden	nl	38076	2664	false	*laidjan-	laidijaną		457	leiten	de	38076	2664	false	*laidjan-	laidijaną
+tp	456	leiden	nl	38076	2664	false	*laidjan-	laidijaną		464	lead	en	38076	2664	false	*lauda-	laidijaną
+tp	457	leiten	de	38076	2664	false	*laidjan-	laidijaną		464	lead	en	38076	2664	false	*lauda-	laidijaną
+tp	455	lead	en	38076	2717	false	*laidjan-	laudą		464	lead	en	38076	2717	false	*lauda-	laudą
+tp	459	lecken	de	37793	2681	false	*lakjan-	lakjaną		488	lecken	de	37793	2681	false	*likkōn-	lakjaną
+tp	459	lecken	de	37793	2786	false	*lakjan-	likkōną		486	lick	en	37793	2786	false	*likkōn-	likkōną
+tp	459	lecken	de	37793	2786	false	*lakjan-	likkōną		488	lecken	de	37793	2786	false	*likkōn-	likkōną
+tp	486	lick	en	37793	2786	false	*likkōn-	likkōną		488	lecken	de	37793	2786	false	*likkōn-	likkōną
+tp	465	lie	en	38394	2756	false	*leg(j)an-	leuganą		476	lie	en	38394	2756	false	*leugan-	leuganą
+tp	465	lie	en	38394	2781	false	*leg(j)an-	ligjaną		466	liggen	nl	38394	2781	false	*leg(j)an-	ligjaną
+tp	465	lie	en	38394	2781	false	*leg(j)an-	ligjaną		467	liegen	de	38394	2781	false	*leg(j)an-	ligjaną
+tp	465	lie	en	38394	2781	false	*leg(j)an-	ligjaną		476	lie	en	38394	2781	false	*leugan-	ligjaną
+tp	466	liggen	nl	38394	2781	false	*leg(j)an-	ligjaną		467	liegen	de	38394	2781	false	*leg(j)an-	ligjaną
+tp	466	liggen	nl	38394	2781	false	*leg(j)an-	ligjaną		476	lie	en	38394	2781	false	*leugan-	ligjaną
+tp	467	liegen	de	38394	2781	false	*leg(j)an-	ligjaną		476	lie	en	38394	2781	false	*leugan-	ligjaną
+tp	465	lie	en	38394	2831	false	*leg(j)an-	lugiz		476	lie	en	38394	2831	false	*leugan-	lugiz
+tp	469	lezen	nl	38147	2749	false	*lesan-	lesaną		470	lesen	de	38147	2749	false	*lesan-	lesaną
+tp	471	laten	nl	37541	2751	false	*lētan-	lētaną		473	let	en	37541	2751	false	*lētan-	lētaną
+tp	474	lief	nl	38271	2754	false	*leuba-	leubaz		475	lieb	de	38271	2754	false	*leuba-	leubaz
+tp	481	leben	de	37713	2779	false	*libēn-	libjaną		482	leven	nl	37713	2779	false	*libēn-	libjaną
+tp	483	liver	en	12642	2780	false	*librō-	librō		484	Leber	de	12642	2780	false	*librō-	librō
+tp	489	lekker	nl	37846	2787	false	*likkra-	likkraz		490	lecker	de	37846	2787	false	*likkra-	likkraz
+tp	499	macht	nl	13513	2870	false	*mahti-	mahtiz		500	Macht	de	13513	2870	false	*mahti-	mahtiz
+tp	501	man	en	13702	2914	false	*mannan-	mann-		502	Mann	de	13702	2914	false	*mannan-	mann-
+tp	508	mjólk	is	14130	2979	false	*mel(u)kan-	meluks		510	Milch	de	14130	2979	false	*mel(u)kan-	meluks
+tp	509	milk	en	38793	2974	false	*mel(u)kan-	melkaną		511	melken	nl	38793	2974	false	*mel(u)kan-	melkaną
+tp	512	moon	en	14340	2983	false	*mēnan-	mēnô		513	maan	nl	14340	2983	false	*mēnan-	mēnô
+tp	512	moon	en	14340	2983	false	*mēnan-	mēnô		514	Mond	de	14340	2983	false	*mēnan-	mēnô
+tp	513	maan	nl	14340	2983	false	*mēnan-	mēnô		514	Mond	de	14340	2983	false	*mēnan-	mēnô
+tp	515	month	en	14296	2984	false	*mēnōþ-	mēnōþs		516	maand	nl	14296	2984	false	*mēnōþ-	mēnōþs
+tp	515	month	en	14296	2984	false	*mēnōþ-	mēnōþs		517	Monat	de	14296	2984	false	*mēnōþ-	mēnōþs
+tp	516	maand	nl	14296	2984	false	*mēnōþ-	mēnōþs		517	Monat	de	14296	2984	false	*mēnōþ-	mēnōþs
+tp	520	Mutter	de	14678	3051	false	*mōder-	mōdēr		521	mother	en	14678	3051	false	*mōder-	mōdēr
+tp	523	moor	en	14418	3059	false	*mōra-	mōraz		524	Moor	de	14418	3059	true	*mōra-	mōraz
+tp	527	mond	nl	14608	3081	false	*munþa-	mundō		528	Mund	de	14608	3081	false	*munþa-	mundō
+tp	527	mond	nl	14608	3087	false	*munþa-	munþaz		528	Mund	de	14608	3087	false	*munþa-	munþaz
+tp	530	morgunn	is	14503	3089	false	*murge	murginaz		532	Morgen	de	14503	3089	false	*murge	murginaz
+tp	533	mouse	en	13847	3099	false	*mūs-	mūs		534	muis	nl	13847	3099	false	*mūs-	mūs
+tp	533	mouse	en	13847	3099	false	*mūs-	mūs		535	Maus	de	13847	3099	false	*mūs-	mūs
+tp	534	muis	nl	13847	3099	false	*mūs-	mūs		535	Maus	de	13847	3099	false	*mūs-	mūs
+tp	536	midge	en	14567	3069	false	*muwī-	mugjǭ		537	mug	nl	14567	3069	false	*muwī-	mugjǭ
+tp	536	midge	en	14567	3069	false	*muwī-	mugjǭ		538	Mücke	de	14567	3069	false	*muwī-	mugjǭ
+tp	537	mug	nl	14567	3069	false	*muwī-	mugjǭ		538	Mücke	de	14567	3069	false	*muwī-	mugjǭ
+tp	539	Nabel	de	14777	3104	false	*nablan-	nabalô		540	navel	en	14777	3104	false	*nablan-	nabalô
+tp	541	nail	en	14982	3110	false	*nagl-	naglaz		543	Nagel	de	14982	3110	false	*nagl-	naglaz
+tp	544	night	en	14869	3113	false	*naht-	nahts		545	nacht	nl	14869	3113	false	*naht-	nahts
+tp	544	night	en	14869	3113	false	*naht-	nahts		546	Nacht	de	14869	3113	false	*naht-	nahts
+tp	544	night	en	14869	3113	false	*naht-	nahts		547	nótt	is	14869	3113	false	*naht-	nahts
+tp	545	nacht	nl	14869	3113	false	*naht-	nahts		546	Nacht	de	14869	3113	false	*naht-	nahts
+tp	545	nacht	nl	14869	3113	false	*naht-	nahts		547	nótt	is	14869	3113	false	*naht-	nahts
+tp	546	Nacht	de	14869	3113	false	*naht-	nahts		547	nótt	is	14869	3113	false	*naht-	nahts
+tp	548	naked	en	39133	3115	false	*nakwe	nakwadaz		549	naakt	nl	39133	3115	false	*nakwe	nakwadaz
+tp	548	naked	en	39133	3115	false	*nakwe	nakwadaz		550	nackt	de	39133	3115	false	*nakwe	nakwadaz
+tp	549	naakt	nl	39133	3115	false	*nakwe	nakwadaz		550	nackt	de	39133	3115	false	*nakwe	nakwadaz
+tp	548	naked	en	39133	3117	false	*nakwe	nakwōną		549	naakt	nl	39133	3117	false	*nakwe	nakwōną
+tp	548	naked	en	39133	3117	false	*nakwe	nakwōną		550	nackt	de	39133	3117	false	*nakwe	nakwōną
+tp	549	naakt	nl	39133	3117	false	*nakwe	nakwōną		550	nackt	de	39133	3117	false	*nakwe	nakwōną
+tp	554	nose	en	15111	3199	false	*nasō-	nusō		555	neus	nl	15111	3199	false	*nasō-	nusō
+tp	557	nass	de	39276	3126	false	*nata-	nataz		558	nat	nl	39276	3126	false	*nata-	nataz
+tp	560	nevel	nl	15171	3140	false	*nebala-	nebulaz		561	Nebel	de	15171	3140	false	*nebala-	nebulaz
+tp	562	nemen	nl	39406	3149	false	*neman-	nemaną		563	nehmen	de	39406	3149	false	*neman-	nemaną
+tp	564	needle	en	14904	3166	false	*nēan-	nēþlō		565	naald	nl	14904	3166	false	*nēan-	nēþlō
+tp	564	needle	en	14904	3166	false	*nēan-	nēþlō		566	Nadel	de	14904	3166	false	*nēan-	nēþlō
+tp	565	naald	nl	14904	3166	false	*nēan-	nēþlō		566	Nadel	de	14904	3166	false	*nēan-	nēþlō
+tp	567	new	en	39483	3179	false	*neuja-	niwjaz		568	nieuw	nl	39483	3179	false	*neuja-	niwjaz
+tp	571	nest	en	15245	3155	false	*nista-	nestą		572	Nest	de	15245	3155	false	*nista-	nestą
+tp	574	Ufer	de	22082	3208	false	*ōf(e)ra-	ōferaz		575	oever	nl	22082	3208	false	*ōf(e)ra-	ōferaz
+tp	576	path	en	15953	3227	false	*paþa-	paþaz		577	pad	nl	15953	3227	false	*paþa-	paþaz
+tp	576	path	en	15953	3227	false	*paþa-	paþaz		578	Pfad	de	15953	3227	false	*paþa-	paþaz
+tp	577	pad	nl	15953	3227	false	*paþa-	paþaz		578	Pfad	de	15953	3227	false	*paþa-	paþaz
+tp	589	ruiken	nl	41485	3329	false	*reukan-	reukaną		590	riechen	de	41485	3329	false	*reukan-	reukaną
+tp	606	sea	en	13916	3413	false	sīhwan-	saiwiz		607	zee	nl	13916	3413	false	sīhwan-	saiwiz
+tp	608	See	de	19105	3413	false	sīhwan-	saiwiz		609	See	de	19105	3413	false	sīhwan-	saiwiz
+tp	611	salt	en	17473	3429	false	*salta-	saltą		612	zout	nl	17473	3429	false	*salta-	saltą
+tp	611	salt	en	17473	3429	false	*salta-	saltą		613	Salz	de	17473	3429	false	*salta-	saltą
+tp	612	zout	nl	17473	3429	false	*salta-	saltą		613	Salz	de	17473	3429	false	*salta-	saltą
+tp	611	salt	en	17473	3431	false	*salta-	saltaz		612	zout	nl	17473	3431	false	*salta-	saltaz
+tp	614	Sand	de	17547	3441	false	*samda-	samdaz		615	sand	en	17547	3441	false	*samda-	samdaz
+tp	614	Sand	de	17547	3441	false	*samda-	samdaz		616	zand	nl	17547	3441	false	*samda-	samdaz
+tp	615	sand	en	17547	3441	false	*samda-	samdaz		616	zand	nl	17547	3441	false	*samda-	samdaz
+tp	622	sink	en	50145	3548	false	*sankwjan-	sinkwaną		650	sink	en	50145	3548	false	*sinkwan-	sinkwaną
+tp	648	zinken	nl	46190	3548	false	*sinkwan-	sinkwaną		649	sinken	de	46190	3548	false	*sinkwan-	sinkwaną
+tp	623	zetten	nl	44861	3463	false	*satjan-	satjaną		624	setzen	de	44861	3463	false	*satjan-	satjaną
+tp	625	seven	en	45919	3471	false	*sebun-	sebun		626	zeven	nl	45919	3471	false	*sebun-	sebun
+tp	625	seven	en	45919	3471	false	*sebun-	sebun		627	sieben	de	45919	3471	false	*sebun-	sebun
+tp	626	zeven	nl	45919	3471	false	*sebun-	sebun		627	sieben	de	45919	3471	false	*sebun-	sebun
+tp	629	zaad	nl	17349	3475	false	*sēan-	sēdiz		630	Saat	de	17349	3475	false	*sēan-	sēdiz
+tp	631	zes	nl	44641	3481	false	*sehs	sehs		632	sechs	de	44641	3481	false	*sehs	sehs
+tp	633	zien	nl	44748	3485	false	*sehwan-	sehwaną		634	sehen	de	44748	3485	false	*sehwan-	sehwaną
+tp	633	zien	nl	44748	3485	false	*sehwan-	sehwaną		635	see	en	44748	3485	false	*sehwan-	sehwaną
+tp	633	zien	nl	44748	3485	false	*sehwan-	sehwaną		641	see	en	44748	3485	false	*sīhwan-	sehwaną
+tp	634	sehen	de	44748	3485	false	*sehwan-	sehwaną		635	see	en	44748	3485	false	*sehwan-	sehwaną
+tp	634	sehen	de	44748	3485	false	*sehwan-	sehwaną		641	see	en	44748	3485	false	*sīhwan-	sehwaną
+tp	635	see	en	44748	3485	false	*sehwan-	sehwaną		641	see	en	44748	3485	false	*sīhwan-	sehwaną
+tp	638	sit	en	46228	3556	false	*set(j)an-	sitjaną		639	zitten	nl	46228	3556	false	*set(j)an-	sitjaną
+tp	638	sit	en	46228	3556	false	*set(j)an-	sitjaną		640	sitzen	de	46228	3556	false	*set(j)an-	sitjaną
+tp	639	zitten	nl	46228	3556	false	*set(j)an-	sitjaną		640	sitzen	de	46228	3556	false	*set(j)an-	sitjaną
+tp	642	silver	en	19299	3537	false	*silubra-	silubrą		643	zilver	nl	19299	3537	false	*silubra-	silubrą
+tp	642	silver	en	19299	3537	false	*silubra-	silubrą		644	Silber	de	19299	3537	false	*silubra-	silubrą
+tp	643	zilver	nl	19299	3537	false	*silubra-	silubrą		644	Silber	de	19299	3537	false	*silubra-	silubrą
+tp	645	sing	en	46116	3545	false	*singwan-	singwaną		646	zingen	nl	46116	3545	false	*singwan-	singwaną
+tp	645	sing	en	46116	3545	false	*singwan-	singwaną		647	singen	de	46116	3545	false	*singwan-	singwaną
+tp	646	zingen	nl	46116	3545	false	*singwan-	singwaną		647	singen	de	46116	3545	false	*singwan-	singwaną
+tp	652	shadow	en	17797	3566	false	*skadu-	skadwaz		654	Schatten	de	17797	3566	false	*skadu-	skadwaz
+tp	655	scharf	de	42390	3602	false	*skarpa-	skarpaz		656	sharp	en	42390	3602	false	*skarpa-	skarpaz
+tp	655	scharf	de	42390	3602	false	*skarpa-	skarpaz		657	scherp	nl	42390	3602	true	*skarpa-	skarpaz
+tp	656	sharp	en	42390	3602	false	*skarpa-	skarpaz		657	scherp	nl	42390	3602	true	*skarpa-	skarpaz
+tp	664	schuiven	nl	42743	3631	false	*skeuban-	skeubaną		665	schieben	de	42743	3631	false	*skeuban-	skeubaną
+tp	671	shoe	en	18672	3664	false	*skōha-	skōhaz		673	Schuh	de	18672	3664	false	*skōha-	skōhaz
+tp	681	schuld	nl	18724	3680	false	*skuldi-	skuldiz		682	Schuld	de	18724	3680	false	*skuldi-	skuldiz
+tp	683	slaan	nl	42957	3699	false	*slahan-	slahaną		684	schlagen	de	42957	3699	false	*slahan-	slahaną
+tp	686	sleep	en	42939	3708	false	*slēpan-	slēpaną		687	slapen	nl	42939	3708	false	*slēpan-	slēpaną
+tp	686	sleep	en	42939	3708	false	*slēpan-	slēpaną		688	schlafen	de	42939	3708	false	*slēpan-	slēpaną
+tp	687	slapen	nl	42939	3708	false	*slēpan-	slēpaną		688	schlafen	de	42939	3708	false	*slēpan-	slēpaną
+tp	689	Schlitten	de	18119	3714	false	*slidan-	slidô		690	slee	nl	18119	3714	false	*slidan-	slidô
+tp	691	smelten	nl	43491	3740	false	*smeltan-	smeltaną		692	schmelzen	de	43491	3740	false	*smeltan-	smeltaną
+tp	693	snow	en	18453	3766	false	*snaiwa-	snaiwaz		694	sneeuw	nl	18453	3766	false	*snaiwa-	snaiwaz
+tp	693	snow	en	18453	3766	false	*snaiwa-	snaiwaz		695	Schnee	de	18453	3766	false	*snaiwa-	snaiwaz
+tp	694	sneeuw	nl	18453	3766	false	*snaiwa-	snaiwaz		695	Schnee	de	18453	3766	false	*snaiwa-	snaiwaz
+tp	697	sun	en	19497	4032	false	*sōel-	sunnǭ		698	zon	nl	19497	4032	false	*sōel-	sunnǭ
+tp	699	zoeken	nl	47710	3794	false	*sōkjan-	sōkijaną		700	suchen	de	47710	3794	false	*sōkjan-	sōkijaną
+tp	701	spade	en	19594	3804	false	*spadan-	spadô		702	Spaten	de	19594	3804	false	*spadan-	spadô
+tp	705	sprechen	de	46701	3852	false	*sprekan-	sprekaną		706	speak	en	46701	3852	false	*sprekan-	sprekaną
+tp	705	sprechen	de	46701	3852	false	*sprekan-	sprekaną		707	spreken	nl	46701	3852	false	*sprekan-	sprekaną
+tp	706	speak	en	46701	3852	false	*sprekan-	sprekaną		707	spreken	nl	46701	3852	false	*sprekan-	sprekaną
+tp	712	staff	en	20039	3867	false	*staba-	stabaz		713	staf	nl	20039	3867	false	*staba-	stabaz
+tp	712	staff	en	20039	3867	false	*staba-	stabaz		714	Stab	de	20039	3867	false	*staba-	stabaz
+tp	713	staf	nl	20039	3867	false	*staba-	stabaz		714	Stab	de	20039	3867	false	*staba-	stabaz
+tp	716	stone	en	20366	3880	false	*staina-	stainaz		717	steen	nl	20366	3880	false	*staina-	stainaz
+tp	716	stone	en	20366	3880	false	*staina-	stainaz		718	Stein	de	20366	3880	false	*staina-	stainaz
+tp	717	steen	nl	20366	3880	false	*staina-	stainaz		718	Stein	de	20366	3880	false	*staina-	stainaz
+tp	719	stang	nl	20183	3894	false	*stingan-	stangō		720	Stange	de	20183	3894	false	*stingan-	stangō
+tp	722	sterk	nl	46844	3901	false	*starka-	starkuz		723	stark	de	46844	3901	false	*starka-	starkuz
+tp	726	steken	nl	46920	3927	false	*stekan-	stikaną		727	stechen	de	46920	3927	false	*stekan-	stikaną
+tp	728	steal	en	47042	3910	false	*stelan-	stelaną		729	stelen	nl	47042	3910	false	*stelan-	stelaną
+tp	728	steal	en	47042	3910	false	*stelan-	stelaną		730	stehlen	de	47042	3910	false	*stelan-	stelaną
+tp	729	stelen	nl	47042	3910	false	*stelan-	stelaną		730	stehlen	de	47042	3910	false	*stelan-	stelaną
+tp	731	sterben	de	47227	3912	false	*sterban-	sterbaną		732	sterven	nl	47227	3912	false	*sterban-	sterbaną
+tp	735	stijgen	nl	47100	3923	false	*stīgan-	stīganą		736	steigen	de	47100	3923	false	*stīgan-	stīganą
+tp	741	stoel	nl	20921	3940	false	*stōla-	stōlaz		742	Stuhl	de	20921	3940	false	*stōla-	stōlaz
+tp	749	stok	nl	20625	3979	false	*stukka-	stukkaz		750	Stock	de	20625	3979	false	*stukka-	stukkaz
+tp	751	zomer	nl	19433	4015	false	*sumara-	sumaraz		752	summer	en	19433	4015	false	*sumara-	sumaraz
+tp	753	sound	en	36445	4020	true	*swimman-	sundą		753	sound	en	36445	4020	false	*swimman-	sundą
+tp	754	zonde	nl	21160	4023	false	*sundjō-	sundī		755	Sünde	de	21160	4023	false	*sundjō-	sundī
+tp	756	zoon	nl	19420	4034	false	*sunu-	sunuz		757	Sohn	de	19420	4034	false	*sunu-	sunuz
+tp	758	sour	en	42282	4045	false	*sūra-	sūraz		759	zuur	nl	42282	4045	false	*sūra-	sūraz
+tp	758	sour	en	42282	4045	false	*sūra-	sūraz		760	sauer	de	42282	4045	false	*sūra-	sūraz
+tp	759	zuur	nl	42282	4045	false	*sūra-	sūraz		760	sauer	de	42282	4045	false	*sūra-	sūraz
+tp	763	swan	en	18835	4063	false	*swana-	swanaz		764	zwaan	nl	18835	4063	false	*swana-	swanaz
+tp	763	swan	en	18835	4063	false	*swana-	swanaz		765	Schwan	de	18835	4063	false	*swana-	swanaz
+tp	764	zwaan	nl	18835	4063	false	*swana-	swanaz		765	Schwan	de	18835	4063	false	*swana-	swanaz
+tp	769	zwaar	nl	44478	4088	false	*swēra-	swēraz		770	schwer	de	44478	4088	false	*swēra-	swēraz
+tp	771	sister	en	19045	4097	false	*swester-	swestēr		771	sister	en	19045	4097	true	*swester-	swestēr
+tp	771	sister	en	19045	4097	false	*swester-	swestēr		772	zuster	nl	19045	4097	false	*swester-	swestēr
+tp	771	sister	en	19045	4097	false	*swester-	swestēr		773	Schwester	de	19045	4097	false	*swester-	swestēr
+tp	771	sister	en	19045	4097	true	*swester-	swestēr		772	zuster	nl	19045	4097	false	*swester-	swestēr
+tp	771	sister	en	19045	4097	true	*swester-	swestēr		773	Schwester	de	19045	4097	false	*swester-	swestēr
+tp	772	zuster	nl	19045	4097	false	*swester-	swestēr		773	Schwester	de	19045	4097	false	*swester-	swestēr
+tp	774	sweet	en	47666	4119	false	*swōtu-	swōtuz		775	zoet	nl	47666	4119	false	*swōtu-	swōtuz
+tp	774	sweet	en	47666	4119	false	*swōtu-	swōtuz		776	süß	de	47666	4119	false	*swōtu-	swōtuz
+tp	775	zoet	nl	47666	4119	false	*swōtu-	swōtuz		776	süß	de	47666	4119	false	*swōtu-	swōtuz
+tp	778	tear	en	52870	4123	false	*tagra-	tahrą		791	tear	en	52870	4123	false	*teran-	tahrą
+tp	778	tear	en	52870	4170	false	*tagra-	teraną		791	tear	en	52870	4170	false	*teran-	teraną
+tp	783	teken	nl	23827	4126	false	*taikna-	taikną		784	Zeichen	de	23827	4126	false	*taikna-	taikną
+tp	786	tand	nl	23689	4146	false	*tanþ-	tanþs		787	Zahn	de	23689	4146	false	*tanþ-	tanþs
+tp	788	ten	en	52665	4162	false	*tehun-	tehun		789	tien	nl	52665	4162	false	*tehun-	tehun
+tp	788	ten	en	52665	4162	false	*tehun-	tehun		790	zehn	de	52665	4162	false	*tehun-	tehun
+tp	789	tien	nl	52665	4162	false	*tehun-	tehun		790	zehn	de	52665	4162	false	*tehun-	tehun
+tp	793	tijd	nl	23868	4184	false	*tīdi-	tīdiz		794	Zeit	de	23868	4184	false	*tīdi-	tīdiz
+tp	801	tongue	en	23980	4255	false	*tungōn-	tungǭ		802	tong	nl	23980	4255	false	*tungōn-	tungǭ
+tp	801	tongue	en	23980	4255	false	*tungōn-	tungǭ		803	Zunge	de	23980	4255	false	*tungōn-	tungǭ
+tp	802	tong	nl	23980	4255	false	*tungōn-	tungǭ		803	Zunge	de	23980	4255	false	*tungōn-	tungǭ
+tp	805	twee	nl	53737	4267	false	*twa-	twai		806	zwei	de	53737	4267	false	*twa-	twai
+tp	807	zwölf	de	53902	4269	false	*twalifa-	twalif		808	twelve	en	53902	4269	false	*twalifa-	twalif
+tp	807	zwölf	de	53902	4269	false	*twalifa-	twalif		809	twaalf	nl	53902	4269	false	*twalifa-	twalif
+tp	808	twelve	en	53902	4269	false	*twalifa-	twalif		809	twaalf	nl	53902	4269	false	*twalifa-	twalif
+tp	811	dak	nl	3061	4770	false	*ϸaka-	þaką		812	Dach	de	3061	4770	false	*ϸaka-	þaką
+tp	814	think	en	28924	4777	false	*ϸankjan-	þankijaną		815	denken	nl	28924	4777	false	*ϸankjan-	þankijaną
+tp	814	think	en	28924	4777	false	*ϸankjan-	þankijaną		839	think	en	28924	4777	false	*þunkjan-	þankijaną
+tp	815	denken	nl	28924	4777	false	*ϸankjan-	þankijaną		839	think	en	28924	4777	false	*þunkjan-	þankijaną
+tp	814	think	en	28924	4881	false	*ϸankjan-	þunkijaną		839	think	en	28924	4881	false	*þunkjan-	þunkijaną
+tp	816	there	en	29189	4780	false	*þar	þar		817	daar	nl	29189	4780	false	*þar	þar
+tp	818	thick	en	29037	4796	false	*ϸeku-	þekuz		819	dik	nl	29037	4796	false	*ϸeku-	þekuz
+tp	818	thick	en	29037	4796	false	*ϸeku-	þekuz		820	dick	de	29037	4796	false	*ϸeku-	þekuz
+tp	819	dik	nl	29037	4796	false	*ϸeku-	þekuz		820	dick	de	29037	4796	false	*ϸeku-	þekuz
+tp	823	thigh	en	15522	4809	false	*þeuha-	þeuhą		824	dij	nl	15522	4809	false	*þeuha-	þeuhą
+tp	827	flee	en	32193	1298	false	*ϸleuhan-	fleuhaną		828	fliehen	de	32193	1298	false	*ϸleuhan-	fleuhaną
+tp	830	draaien	nl	29294	4849	false	*ϸrēan-	þrēaną		831	drehen	de	29294	4849	false	*ϸrēan-	þrēaną
+tp	832	draad	nl	4533	4850	false	*þrēdu-	þrēduz		833	thread	en	4533	4850	false	*þrēdu-	þrēduz
+tp	834	three	en	29348	4862	false	*ϸrī-	þrīz		835	drie	nl	29348	4862	false	*ϸrī-	þrīz
+tp	834	three	en	29348	4862	false	*ϸrī-	þrīz		836	drei	de	29348	4862	false	*ϸrī-	þrīz
+tp	835	drie	nl	29348	4862	false	*ϸrī-	þrīz		836	drei	de	29348	4862	false	*ϸrī-	þrīz
+tp	840	thin	en	29696	4883	false	*ϸunnu-	þunnuz		841	dun	nl	29696	4883	false	*ϸunnu-	þunnuz
+tp	840	thin	en	29696	4883	false	*ϸunnu-	þunnuz		842	dünn	de	29696	4883	false	*ϸunnu-	þunnuz
+tp	841	dun	nl	29696	4883	false	*ϸunnu-	þunnuz		842	dünn	de	29696	4883	false	*ϸunnu-	þunnuz
+tp	843	dorp	nl	3409	4893	false	*ϸurpa-	þurpą		844	Dorf	de	3409	4893	false	*ϸurpa-	þurpą
+tp	845	ofn	is	15604	4301	false	*ufna-	uhnaz		846	Ofen	de	15604	4301	false	*ufna-	uhnaz
+tp	849	onder	nl	49096	4311	false	*under-	under		850	unter	de	49096	4311	false	*under-	under
+tp	851	owl	en	4510	4356	false	*uwwilōn-	uwwalǭ		852	uil	nl	4510	4356	false	*uwwilōn-	uwwalǭ
+tp	851	owl	en	4510	4356	false	*uwwilōn-	uwwalǭ		853	Eule	de	4510	4356	false	*uwwilōn-	uwwalǭ
+tp	852	uil	nl	4510	4356	false	*uwwilōn-	uwwalǭ		853	Eule	de	4510	4356	false	*uwwilōn-	uwwalǭ
+tp	857	wekken	nl	51412	4432	false	*wakjan-	wakjaną		858	wecken	de	51412	4432	false	*wakjan-	wakjaną
+tp	863	wet	en	39287	4575	false	*watar-	wētijaną		863	wet	en	39287	4575	false	*watar-	wētijaną
+tp	869	weg	nl	22635	4529	false	*wega-	wegaz		870	Weg	de	22635	4529	false	*wega-	wegaz
+tp	875	worden	nl	51897	4562	false	*werþan-	werþaną		876	werden	de	51897	4562	false	*werþan-	werþaną
+tp	877	weather	en	22942	4526	false	*weþra-	wedrą		879	Wetter	de	22942	4526	false	*weþra-	wedrą
+tp	882	wind	en	23139	4628	false	*winda-	windaz		883	Wind	de	23139	4628	false	*winda-	windaz
+tp	886	wij	nl	52293	4666	false	*wīz-	wīz		887	wir	de	52293	4666	false	*wīz-	wīz
+tp	888	wolf	en	23280	4731	false	*wulfa-	wulfaz		889	Wolf	de	23280	4731	false	*wulfa-	wulfaz
+tp	890	wool	en	23406	4738	false	*wullō-	wullō		891	wol	nl	23406	4738	false	*wullō-	wullō
+tp	890	wool	en	23406	4738	false	*wullō-	wullō		892	Wolle	de	23406	4738	false	*wullō-	wullō
+tp	891	wol	nl	23406	4738	false	*wullō-	wullō		892	Wolle	de	23406	4738	false	*wullō-	wullō
+tp	893	wonen	nl	52488	4743	false	*wuna(n)-	wunjaną		894	wohnen	de	52488	4743	false	*wuna(n)-	wunjaną
+tp	895	wish	en	52596	4747	false	*wunska-	wunskijaną		896	wensen	nl	52596	4747	false	*wunska-	wunskijaną
+tp	895	wish	en	52596	4747	false	*wunska-	wunskijaną		897	wünschen	de	52596	4747	false	*wunska-	wunskijaną
+tp	896	wensen	nl	52596	4747	false	*wunska-	wunskijaną		897	wünschen	de	52596	4747	false	*wunska-	wunskijaną
+tp	898	word	en	23420	4749	false	*wurda-	wurdą		899	woord	nl	23420	4749	false	*wurda-	wurdą
+tp	898	word	en	23420	4749	false	*wurda-	wurdą		900	Wort	de	23420	4749	false	*wurda-	wurdą
+tp	899	woord	nl	23420	4749	false	*wurda-	wurdą		900	Wort	de	23420	4749	false	*wurda-	wurdą
+fp	1	kämmen	de	36009	2392	false		kambijaną		66	comb	en	36009	2391	false		kambaz
+fp	1	kämmen	de	36009	2392	false		kambijaną		66	comb	en	36009	2575	false		kumbaz
+fp	66	comb	en	36009	2391	false		kambaz		66	comb	en	36009	2575	false		kumbaz
+fp	66	comb	en	36009	2391	false		kambaz		2831	kamma	sv	36009	2392	false		kambijaną
+fp	66	comb	en	36009	2575	false		kumbaz		2831	kamma	sv	36009	2392	false		kambijaną
+fp	4	vilja	sv	52553	4616	false		wiljaną		4	vilja	sv	52553	4617	false		wiljô
+fp	4	vilja	sv	52553	4616	false		wiljaną		4077	wollen	de	52553	4450	false		waljaną
+fp	4	vilja	sv	52553	4616	false		wiljaną		4077	wollen	de	52553	4737	false		wullīnaz
+fp	4	vilja	sv	52553	4616	false		wiljaną		5022	willen	nl	52553	4618	false		wiljōną
+fp	4	vilja	sv	52553	4617	false		wiljô		4077	wollen	de	52553	4450	false		waljaną
+fp	4	vilja	sv	52553	4617	false		wiljô		4077	wollen	de	52553	4616	false		wiljaną
+fp	4	vilja	sv	52553	4617	false		wiljô		4077	wollen	de	52553	4737	false		wullīnaz
+fp	4	vilja	sv	52553	4617	false		wiljô		5022	willen	nl	52553	4616	false		wiljaną
+fp	4	vilja	sv	52553	4617	false		wiljô		5022	willen	nl	52553	4618	false		wiljōną
+fp	4077	wollen	de	52553	4450	false		waljaną		4077	wollen	de	52553	4616	false		wiljaną
+fp	4077	wollen	de	52553	4450	false		waljaną		4077	wollen	de	52553	4737	false		wullīnaz
+fp	4077	wollen	de	52553	4450	false		waljaną		5022	willen	nl	52553	4616	false		wiljaną
+fp	4077	wollen	de	52553	4450	false		waljaną		5022	willen	nl	52553	4618	false		wiljōną
+fp	4077	wollen	de	52553	4616	false		wiljaną		4077	wollen	de	52553	4737	false		wullīnaz
+fp	4077	wollen	de	52553	4616	false		wiljaną		5022	willen	nl	52553	4618	false		wiljōną
+fp	4077	wollen	de	52553	4737	false		wullīnaz		5022	willen	nl	52553	4616	false		wiljaną
+fp	4077	wollen	de	52553	4737	false		wullīnaz		5022	willen	nl	52553	4618	false		wiljōną
+fp	5022	willen	nl	52553	4616	false		wiljaną		5022	willen	nl	52553	4618	false		wiljōną
+fp	6	tie	en	27876	4155	false		taugijaną		6	tie	en	27876	4156	false		taugō
+fp	11	minne	sv	6438	1561	false		gaminþiją		372	minni	is	6438	3035	false		minnizô
+fp	372	minni	is	6438	1561	false		gaminþiją		372	minni	is	6438	3035	false		minnizô
+fp	13	hete	nb	9464	1821	false		haitaną		2891	hede	da	9464	1824	false		haiþī
+fp	13	hete	nb	9464	1821	false		haitaną		5284	heat	en	9464	1823	false		haitį̄
+fp	2891	hede	da	9464	1824	false		haiþī		5284	heat	en	9464	1823	false		haitį̄
+fp	20	rad	sv	16870	2096	false		hradaz		20	rad	sv	16870	3253	false		radō
+fp	21	rod	da	23656	4727	false		wrōts		5312	root	en	23656	4725	false		wrōtaną
+fp	264	rót	is	23656	4727	false		wrōts		5312	root	en	23656	4725	false		wrōtaną
+fp	5312	root	en	23656	4725	false		wrōtaną		5312	root	en	23656	4727	true		wrōts
+fp	28	ende	da	30487	311	false		andijaz		28	ende	da	30487	312	false		andijōną
+fp	28	ende	da	30487	311	false		andijaz		3950	enden	de	30487	312	false		andijōną
+fp	28	ende	da	30487	311	false		andijaz		5442	end	en	30487	312	false		andijōną
+fp	28	ende	da	30487	312	false		andijōną		5442	end	en	30487	311	false		andijaz
+fp	3950	enden	de	30487	312	false		andijōną		5442	end	en	30487	311	false		andijaz
+fp	5442	end	en	30487	311	false		andijaz		5442	end	en	30487	312	false		andijōną
+fp	30	hö	sv	9320	1934	false		hawją		1337	høy	nb	9320	1923	false		hauhaz
+fp	30	hö	sv	9320	1934	false		hawją		5363	hay	en	9320	1794	false		haguz
+fp	328	hey	is	9320	1934	false		hawją		1337	høy	nb	9320	1923	false		hauhaz
+fp	328	hey	is	9320	1934	false		hawją		5363	hay	en	9320	1794	false		haguz
+fp	1337	høy	nb	9320	1923	false		hauhaz		1337	høy	nb	9320	1934	false		hawją
+fp	1337	høy	nb	9320	1923	false		hauhaz		2926	hø	da	9320	1934	false		hawją
+fp	1337	høy	nb	9320	1923	false		hauhaz		3478	Heu	de	9320	1934	false		hawją
+fp	1337	høy	nb	9320	1923	false		hauhaz		4420	hooi	nl	9320	1934	false		hawją
+fp	1337	høy	nb	9320	1923	false		hauhaz		5363	hay	en	9320	1794	false		haguz
+fp	1337	høy	nb	9320	1923	false		hauhaz		5363	hay	en	9320	1934	false		hawją
+fp	1337	høy	nb	9320	1934	false		hawją		5363	hay	en	9320	1794	false		haguz
+fp	2926	hø	da	9320	1934	false		hawją		5363	hay	en	9320	1794	false		haguz
+fp	3478	Heu	de	9320	1934	false		hawją		5363	hay	en	9320	1794	false		haguz
+fp	4420	hooi	nl	9320	1934	false		hawją		5363	hay	en	9320	1794	false		haguz
+fp	5363	hay	en	9320	1794	false		haguz		5363	hay	en	9320	1934	false		hawją
+fp	38	toon	nl	21662	4124	false		taihwǭ		3541	Ton	de	21662	1028	false		duniz
+fp	39	ring	en	36384	2140	false		hringaz		39	ring	en	36384	2141	false		hringijaną
+fp	39	ring	en	36384	2140	false		hringaz		886	hringja	is	36384	2141	false		hringijaną
+fp	39	ring	en	36384	2140	false		hringaz		1816	ringe	da	36384	2141	false		hringijaną
+fp	39	ring	en	36384	2140	false		hringaz		2593	ringa	sv	36384	2141	false		hringijaną
+fp	39	ring	en	36384	2140	true		hringaz		39	ring	en	36384	2141	false		hringijaną
+fp	39	ring	en	36384	2140	true		hringaz		886	hringja	is	36384	2141	false		hringijaną
+fp	39	ring	en	36384	2140	true		hringaz		1816	ringe	da	36384	2141	false		hringijaną
+fp	39	ring	en	36384	2140	true		hringaz		2593	ringa	sv	36384	2141	false		hringijaną
+fp	41	haak	nl	8539	1829	false		hakô		5486	hook	en	8539	2083	false		hōkaz
+fp	46	see	en	44748	3485	false		sehwaną		5007	zien	nl	44748	3531	false		sīhwaną
+fp	4065	sehen	de	44748	3485	false		sehwaną		5007	zien	nl	44748	3531	false		sīhwaną
+fp	5007	zien	nl	44748	3485	false		sehwaną		5007	zien	nl	44748	3531	false		sīhwaną
+fp	49	aske	da	976	378	false		askǭ		3484	Asche	de	976	379	false		askô
+fp	49	aske	da	976	378	false		askǭ		4425	as	nl	976	128	false		ahsō
+fp	334	aska	sv	976	378	false		askǭ		3484	Asche	de	976	379	false		askô
+fp	334	aska	sv	976	378	false		askǭ		4425	as	nl	976	128	false		ahsō
+fp	3484	Asche	de	976	378	false		askǭ		3484	Asche	de	976	379	false		askô
+fp	3484	Asche	de	976	378	false		askǭ		4425	as	nl	976	128	false		ahsō
+fp	3484	Asche	de	976	379	false		askô		4425	as	nl	976	128	false		ahsō
+fp	3484	Asche	de	976	379	false		askô		4425	as	nl	976	378	false		askǭ
+fp	4425	as	nl	976	128	false		ahsō		4425	as	nl	976	378	false		askǭ
+fp	51	man	en	13702	2914	false		mann-		51	man	en	13702	2918	false		mannōną
+fp	51	man	en	13702	2918	false		mannōną		342	maður	is	13702	2914	false		mann-
+fp	51	man	en	13702	2918	false		mannōną		2930	mand	da	13702	2914	false		mann-
+fp	51	man	en	13702	2918	false		mannōną		3494	Mann	de	13702	2914	false		mann-
+fp	52	hålla	sv	34254	1837	false		haldaną		68	hold	en	34254	2203	false		hulþaz
+fp	68	hold	en	34254	1837	false		haldaną		68	hold	en	34254	2203	false		hulþaz
+fp	68	hold	en	34254	2203	false		hulþaz		1020	halda	is	34254	1837	false		haldaną
+fp	68	hold	en	34254	2203	false		hulþaz		1941	holde	da	34254	1837	false		haldaną
+fp	68	hold	en	34254	2203	false		hulþaz		4112	halten	de	34254	1837	false		haldaną
+fp	68	hold	en	34254	2203	false		hulþaz		5059	houden	nl	34254	1837	false		haldaną
+fp	55	dij	nl	15522	4809	false		þeuhą		55	dij	nl	15522	4835	false		þiz
+fp	55	dij	nl	15522	4835	false		þiz		5251	thigh	en	15522	4809	false		þeuhą
+fp	58	vest	da	22912	4568	false		westrą		5462	west	en	22912	4569	false		westraz
+fp	58	vest	da	22912	4568	false		westrą		5462	west	en	22912	4569	false		westraz
+fp	451	vestur	is	22912	4568	false		westrą		5462	west	en	22912	4569	false		westraz
+fp	451	vestur	is	22912	4568	false		westrą		5462	west	en	22912	4569	false		westraz
+fp	2290	väster	sv	22912	4568	false		westrą		5462	west	en	22912	4569	false		westraz
+fp	2290	väster	sv	22912	4568	false		westrą		5462	west	en	22912	4569	false		westraz
+fp	3598	Westen	de	22912	4568	false		westrą		5462	west	en	22912	4569	false		westraz
+fp	4537	westen	nl	22912	4568	false		westrą		5462	west	en	22912	4569	false		westraz
+fp	5462	west	en	22912	4568	false		westrą		5462	west	en	22912	4569	false		westraz
+fp	5462	west	en	22912	4568	false		westrą		5462	west	en	22912	4569	false		westraz
+fp	60	kost	da	1762	2609	false		kustuz		60	kost	da	1762	2623	false		kwastuz
+fp	70	hang	en	34331	1871	false		hangijaną		70	hang	en	34331	1873	false		hanhaną
+fp	70	hang	en	34331	1871	false		hangijaną		844	hanga	is	34331	1873	false		hanhaną
+fp	70	hang	en	34331	1871	false		hangijaną		4875	hangen	nl	34331	1873	false		hanhaną
+fp	70	hang	en	34331	1873	false		hanhaną		844	hanga	is	34331	1871	false		hangijaną
+fp	70	hang	en	34331	1873	false		hanhaną		3946	hängen	de	34331	1871	false		hangijaną
+fp	70	hang	en	34331	1873	false		hanhaną		4875	hangen	nl	34331	1871	false		hangijaną
+fp	844	hanga	is	34331	1871	false		hangijaną		844	hanga	is	34331	1873	false		hanhaną
+fp	844	hanga	is	34331	1871	false		hangijaną		4875	hangen	nl	34331	1873	false		hanhaną
+fp	844	hanga	is	34331	1873	false		hanhaną		3946	hängen	de	34331	1871	false		hangijaną
+fp	844	hanga	is	34331	1873	false		hanhaną		4875	hangen	nl	34331	1871	false		hangijaną
+fp	3946	hängen	de	34331	1871	false		hangijaną		4875	hangen	nl	34331	1873	false		hanhaną
+fp	4875	hangen	nl	34331	1871	false		hangijaną		4875	hangen	nl	34331	1873	false		hanhaną
+fp	74	ár	is	10088	181	false		airi		74	ár	is	10088	189	false		airō
+fp	74	ár	is	10088	181	false		airi		74	ár	is	10088	2356	false		jērą
+fp	74	ár	is	10088	189	false		airō		74	ár	is	10088	2356	false		jērą
+fp	78	le	da	37354	2004	false		hlahjaną		78	le	da	37354	2773	false		lewô
+fp	84	mond	nl	14608	3081	false		mundō		84	mond	nl	14608	3087	false		munþaz
+fp	84	mond	nl	14608	3081	false		mundō		102	mund	da	14608	3087	false		munþaz
+fp	84	mond	nl	14608	3081	false		mundō		152	munnur	is	14608	3087	false		munþaz
+fp	84	mond	nl	14608	3081	false		mundō		3306	Mund	de	14608	3087	false		munþaz
+fp	84	mond	nl	14608	3087	false		munþaz		3306	Mund	de	14608	3081	false		mundō
+fp	102	mund	da	14608	3087	false		munþaz		3306	Mund	de	14608	3081	false		mundō
+fp	152	munnur	is	14608	3087	false		munþaz		3306	Mund	de	14608	3081	false		mundō
+fp	3306	Mund	de	14608	3081	false		mundō		3306	Mund	de	14608	3087	false		munþaz
+fp	85	herd	en	35611	1958	false		herdō		85	herd	en	35611	1991	false		hirdijaz
+fp	85	herd	en	35611	1958	false		herdō		4214	hüten	de	35611	2080	false		hōdijaną
+fp	85	herd	en	35611	1991	false		hirdijaz		4214	hüten	de	35611	2080	false		hōdijaną
+fp	88	name	en	39431	3119	false		namô		5197	noemen	nl	39431	3186	false		nōmijaną
+fp	90	bes	nl	1618	513	false		basją		322	ber	is	1618	539	false		bazaz
+fp	90	bes	nl	1618	513	false		basją		322	ber	is	1618	540	false		bazją
+fp	90	bes	nl	1618	513	false		basją		1332	bær	da	1618	540	false		bazją
+fp	90	bes	nl	1618	513	false		basją		2203	bär	sv	1618	540	false		bazją
+fp	90	bes	nl	1618	513	false		basją		3472	Beere	de	1618	540	false		bazją
+fp	90	bes	nl	1618	513	false		basją		5358	berry	en	1618	502	false		barjaną
+fp	90	bes	nl	1618	513	false		basją		5358	berry	en	1618	540	false		bazją
+fp	90	bes	nl	1618	513	false		basją		5358	berry	en	1618	561	false		bergaz
+fp	322	ber	is	1618	539	false		bazaz		322	ber	is	1618	540	false		bazją
+fp	322	ber	is	1618	539	false		bazaz		1332	bær	da	1618	540	false		bazją
+fp	322	ber	is	1618	539	false		bazaz		2203	bär	sv	1618	540	false		bazją
+fp	322	ber	is	1618	539	false		bazaz		3472	Beere	de	1618	540	false		bazją
+fp	322	ber	is	1618	539	false		bazaz		5358	berry	en	1618	502	false		barjaną
+fp	322	ber	is	1618	539	false		bazaz		5358	berry	en	1618	540	false		bazją
+fp	322	ber	is	1618	539	false		bazaz		5358	berry	en	1618	561	false		bergaz
+fp	322	ber	is	1618	540	false		bazją		5358	berry	en	1618	502	false		barjaną
+fp	322	ber	is	1618	540	false		bazją		5358	berry	en	1618	561	false		bergaz
+fp	1332	bær	da	1618	540	false		bazją		5358	berry	en	1618	502	false		barjaną
+fp	1332	bær	da	1618	540	false		bazją		5358	berry	en	1618	561	false		bergaz
+fp	2203	bär	sv	1618	540	false		bazją		5358	berry	en	1618	502	false		barjaną
+fp	2203	bär	sv	1618	540	false		bazją		5358	berry	en	1618	561	false		bergaz
+fp	3472	Beere	de	1618	540	false		bazją		5358	berry	en	1618	502	false		barjaną
+fp	3472	Beere	de	1618	540	false		bazją		5358	berry	en	1618	561	false		bergaz
+fp	5358	berry	en	1618	502	false		barjaną		5358	berry	en	1618	540	false		bazją
+fp	5358	berry	en	1618	502	false		barjaną		5358	berry	en	1618	561	false		bergaz
+fp	5358	berry	en	1618	540	false		bazją		5358	berry	en	1618	561	false		bergaz
+fp	92	sy	da	39227	3559	false		siwjaną		5972	sew	en	39227	3467	false		sawwą
+fp	5972	sew	en	39227	3467	false		sawwą		5972	sew	en	39227	3559	false		siwjaną
+fp	93	bark	en	27051	503	true		barkuz		93	bark	en	27051	566	false		berkaną
+fp	95	dele	da	48051	854	false		dailijaną		2747	dela	sv	48051	857	false		dailǭ
+fp	1055	deila	is	48051	854	false		dailijaną		2747	dela	sv	48051	857	false		dailǭ
+fp	2747	dela	sv	48051	854	false		dailijaną		2747	dela	sv	48051	857	false		dailǭ
+fp	2747	dela	sv	48051	857	false		dailǭ		4144	teilen	de	48051	854	false		dailijaną
+fp	2747	dela	sv	48051	857	false		dailǭ		5093	delen	nl	48051	854	false		dailijaną
+fp	97	vise	da	52741	4648	false		wīsōną		5120	wijzen	nl	52741	4645	false		wīsijaną
+fp	2770	visa	sv	52741	4648	false		wīsōną		5120	wijzen	nl	52741	4645	false		wīsijaną
+fp	99	vit	sv	51640	2291	false		hwītaz		4718	wit	nl	51640	4660	false		witją
+fp	1635	hvit	nb	51640	2291	false		hwītaz		4718	wit	nl	51640	4660	false		witją
+fp	3063	hvid	da	51640	2291	false		hwītaz		4718	wit	nl	51640	4660	false		witją
+fp	3814	weiß	de	51640	2291	false		hwītaz		4718	wit	nl	51640	4660	false		witją
+fp	4718	wit	nl	51640	2291	false		hwītaz		4718	wit	nl	51640	4660	false		witją
+fp	4718	wit	nl	51640	4660	false		witją		5638	white	en	51640	2291	false		hwītaz
+fp	103	var	sv	52379	2253	false		hwar		103	var	sv	52379	2257	false		hwarjaz
+fp	103	var	sv	52379	2253	false		hwar		103	var	sv	52379	2268	false		hwaþeraz
+fp	103	var	sv	52379	2253	false		hwar		103	var	sv	52379	4487	false		waraz
+fp	103	var	sv	52379	2253	false		hwar		103	var	sv	52379	4500	false		warhą
+fp	103	var	sv	52379	2253	false		hwar		4646	waar	nl	52379	4550	false		wēraz
+fp	103	var	sv	52379	2257	false		hwarjaz		103	var	sv	52379	2268	false		hwaþeraz
+fp	103	var	sv	52379	2257	false		hwarjaz		103	var	sv	52379	4487	false		waraz
+fp	103	var	sv	52379	2257	false		hwarjaz		103	var	sv	52379	4500	false		warhą
+fp	103	var	sv	52379	2257	false		hwarjaz		814	hvar	is	52379	2253	false		hwar
+fp	103	var	sv	52379	2257	false		hwarjaz		4646	waar	nl	52379	2253	false		hwar
+fp	103	var	sv	52379	2257	false		hwarjaz		4646	waar	nl	52379	4550	false		wēraz
+fp	103	var	sv	52379	2268	false		hwaþeraz		103	var	sv	52379	4487	false		waraz
+fp	103	var	sv	52379	2268	false		hwaþeraz		103	var	sv	52379	4500	false		warhą
+fp	103	var	sv	52379	2268	false		hwaþeraz		814	hvar	is	52379	2253	false		hwar
+fp	103	var	sv	52379	2268	false		hwaþeraz		4646	waar	nl	52379	2253	false		hwar
+fp	103	var	sv	52379	2268	false		hwaþeraz		4646	waar	nl	52379	4550	false		wēraz
+fp	103	var	sv	52379	4487	false		waraz		103	var	sv	52379	4500	false		warhą
+fp	103	var	sv	52379	4487	false		waraz		814	hvar	is	52379	2253	false		hwar
+fp	103	var	sv	52379	4487	false		waraz		4646	waar	nl	52379	2253	false		hwar
+fp	103	var	sv	52379	4487	false		waraz		4646	waar	nl	52379	4550	false		wēraz
+fp	103	var	sv	52379	4500	false		warhą		814	hvar	is	52379	2253	false		hwar
+fp	103	var	sv	52379	4500	false		warhą		4646	waar	nl	52379	2253	false		hwar
+fp	103	var	sv	52379	4500	false		warhą		4646	waar	nl	52379	4550	false		wēraz
+fp	814	hvar	is	52379	2253	false		hwar		4646	waar	nl	52379	4550	false		wēraz
+fp	4646	waar	nl	52379	2253	false		hwar		4646	waar	nl	52379	4550	false		wēraz
+fp	108	baka	sv	26259	465	false		bakaną		4224	backen	de	26259	468	false		bakkōną
+fp	2043	bake	en	26259	465	false		bakaną		4224	backen	de	26259	468	false		bakkōną
+fp	3271	bage	da	26259	465	false		bakaną		4224	backen	de	26259	468	false		bakkōną
+fp	4224	backen	de	26259	465	false		bakaną		4224	backen	de	26259	468	false		bakkōną
+fp	4224	backen	de	26259	468	false		bakkōną		5171	bakken	nl	26259	465	false		bakaną
+fp	109	bok	sv	2643	705	false		bōkō		109	bok	sv	2643	707	false		bōks
+fp	109	bok	sv	2643	705	false		bōkō		555	bók	is	2643	707	false		bōks
+fp	109	bok	sv	2643	705	false		bōkō		3707	Buch	de	2643	707	false		bōks
+fp	109	bok	sv	2643	705	false		bōkō		4629	boek	nl	2643	707	false		bōks
+fp	109	bok	sv	2643	705	false		bōkō		5546	book	en	2643	706	false		bōkōną
+fp	109	bok	sv	2643	705	false		bōkō		5546	book	en	2643	707	false		bōks
+fp	109	bok	sv	2643	707	false		bōks		5546	book	en	2643	706	false		bōkōną
+fp	555	bók	is	2643	707	false		bōks		5546	book	en	2643	706	false		bōkōną
+fp	3707	Buch	de	2643	707	false		bōks		5546	book	en	2643	706	false		bōkōną
+fp	4629	boek	nl	2643	707	false		bōks		5546	book	en	2643	706	false		bōkōną
+fp	5546	book	en	2643	706	false		bōkōną		5546	book	en	2643	707	false		bōks
+fp	117	malen	de	38652	2973	false		mēlijaną		2084	male	da	38652	2896	false		malaną
+fp	2084	male	da	38652	2896	false		malaną		2084	male	da	38652	2973	true		mēlijaną
+fp	2084	male	da	38652	2896	false		malaną		2856	måla	sv	38652	2973	true		mēlijaną
+fp	124	roh	de	41576	2116	false		hrawaz		1627	rå	da	41576	3269	false		raihą
+fp	1627	rå	da	41576	2116	false		hrawaz		1627	rå	da	41576	3269	false		raihą
+fp	1627	rå	da	41576	3269	false		raihą		5630	raw	en	41576	2116	false		hrawaz
+fp	128	tak	nl	1026	4133	false		takkô		128	tak	nl	1026	4210	false		tōgô
+fp	136	ten	en	52665	4162	false		tehun		4859	tien	nl	52665	4189	false		tīhaną
+fp	826	tíu	is	52665	4162	false		tehun		4859	tien	nl	52665	4189	false		tīhaną
+fp	3928	zehn	de	52665	4162	false		tehun		4859	tien	nl	52665	4189	false		tīhaną
+fp	4859	tien	nl	52665	4162	false		tehun		4859	tien	nl	52665	4189	false		tīhaną
+fp	140	lente	nl	5986	2699	false		langatīnaz		140	lente	nl	5986	4200	false		tīnaz
+fp	145	kust	nl	12119	2607	false		kustiz		145	kust	nl	12119	2609	false		kustuz
+fp	146	salt	en	17473	3429	false		saltą		146	salt	en	17473	3430	false		saltaną
+fp	146	salt	en	17473	3429	false		saltą		146	salt	en	17473	3431	false		saltaz
+fp	146	salt	en	17473	3429	false		saltą		4587	zout	nl	17473	3431	false		saltaz
+fp	146	salt	en	17473	3430	false		saltaną		146	salt	en	17473	3431	false		saltaz
+fp	146	salt	en	17473	3430	false		saltaną		3658	Salz	de	17473	3429	false		saltą
+fp	146	salt	en	17473	3430	false		saltaną		4587	zout	nl	17473	3429	false		saltą
+fp	146	salt	en	17473	3430	false		saltaną		4587	zout	nl	17473	3431	false		saltaz
+fp	146	salt	en	17473	3431	false		saltaz		3658	Salz	de	17473	3429	false		saltą
+fp	146	salt	en	17473	3431	false		saltaz		4587	zout	nl	17473	3429	false		saltą
+fp	3658	Salz	de	17473	3429	false		saltą		4587	zout	nl	17473	3431	false		saltaz
+fp	4587	zout	nl	17473	3429	false		saltą		4587	zout	nl	17473	3431	false		saltaz
+fp	147	nest	en	15245	3155	false		nestą		147	nest	en	15245	3157	false		nestōną
+fp	147	nest	en	15245	3155	false		nestą		147	nest	en	15245	3174	false		nistijaną
+fp	147	nest	en	15245	3157	false		nestōną		147	nest	en	15245	3174	false		nistijaną
+fp	147	nest	en	15245	3157	false		nestōną		2179	näste	sv	15245	3155	true		nestą
+fp	147	nest	en	15245	3157	false		nestōną		3431	Nest	de	15245	3155	false		nestą
+fp	147	nest	en	15245	3174	false		nistijaną		2179	näste	sv	15245	3155	true		nestą
+fp	147	nest	en	15245	3174	false		nistijaną		3431	Nest	de	15245	3155	false		nestą
+fp	159	hár	is	8415	1923	false		hauhaz		159	hár	is	8415	1957	false		hērą
+fp	159	hár	is	8415	1923	false		hauhaz		1191	hår	da	8415	1957	false		hērą
+fp	159	hár	is	8415	1923	false		hauhaz		3313	Haar	de	8415	1939	false		hazwaz
+fp	159	hár	is	8415	1923	false		hauhaz		3313	Haar	de	8415	1957	false		hērą
+fp	159	hár	is	8415	1923	false		hauhaz		4286	haar	nl	8415	1957	false		hērą
+fp	159	hár	is	8415	1923	false		hauhaz		4286	haar	nl	8415	1974	false		hezōi
+fp	159	hár	is	8415	1923	false		hauhaz		5228	hair	en	8415	1957	false		hērą
+fp	159	hár	is	8415	1957	false		hērą		3313	Haar	de	8415	1939	false		hazwaz
+fp	159	hár	is	8415	1957	false		hērą		4286	haar	nl	8415	1974	false		hezōi
+fp	1191	hår	da	8415	1957	false		hērą		3313	Haar	de	8415	1939	false		hazwaz
+fp	1191	hår	da	8415	1957	false		hērą		4286	haar	nl	8415	1974	false		hezōi
+fp	3313	Haar	de	8415	1939	false		hazwaz		3313	Haar	de	8415	1957	false		hērą
+fp	3313	Haar	de	8415	1939	false		hazwaz		4286	haar	nl	8415	1957	false		hērą
+fp	3313	Haar	de	8415	1939	false		hazwaz		4286	haar	nl	8415	1974	false		hezōi
+fp	3313	Haar	de	8415	1939	false		hazwaz		5228	hair	en	8415	1957	false		hērą
+fp	3313	Haar	de	8415	1957	false		hērą		4286	haar	nl	8415	1974	false		hezōi
+fp	4286	haar	nl	8415	1957	false		hērą		4286	haar	nl	8415	1974	false		hezōi
+fp	4286	haar	nl	8415	1974	false		hezōi		5228	hair	en	8415	1957	false		hērą
+fp	161	skegg	is	1408	3569	false		skaggiją		161	skegg	is	1408	3570	false		skagją
+fp	161	skegg	is	1408	3569	false		skaggiją		161	skegg	is	1408	3571	false		skagriz
+fp	161	skegg	is	1408	3569	false		skaggiją		2101	skägg	sv	1408	3570	false		skagją
+fp	161	skegg	is	1408	3569	false		skaggiją		2101	skägg	sv	1408	3571	false		skagriz
+fp	161	skegg	is	1408	3569	false		skaggiją		2873	skæg	da	1408	3570	false		skagją
+fp	161	skegg	is	1408	3570	false		skagją		161	skegg	is	1408	3571	false		skagriz
+fp	161	skegg	is	1408	3570	false		skagją		2101	skägg	sv	1408	3569	false		skaggiją
+fp	161	skegg	is	1408	3570	false		skagją		2101	skägg	sv	1408	3571	false		skagriz
+fp	161	skegg	is	1408	3570	false		skagją		2873	skæg	da	1408	3569	false		skaggiją
+fp	161	skegg	is	1408	3571	false		skagriz		2101	skägg	sv	1408	3569	false		skaggiją
+fp	161	skegg	is	1408	3571	false		skagriz		2101	skägg	sv	1408	3570	false		skagją
+fp	161	skegg	is	1408	3571	false		skagriz		2873	skæg	da	1408	3569	false		skaggiją
+fp	161	skegg	is	1408	3571	false		skagriz		2873	skæg	da	1408	3570	false		skagją
+fp	2101	skägg	sv	1408	3569	false		skaggiją		2101	skägg	sv	1408	3570	false		skagją
+fp	2101	skägg	sv	1408	3569	false		skaggiją		2101	skägg	sv	1408	3571	false		skagriz
+fp	2101	skägg	sv	1408	3569	false		skaggiją		2873	skæg	da	1408	3570	false		skagją
+fp	2101	skägg	sv	1408	3570	false		skagją		2101	skägg	sv	1408	3571	false		skagriz
+fp	2101	skägg	sv	1408	3570	false		skagją		2873	skæg	da	1408	3569	false		skaggiją
+fp	2101	skägg	sv	1408	3571	false		skagriz		2873	skæg	da	1408	3569	false		skaggiją
+fp	2101	skägg	sv	1408	3571	false		skagriz		2873	skæg	da	1408	3570	false		skagją
+fp	2873	skæg	da	1408	3569	false		skaggiją		2873	skæg	da	1408	3570	false		skagją
+fp	168	hryggur	is	48271	2146	false		hriwwiz		168	hryggur	is	48271	2169	false		hrugjaz
+fp	169	kviður	is	1508	2642	false		kweþuz		169	kviður	is	1508	2643	false		kwidiz
+fp	200	hungur	is	9991	2214	false		hungruz		2121	hunger	en	9991	2213	false		hungrijaną
+fp	2121	hunger	en	9991	2213	false		hungrijaną		2121	hunger	en	9991	2214	false		hungruz
+fp	2121	hunger	en	9991	2213	false		hungrijaną		3352	Hunger	de	9991	2214	false		hungruz
+fp	2121	hunger	en	9991	2213	false		hungrijaną		4314	honger	nl	9991	2214	false		hungruz
+fp	205	draumur	is	21860	968	false		draumaz		5267	dream	en	21860	969	false		draumijaną
+fp	1230	drøm	da	21860	968	false		draumaz		5267	dream	en	21860	969	false		draumijaną
+fp	2124	dröm	sv	21860	968	false		draumaz		5267	dream	en	21860	969	false		draumijaną
+fp	3357	Traum	de	21860	968	false		draumaz		5267	dream	en	21860	969	false		draumijaną
+fp	4319	droom	nl	21860	968	false		draumaz		5267	dream	en	21860	969	false		draumijaną
+fp	5267	dream	en	21860	968	false		draumaz		5267	dream	en	21860	969	false		draumijaną
+fp	206	himinn	is	9448	1984	false		himinaz		1231	himmel	da	9448	1983	true		himilaz
+fp	206	himinn	is	9448	1984	false		himinaz		3358	Himmel	de	9448	1983	false		himilaz
+fp	206	himinn	is	9448	1984	false		himinaz		4320	hemel	nl	9448	1983	false		himilaz
+fp	210	vindur	is	23139	4628	false		windaz		4324	wind	en	23139	4627	false		windaną
+fp	1235	vind	da	23139	4628	false		windaz		4324	wind	en	23139	4627	false		windaną
+fp	3363	Wind	de	23139	4628	false		windaz		4324	wind	en	23139	4627	false		windaną
+fp	4324	wind	en	23139	4627	false		windaną		4324	wind	en	23139	4628	false		windaz
+fp	219	reykur	is	16457	3294	false		raukiz		2131	rök	sv	16457	2115	false		hraukaz
+fp	219	reykur	is	16457	3294	false		raukiz		2887	røg	da	16457	2115	false		hraukaz
+fp	219	reykur	is	16457	3294	false		raukiz		4329	rook	nl	16457	2115	false		hraukaz
+fp	1242	røyk	nb	16457	3294	false		raukiz		2131	rök	sv	16457	2115	false		hraukaz
+fp	1242	røyk	nb	16457	3294	false		raukiz		2887	røg	da	16457	2115	false		hraukaz
+fp	1242	røyk	nb	16457	3294	false		raukiz		4329	rook	nl	16457	2115	false		hraukaz
+fp	2131	rök	sv	16457	2115	false		hraukaz		2131	rök	sv	16457	3294	false		raukiz
+fp	2131	rök	sv	16457	2115	false		hraukaz		2887	røg	da	16457	3294	false		raukiz
+fp	2131	rök	sv	16457	2115	false		hraukaz		4329	rook	nl	16457	3294	false		raukiz
+fp	2131	rök	sv	16457	3294	false		raukiz		2887	røg	da	16457	2115	false		hraukaz
+fp	2131	rök	sv	16457	3294	false		raukiz		4329	rook	nl	16457	2115	false		hraukaz
+fp	2887	røg	da	16457	2115	false		hraukaz		2887	røg	da	16457	3294	false		raukiz
+fp	2887	røg	da	16457	2115	false		hraukaz		4329	rook	nl	16457	3294	false		raukiz
+fp	2887	røg	da	16457	3294	false		raukiz		4329	rook	nl	16457	2115	false		hraukaz
+fp	4329	rook	nl	16457	2115	false		hraukaz		4329	rook	nl	16457	3294	false		raukiz
+fp	222	ljós	is	13057	2759	false		leuhsą		222	ljós	is	13057	2760	false		leuhsaz
+fp	224	veður	is	22942	4526	false		wedrą		224	veður	is	22942	4580	false		weþruz
+fp	224	veður	is	22942	4526	false		wedrą		1247	vær	nb	22942	4580	false		weþruz
+fp	224	veður	is	22942	4580	false		weþruz		1247	vær	nb	22942	4526	false		wedrą
+fp	224	veður	is	22942	4580	false		weþruz		2136	väder	sv	22942	4526	false		wedrą
+fp	224	veður	is	22942	4580	false		weþruz		2888	vejr	da	22942	4526	false		wedrą
+fp	224	veður	is	22942	4580	false		weþruz		3375	Wetter	de	22942	4526	false		wedrą
+fp	224	veður	is	22942	4580	false		weþruz		5279	weather	en	22942	4526	false		wedrą
+fp	1247	vær	nb	22942	4526	false		wedrą		1247	vær	nb	22942	4580	false		weþruz
+fp	1247	vær	nb	22942	4580	false		weþruz		2136	väder	sv	22942	4526	false		wedrą
+fp	1247	vær	nb	22942	4580	false		weþruz		2888	vejr	da	22942	4526	false		wedrą
+fp	1247	vær	nb	22942	4580	false		weþruz		3375	Wetter	de	22942	4526	false		wedrą
+fp	1247	vær	nb	22942	4580	false		weþruz		5279	weather	en	22942	4526	false		wedrą
+fp	230	frost	en	5950	1425	false		frustaz		4341	vorst	nl	5950	1268	false		firstiz
+fp	230	frost	en	5950	1425	false		frustaz		4341	vorst	nl	5950	1466	false		furhiþą
+fp	230	frost	en	5950	1425	false		frustaz		4341	vorst	nl	5950	1481	false		furistaz
+fp	4341	vorst	nl	5950	1268	false		firstiz		4341	vorst	nl	5950	1425	false		frustaz
+fp	4341	vorst	nl	5950	1268	false		firstiz		4341	vorst	nl	5950	1466	false		furhiþą
+fp	4341	vorst	nl	5950	1268	false		firstiz		4341	vorst	nl	5950	1481	false		furistaz
+fp	4341	vorst	nl	5950	1425	false		frustaz		4341	vorst	nl	5950	1466	false		furhiþą
+fp	4341	vorst	nl	5950	1425	false		frustaz		4341	vorst	nl	5950	1481	false		furistaz
+fp	4341	vorst	nl	5950	1466	false		furhiþą		4341	vorst	nl	5950	1481	false		furistaz
+fp	241	mýri	is	14418	3045	false		miuzijō		3393	Moor	de	14418	3059	true		mōraz
+fp	241	mýri	is	14418	3045	false		miuzijō		5294	moor	en	14418	3059	false		mōraz
+fp	1263	myr	sv	14418	3045	false		miuzijō		3393	Moor	de	14418	3059	true		mōraz
+fp	1263	myr	sv	14418	3045	false		miuzijō		5294	moor	en	14418	3059	false		mōraz
+fp	244	hæð	is	9555	1926	false		hauhiþō		3583	Höhe	de	9555	1924	false		hauhį̄
+fp	2153	höjd	sv	9555	1926	false		hauhiþō		3583	Höhe	de	9555	1924	false		hauhį̄
+fp	3583	Höhe	de	9555	1924	false		hauhį̄		4356	hoogte	nl	9555	1926	false		hauhiþō
+fp	3583	Höhe	de	9555	1924	false		hauhį̄		5448	height	en	9555	1926	false		hauhiþō
+fp	246	fell	is	1714	1215	false		fellą		247	fjall	is	1714	1153	false		falisaz
+fp	246	fell	is	1714	1215	false		fellą		2156	fjäll	sv	1714	1153	false		falisaz
+fp	247	fjall	is	1714	1153	false		falisaz		2156	fjäll	sv	1714	1215	false		fellą
+fp	2156	fjäll	sv	1714	1153	false		falisaz		2156	fjäll	sv	1714	1215	false		fellą
+fp	254	á	is	5661	136	false		ahwō		254	á	is	5661	283	false		an
+fp	263	blóm	is	2063	681	false		blōmô		1282	blomst	da	2063	685	false		blōstmô
+fp	263	blóm	is	2063	681	false		blōmô		2167	blomster	sv	2063	685	false		blōstmô
+fp	1282	blomst	da	2063	685	false		blōstmô		3411	Blume	de	2063	681	false		blōmô
+fp	1282	blomst	da	2063	685	false		blōstmô		4367	bloem	nl	2063	681	false		blōmô
+fp	2167	blomster	sv	2063	685	false		blōstmô		3411	Blume	de	2063	681	false		blōmô
+fp	2167	blomster	sv	2063	685	false		blōstmô		4367	bloem	nl	2063	681	false		blōmô
+fp	275	horn	en	9717	2225	false		hurną		4374	hoorn	nl	9717	2231	false		hurznutō
+fp	3423	Horn	de	9717	2225	false		hurną		4374	hoorn	nl	9717	2231	false		hurznutō
+fp	4374	hoorn	nl	9717	2225	false		hurną		4374	hoorn	nl	9717	2231	false		hurznutō
+fp	276	fjöður	is	4811	1241	false		feþrō		4375	veer	nl	4811	1178	false		farjǭ
+fp	1294	fjær	nb	4811	1241	false		feþrō		4375	veer	nl	4811	1178	false		farjǭ
+fp	2173	fjäder	sv	4811	1241	false		feþrō		4375	veer	nl	4811	1178	false		farjǭ
+fp	2909	fjer	da	4811	1241	false		feþrō		4375	veer	nl	4811	1178	false		farjǭ
+fp	3424	Feder	de	4811	1241	false		feþrō		4375	veer	nl	4811	1178	false		farjǭ
+fp	4375	veer	nl	4811	1178	false		farjǭ		4375	veer	nl	4811	1241	false		feþrō
+fp	4375	veer	nl	4811	1178	false		farjǭ		5322	feather	en	4811	1241	false		feþrō
+fp	278	kló	is	11727	2472	false		klawō		5325	claw	en	11727	2471	false		klawjaną
+fp	1297	klo	da	11727	2472	false		klawō		5325	claw	en	11727	2471	false		klawjaną
+fp	5325	claw	en	11727	2471	false		klawjaną		5325	claw	en	11727	2472	false		klawō
+fp	284	dýr	is	48097	916	false		deuzą		284	dýr	is	48097	939	false		diurijaz
+fp	289	svín	is	18975	4109	false		swīną		3439	Schwein	de	18975	4052	false		swainaz
+fp	2185	svin	sv	18975	4109	false		swīną		3439	Schwein	de	18975	4052	false		swainaz
+fp	3439	Schwein	de	18975	4052	false		swainaz		3439	Schwein	de	18975	4109	false		swīną
+fp	290	hundur	is	9949	2211	false		hundaz		4386	hond	nl	9949	2209	false		hundą
+fp	1303	hund	da	9949	2211	false		hundaz		4386	hond	nl	9949	2209	false		hundą
+fp	3440	Hund	de	9949	2211	false		hundaz		4386	hond	nl	9949	2209	false		hundą
+fp	4386	hond	nl	9949	2209	false		hundą		4386	hond	nl	9949	2211	false		hundaz
+fp	294	elgur	is	3926	252	false		algiz		3444	Elch	de	3926	1072	false		elhaz
+fp	294	elgur	is	3926	252	false		algiz		5336	elk	en	3926	1072	false		elhaz
+fp	2187	älg	sv	3926	252	false		algiz		3444	Elch	de	3926	1072	false		elhaz
+fp	2187	älg	sv	3926	252	false		algiz		5336	elk	en	3926	1072	false		elhaz
+fp	302	gæs	is	6345	1577	false		gans		4398	gans	nl	6345	1578	true		gantaz
+fp	1314	gås	da	6345	1577	false		gans		4398	gans	nl	6345	1578	true		gantaz
+fp	3453	Gans	de	6345	1577	false		gans		4398	gans	nl	6345	1578	true		gantaz
+fp	4398	gans	nl	6345	1577	false		gans		4398	gans	nl	6345	1578	true		gantaz
+fp	4398	gans	nl	6345	1578	true		gantaz		5343	goose	en	6345	1577	false		gans
+fp	318	mý	is	14567	3070	false		mują		2201	mygga	sv	14567	3069	true		mugjǭ
+fp	318	mý	is	14567	3070	false		mują		2923	myg	da	14567	3069	true		mugjǭ
+fp	318	mý	is	14567	3070	false		mują		3469	Mücke	de	14567	3069	false		mugjǭ
+fp	318	mý	is	14567	3070	false		mują		4413	mug	nl	14567	3069	false		mugjǭ
+fp	318	mý	is	14567	3070	false		mują		5356	midge	en	14567	3069	false		mugjǭ
+fp	320	fluga	sv	5544	1309	false		flugǭ		3470	Fliege	de	5544	1297	false		fleugǭ
+fp	320	fluga	sv	5544	1309	false		flugǭ		4414	vlieg	nl	5544	1297	false		fleugǭ
+fp	1330	flue	da	5544	1309	false		flugǭ		3470	Fliege	de	5544	1297	false		fleugǭ
+fp	1330	flue	da	5544	1309	false		flugǭ		4414	vlieg	nl	5544	1297	false		fleugǭ
+fp	323	epli	is	563	347	false		apalją		3473	Apfel	de	563	348	false		aplaz
+fp	323	epli	is	563	347	false		apalją		5359	apple	en	563	348	false		aplaz
+fp	2204	äpple	sv	563	347	false		apalją		3473	Apfel	de	563	348	false		aplaz
+fp	2204	äpple	sv	563	347	false		apalją		5359	apple	en	563	348	false		aplaz
+fp	2924	æble	da	563	347	false		apalją		3473	Apfel	de	563	348	false		aplaz
+fp	2924	æble	da	563	347	false		apalją		5359	apple	en	563	348	false		aplaz
+fp	333	spor	da	19942	3862	false		spurą		4424	spoor	nl	19942	3866	false		spurô
+fp	2209	spår	sv	19942	3862	false		spurą		4424	spoor	nl	19942	3866	false		spurô
+fp	3483	Spur	de	19942	3862	false		spurą		4424	spoor	nl	19942	3866	false		spurô
+fp	4424	spoor	nl	19942	3862	false		spurą		4424	spoor	nl	19942	3866	false		spurô
+fp	341	sandur	is	17547	3441	false		samdaz		1348	sand	en	17547	3449	false		sandō
+fp	1348	sand	en	17547	3441	false		samdaz		1348	sand	en	17547	3449	false		sandō
+fp	1348	sand	en	17547	3449	false		sandō		3492	Sand	de	17547	3441	false		samdaz
+fp	1348	sand	en	17547	3449	false		sandō		4432	zand	nl	17547	3441	false		samdaz
+fp	351	afi	is	8215	85	false		abô		351	afi	is	8215	434	false		awô
+fp	382	mál	is	17402	2956	false		maþlą		382	mál	is	17402	2970	false		mēlą
+fp	391	ljóð	is	13080	2768	false		leuþą		3542	Lied	de	13080	2817	false		liþuz
+fp	3542	Lied	de	13080	2768	false		leuþą		3542	Lied	de	13080	2817	false		liþuz
+fp	3542	Lied	de	13080	2817	false		liþuz		4480	lied	nl	13080	2768	false		leuþą
+fp	416	lína	is	13138	2799	false		līnǭ		1519	line	en	13138	2790	false		līną
+fp	1519	line	en	13138	2790	false		līną		1519	line	en	13138	2799	false		līnǭ
+fp	424	miðja	is	14208	3009	false		midjǭ		3570	Mitte	de	14208	3000	false		midi
+fp	424	miðja	is	14208	3009	false		midjǭ		3570	Mitte	de	14208	3000	false		midi
+fp	424	miðja	is	14208	3009	false		midjǭ		3570	Mitte	de	14208	3008	false		midjaz
+fp	424	miðja	is	14208	3009	false		midjǭ		4511	midden	nl	14208	3000	false		midi
+fp	424	miðja	is	14208	3009	false		midjǭ		4511	midden	nl	14208	3000	false		midi
+fp	424	miðja	is	14208	3009	false		midjǭ		4511	midden	nl	14208	3008	false		midjaz
+fp	424	miðja	is	14208	3009	false		midjǭ		5435	middle	en	14208	3010	false		midlą
+fp	3570	Mitte	de	14208	3000	false		midi		3570	Mitte	de	14208	3008	false		midjaz
+fp	3570	Mitte	de	14208	3000	false		midi		4511	midden	nl	14208	3008	false		midjaz
+fp	3570	Mitte	de	14208	3000	false		midi		5435	middle	en	14208	3010	false		midlą
+fp	3570	Mitte	de	14208	3000	false		midi		3570	Mitte	de	14208	3008	false		midjaz
+fp	3570	Mitte	de	14208	3000	false		midi		4511	midden	nl	14208	3008	false		midjaz
+fp	3570	Mitte	de	14208	3000	false		midi		5435	middle	en	14208	3010	false		midlą
+fp	3570	Mitte	de	14208	3008	false		midjaz		4511	midden	nl	14208	3000	false		midi
+fp	3570	Mitte	de	14208	3008	false		midjaz		4511	midden	nl	14208	3000	false		midi
+fp	3570	Mitte	de	14208	3008	false		midjaz		5435	middle	en	14208	3010	false		midlą
+fp	4511	midden	nl	14208	3000	false		midi		4511	midden	nl	14208	3008	false		midjaz
+fp	4511	midden	nl	14208	3000	false		midi		5435	middle	en	14208	3010	false		midlą
+fp	4511	midden	nl	14208	3000	false		midi		4511	midden	nl	14208	3008	false		midjaz
+fp	4511	midden	nl	14208	3000	false		midi		5435	middle	en	14208	3010	false		midlą
+fp	4511	midden	nl	14208	3008	false		midjaz		5435	middle	en	14208	3010	false		midlą
+fp	434	lengd	is	12321	2703	false		langiþō		3582	Länge	de	12321	2701	false		langį̄
+fp	2278	längd	sv	12321	2703	false		langiþō		3582	Länge	de	12321	2701	false		langį̄
+fp	2966	længde	da	12321	2703	false		langiþō		3582	Länge	de	12321	2701	false		langį̄
+fp	3582	Länge	de	12321	2701	false		langį̄		4521	lengte	nl	12321	2703	false		langiþō
+fp	3582	Länge	de	12321	2701	false		langį̄		5447	length	en	12321	2703	false		langiþō
+fp	439	haugur	is	8897	1920	false		haugaz		2281	hög	sv	8897	1923	false		hauhaz
+fp	439	haugur	is	8897	1920	false		haugaz		4524	hoop	nl	8897	1931	false		haupaz
+fp	439	haugur	is	8897	1920	false		haugaz		5451	heap	en	8897	1931	false		haupaz
+fp	2281	hög	sv	8897	1920	false		haugaz		2281	hög	sv	8897	1923	false		hauhaz
+fp	2281	hög	sv	8897	1920	false		haugaz		4524	hoop	nl	8897	1931	false		haupaz
+fp	2281	hög	sv	8897	1920	false		haugaz		5451	heap	en	8897	1931	false		haupaz
+fp	2281	hög	sv	8897	1923	false		hauhaz		4524	hoop	nl	8897	1931	false		haupaz
+fp	2281	hög	sv	8897	1923	false		hauhaz		5451	heap	en	8897	1931	false		haupaz
+fp	442	sleði	is	18119	3714	false		slidô		4529	slee	nl	18119	3701	false		slaihǭ
+fp	442	sleði	is	18119	3714	false		slidô		4529	slee	nl	18119	3703	false		slaiwaz
+fp	1437	slede	nl	18119	3714	false		slidô		4529	slee	nl	18119	3701	false		slaihǭ
+fp	1437	slede	nl	18119	3714	false		slidô		4529	slee	nl	18119	3703	false		slaiwaz
+fp	2283	släde	sv	18119	3714	false		slidô		4529	slee	nl	18119	3701	false		slaihǭ
+fp	2283	släde	sv	18119	3714	false		slidô		4529	slee	nl	18119	3703	false		slaiwaz
+fp	2973	slæde	da	18119	3714	false		slidô		4529	slee	nl	18119	3701	false		slaihǭ
+fp	2973	slæde	da	18119	3714	false		slidô		4529	slee	nl	18119	3703	false		slaiwaz
+fp	3590	Schlitten	de	18119	3714	false		slidô		4529	slee	nl	18119	3701	false		slaihǭ
+fp	3590	Schlitten	de	18119	3714	false		slidô		4529	slee	nl	18119	3703	false		slaiwaz
+fp	4529	slee	nl	18119	3701	false		slaihǭ		4529	slee	nl	18119	3703	false		slaiwaz
+fp	4529	slee	nl	18119	3701	false		slaihǭ		4529	slee	nl	18119	3714	false		slidô
+fp	4529	slee	nl	18119	3701	false		slaihǭ		5455	sleigh	en	18119	3714	true		slidô
+fp	4529	slee	nl	18119	3703	false		slaiwaz		4529	slee	nl	18119	3714	false		slidô
+fp	4529	slee	nl	18119	3703	false		slaiwaz		5455	sleigh	en	18119	3714	true		slidô
+fp	445	byrði	is	12488	835	false		burþį̄		2286	börda	sv	12488	837	false		burþiz
+fp	2286	börda	sv	12488	835	false		burþį̄		2286	börda	sv	12488	837	false		burþiz
+fp	2286	börda	sv	12488	837	false		burþiz		2975	byrde	da	12488	835	false		burþį̄
+fp	449	norður	is	15377	3194	false		nurþrą		5460	north	en	15377	3195	false		nurþraz
+fp	449	norður	is	15377	3194	false		nurþrą		5460	north	en	15377	3195	false		nurþraz
+fp	2288	norr	sv	15377	3194	false		nurþrą		5460	north	en	15377	3195	false		nurþraz
+fp	2288	norr	sv	15377	3194	false		nurþrą		5460	north	en	15377	3195	false		nurþraz
+fp	5460	north	en	15377	3194	false		nurþrą		5460	north	en	15377	3195	false		nurþraz
+fp	5460	north	en	15377	3194	false		nurþrą		5460	north	en	15377	3195	false		nurþraz
+fp	450	suður	is	21053	4036	false		sunþrą		3597	Süden	de	21053	4035	true		sunþanē
+fp	450	suður	is	21053	4036	false		sunþrą		4536	zuiden	nl	21053	4035	true		sunþanē
+fp	450	suður	is	21053	4036	false		sunþrą		5461	south	en	21053	4037	false		sunþraz
+fp	1445	sør	nb	21053	4036	false		sunþrą		3597	Süden	de	21053	4035	true		sunþanē
+fp	1445	sør	nb	21053	4036	false		sunþrą		4536	zuiden	nl	21053	4035	true		sunþanē
+fp	1445	sør	nb	21053	4036	false		sunþrą		5461	south	en	21053	4037	false		sunþraz
+fp	2289	söder	sv	21053	4036	false		sunþrą		3597	Süden	de	21053	4035	true		sunþanē
+fp	2289	söder	sv	21053	4036	false		sunþrą		4536	zuiden	nl	21053	4035	true		sunþanē
+fp	2289	söder	sv	21053	4036	false		sunþrą		5461	south	en	21053	4037	false		sunþraz
+fp	2289	söder	sv	21053	4036	false		sunþrą		3597	Süden	de	21053	4035	true		sunþanē
+fp	2289	söder	sv	21053	4036	false		sunþrą		4536	zuiden	nl	21053	4035	true		sunþanē
+fp	2289	söder	sv	21053	4036	false		sunþrą		5461	south	en	21053	4037	false		sunþraz
+fp	2977	syd	da	21053	4036	false		sunþrą		3597	Süden	de	21053	4035	true		sunþanē
+fp	2977	syd	da	21053	4036	false		sunþrą		4536	zuiden	nl	21053	4035	true		sunþanē
+fp	2977	syd	da	21053	4036	false		sunþrą		5461	south	en	21053	4037	false		sunþraz
+fp	3597	Süden	de	21053	4035	true		sunþanē		5461	south	en	21053	4036	false		sunþrą
+fp	3597	Süden	de	21053	4035	true		sunþanē		5461	south	en	21053	4036	false		sunþrą
+fp	3597	Süden	de	21053	4035	true		sunþanē		5461	south	en	21053	4037	false		sunþraz
+fp	4536	zuiden	nl	21053	4035	true		sunþanē		5461	south	en	21053	4036	false		sunþrą
+fp	4536	zuiden	nl	21053	4035	true		sunþanē		5461	south	en	21053	4036	false		sunþrą
+fp	4536	zuiden	nl	21053	4035	true		sunþanē		5461	south	en	21053	4037	false		sunþraz
+fp	5461	south	en	21053	4036	false		sunþrą		5461	south	en	21053	4037	false		sunþraz
+fp	5461	south	en	21053	4036	false		sunþrą		5461	south	en	21053	4037	false		sunþraz
+fp	452	austur	is	15864	415	false		austrą		5463	east	en	15864	416	false		austraz
+fp	452	austur	is	15864	415	false		austrą		5463	east	en	15864	416	false		austraz
+fp	1446	øst	da	15864	415	false		austrą		5463	east	en	15864	416	false		austraz
+fp	1446	øst	da	15864	415	false		austrą		5463	east	en	15864	416	false		austraz
+fp	2291	öster	sv	15864	415	false		austrą		5463	east	en	15864	416	false		austraz
+fp	2291	öster	sv	15864	415	false		austrą		5463	east	en	15864	416	false		austraz
+fp	4538	oosten	nl	15864	415	false		austrą		5463	east	en	15864	416	false		austraz
+fp	5463	east	en	15864	415	false		austrą		5463	east	en	15864	416	false		austraz
+fp	5463	east	en	15864	415	false		austrą		5463	east	en	15864	416	false		austraz
+fp	453	viður	is	9657	4586	false		widuz		5464	wood	en	9657	4687	false		wōdaz
+fp	5464	wood	en	9657	4586	false		widuz		5464	wood	en	9657	4687	false		wōdaz
+fp	461	pípa	is	17092	3230	false		pīpaną		461	pípa	is	17092	3231	false		pīpǭ
+fp	461	pípa	is	17092	3230	false		pīpaną		4544	pijp	nl	17092	3231	false		pīpǭ
+fp	461	pípa	is	17092	3230	false		pīpaną		5470	pipe	en	17092	3231	false		pīpǭ
+fp	461	pípa	is	17092	3231	false		pīpǭ		5470	pipe	en	17092	3230	false		pīpaną
+fp	4544	pijp	nl	17092	3231	false		pīpǭ		5470	pipe	en	17092	3230	false		pīpaną
+fp	5470	pipe	en	17092	3230	false		pīpaną		5470	pipe	en	17092	3231	false		pīpǭ
+fp	469	hvíla	is	1826	2280	false		hwīlāną		469	hvíla	is	1826	2282	false		hwīlō
+fp	473	dyr	da	48104	916	false		deuzą		473	dyr	da	48104	939	false		diurijaz
+fp	473	dyr	da	48104	916	false		deuzą		3818	teuer	de	48104	939	false		diurijaz
+fp	473	dyr	da	48104	916	false		deuzą		4726	duur	nl	48104	939	false		diurijaz
+fp	473	dyr	da	48104	916	false		deuzą		4726	duur	nl	48104	4811	false		þeuraz
+fp	473	dyr	da	48104	939	false		diurijaz		4726	duur	nl	48104	4811	false		þeuraz
+fp	3818	teuer	de	48104	939	false		diurijaz		4726	duur	nl	48104	4811	false		þeuraz
+fp	4726	duur	nl	48104	939	false		diurijaz		4726	duur	nl	48104	4811	false		þeuraz
+fp	484	hnífur	is	14088	2495	true		knībaz		5485	knife	en	14088	2496	true		knīfą
+fp	5485	knife	en	14088	2495	false		knībaz		5485	knife	en	14088	2496	true		knīfą
+fp	495	bolli	is	21413	812	false		bullǭ		495	bolli	is	21413	813	false		bullô
+fp	499	fæða	is	15018	1320	false		fōdijaną		499	fæða	is	15018	1322	false		fōdô
+fp	499	fæða	is	15018	1320	false		fōdijaną		5499	food	en	15018	1322	false		fōdô
+fp	508	súpa	is	21165	4041	false		sūpaną		508	súpa	is	21165	4042	true		supô
+fp	508	súpa	is	21165	4041	false		sūpaną		1497	suppe	da	21165	4042	true		supô
+fp	508	súpa	is	21165	4041	false		sūpaną		2343	soppa	sv	21165	4042	true		supô
+fp	508	súpa	is	21165	4041	false		sūpaną		3659	Suppe	de	21165	4042	true		supô
+fp	508	súpa	is	21165	4041	false		sūpaną		3659	Suppe	de	21165	4043	false		suppǭ
+fp	508	súpa	is	21165	4041	false		sūpaną		4588	soep	nl	21165	4042	true		supô
+fp	508	súpa	is	21165	4041	false		sūpaną		4588	soep	nl	21165	4043	true		suppǭ
+fp	508	súpa	is	21165	4041	false		sūpaną		5508	soup	en	21165	4042	true		supô
+fp	508	súpa	is	21165	4041	false		sūpaną		5508	soup	en	21165	4043	true		suppǭ
+fp	508	súpa	is	21165	4042	true		supô		1497	suppe	da	21165	4041	false		sūpaną
+fp	508	súpa	is	21165	4042	true		supô		3659	Suppe	de	21165	4043	false		suppǭ
+fp	508	súpa	is	21165	4042	true		supô		4588	soep	nl	21165	4043	true		suppǭ
+fp	508	súpa	is	21165	4042	true		supô		5508	soup	en	21165	4041	false		sūpaną
+fp	508	súpa	is	21165	4042	true		supô		5508	soup	en	21165	4043	true		suppǭ
+fp	1497	suppe	da	21165	4041	false		sūpaną		1497	suppe	da	21165	4042	true		supô
+fp	1497	suppe	da	21165	4041	false		sūpaną		2343	soppa	sv	21165	4042	true		supô
+fp	1497	suppe	da	21165	4041	false		sūpaną		3659	Suppe	de	21165	4042	true		supô
+fp	1497	suppe	da	21165	4041	false		sūpaną		3659	Suppe	de	21165	4043	false		suppǭ
+fp	1497	suppe	da	21165	4041	false		sūpaną		4588	soep	nl	21165	4042	true		supô
+fp	1497	suppe	da	21165	4041	false		sūpaną		4588	soep	nl	21165	4043	true		suppǭ
+fp	1497	suppe	da	21165	4041	false		sūpaną		5508	soup	en	21165	4042	true		supô
+fp	1497	suppe	da	21165	4041	false		sūpaną		5508	soup	en	21165	4043	true		suppǭ
+fp	1497	suppe	da	21165	4042	true		supô		3659	Suppe	de	21165	4043	false		suppǭ
+fp	1497	suppe	da	21165	4042	true		supô		4588	soep	nl	21165	4043	true		suppǭ
+fp	1497	suppe	da	21165	4042	true		supô		5508	soup	en	21165	4041	false		sūpaną
+fp	1497	suppe	da	21165	4042	true		supô		5508	soup	en	21165	4043	true		suppǭ
+fp	2343	soppa	sv	21165	4042	true		supô		3659	Suppe	de	21165	4043	false		suppǭ
+fp	2343	soppa	sv	21165	4042	true		supô		4588	soep	nl	21165	4043	true		suppǭ
+fp	2343	soppa	sv	21165	4042	true		supô		5508	soup	en	21165	4041	false		sūpaną
+fp	2343	soppa	sv	21165	4042	true		supô		5508	soup	en	21165	4043	true		suppǭ
+fp	3659	Suppe	de	21165	4042	true		supô		3659	Suppe	de	21165	4043	false		suppǭ
+fp	3659	Suppe	de	21165	4042	true		supô		4588	soep	nl	21165	4043	true		suppǭ
+fp	3659	Suppe	de	21165	4042	true		supô		5508	soup	en	21165	4041	false		sūpaną
+fp	3659	Suppe	de	21165	4042	true		supô		5508	soup	en	21165	4043	true		suppǭ
+fp	3659	Suppe	de	21165	4043	false		suppǭ		4588	soep	nl	21165	4042	true		supô
+fp	3659	Suppe	de	21165	4043	false		suppǭ		5508	soup	en	21165	4041	false		sūpaną
+fp	3659	Suppe	de	21165	4043	false		suppǭ		5508	soup	en	21165	4042	true		supô
+fp	4588	soep	nl	21165	4042	true		supô		4588	soep	nl	21165	4043	true		suppǭ
+fp	4588	soep	nl	21165	4042	true		supô		5508	soup	en	21165	4041	false		sūpaną
+fp	4588	soep	nl	21165	4042	true		supô		5508	soup	en	21165	4043	true		suppǭ
+fp	4588	soep	nl	21165	4043	true		suppǭ		5508	soup	en	21165	4041	false		sūpaną
+fp	4588	soep	nl	21165	4043	true		suppǭ		5508	soup	en	21165	4042	true		supô
+fp	5508	soup	en	21165	4041	false		sūpaną		5508	soup	en	21165	4042	true		supô
+fp	5508	soup	en	21165	4041	false		sūpaną		5508	soup	en	21165	4043	true		suppǭ
+fp	5508	soup	en	21165	4042	true		supô		5508	soup	en	21165	4043	true		suppǭ
+fp	509	hunang	is	9690	2207	false		hunangą		3660	Honig	de	9690	2205	false		hunagą
+fp	509	hunang	is	9690	2207	false		hunangą		5509	honey	en	9690	2205	false		hunagą
+fp	1498	honning	da	9690	2207	false		hunangą		3660	Honig	de	9690	2205	false		hunagą
+fp	1498	honning	da	9690	2207	false		hunangą		5509	honey	en	9690	2205	false		hunagą
+fp	2344	honung	sv	9690	2207	false		hunangą		3660	Honig	de	9690	2205	false		hunagą
+fp	2344	honung	sv	9690	2207	false		hunangą		5509	honey	en	9690	2205	false		hunagą
+fp	3660	Honig	de	9690	2205	false		hunagą		4589	honing	nl	9690	2207	false		hunangą
+fp	4589	honing	nl	9690	2207	false		hunangą		5509	honey	en	9690	2205	false		hunagą
+fp	540	heilsa	is	7387	1808	false		hailisōną		5535	health	en	7387	1809	false		hailiþō
+fp	540	heilsa	is	7387	1808	false		hailisōną		5535	health	en	7387	1839	false		haliþaz
+fp	2367	hälsa	sv	7387	1808	false		hailisōną		5535	health	en	7387	1809	false		hailiþō
+fp	2367	hälsa	sv	7387	1808	false		hailisōną		5535	health	en	7387	1839	false		haliþaz
+fp	5535	health	en	7387	1809	false		hailiþō		5535	health	en	7387	1839	false		haliþaz
+fp	550	vegur	is	22635	4529	false		wegaz		4624	weg	nl	22635	4397	false		wagjaz
+fp	1536	vei	nb	22635	4529	true		wegaz		4624	weg	nl	22635	4397	false		wagjaz
+fp	2374	väg	sv	22635	4529	false		wegaz		4624	weg	nl	22635	4397	false		wagjaz
+fp	3022	vej	da	22635	4529	false		wegaz		4624	weg	nl	22635	4397	false		wagjaz
+fp	3702	Weg	de	22635	4529	false		wegaz		4624	weg	nl	22635	4397	false		wagjaz
+fp	4624	weg	nl	22635	4397	false		wagjaz		4624	weg	nl	22635	4529	false		wegaz
+fp	556	bókstafur	is	2695	701	false		bōkastabaz		3708	Buchstabe	de	2695	702	false		bōkastabô
+fp	1541	bokstav	sv	2695	701	false		bōkastabaz		3708	Buchstabe	de	2695	702	false		bōkastabô
+fp	3024	bogstav	da	2695	701	false		bōkastabaz		3708	Buchstabe	de	2695	702	false		bōkastabô
+fp	3708	Buchstabe	de	2695	701	false		bōkastabaz		3708	Buchstabe	de	2695	702	false		bōkastabô
+fp	577	land	en	5118	2013	false		hlandą		577	land	en	5118	2688	false		landą
+fp	585	bogi	is	2192	803	false		bugô		1564	bue	da	2192	576	false		beuganą
+fp	1564	bue	da	2192	576	false		beuganą		1564	bue	da	2192	803	false		bugô
+fp	1564	bue	da	2192	576	false		beuganą		2393	båge	sv	2192	803	false		bugô
+fp	1564	bue	da	2192	576	false		beuganą		3738	Bogen	de	2192	803	false		bugô
+fp	1564	bue	da	2192	576	false		beuganą		4660	boog	nl	2192	803	false		bugô
+fp	586	ör	is	15966	360	false		arhwō		586	ör	is	15966	373	false		arwaz
+fp	586	ör	is	15966	360	false		arhwō		586	ör	is	15966	373	false		arwaz
+fp	586	ör	is	15966	373	false		arwaz		5570	arrow	en	15966	360	false		arhwō
+fp	586	ör	is	15966	373	false		arwaz		5570	arrow	en	15966	360	false		arhwō
+fp	601	vor	de	50673	1458	false		furai		4834	voor	nl	50673	1470	false		furhs
+fp	4834	voor	nl	50673	1458	false		furai		4834	voor	nl	50673	1470	false		furhs
+fp	617	laugardagur	is	17516	2723	false		laugōz dagaz		1593	lørdag	da	17516	2722	false		laugō
+fp	1593	lørdag	da	17516	2722	false		laugō		1593	lørdag	da	17516	2723	false		laugōz dagaz
+fp	1593	lørdag	da	17516	2722	false		laugō		2413	lördag	sv	17516	2723	false		laugōz dagaz
+fp	620	lítill	is	36307	2806	false		lītilaz		5604	little	en	36307	2850	false		lūtilaz
+fp	3041	lille	da	36307	2806	false		lītilaz		5604	little	en	36307	2850	false		lūtilaz
+fp	630	flatur	is	31984	1287	false		flataz		1605	flat	en	31984	1288	true		flatją
+fp	1605	flat	en	31984	1287	true		flataz		1605	flat	en	31984	1288	true		flatją
+fp	1605	flat	en	31984	1288	true		flatją		3045	flad	da	31984	1287	false		flataz
+fp	643	hlýr	is	51072	2028	false		hleuzą		643	hlýr	is	51072	2035	false		hliwjaz
+fp	649	votur	is	39287	4574	false		wētaz		5624	wet	en	39287	4575	false		wētijaną
+fp	649	votur	is	39287	4574	false		wētaz		5624	wet	en	39287	4575	false		wētijaną
+fp	1621	våt	sv	39287	4574	false		wētaz		5624	wet	en	39287	4575	false		wētijaną
+fp	1621	våt	sv	39287	4574	false		wētaz		5624	wet	en	39287	4575	false		wētijaną
+fp	3056	våd	da	39287	4574	false		wētaz		5624	wet	en	39287	4575	false		wētijaną
+fp	3056	våd	da	39287	4574	false		wētaz		5624	wet	en	39287	4575	false		wētijaną
+fp	665	bjartur	is	34598	564	false		berhtaz		5635	bright	en	34598	626	false		birhtį̄
+fp	5635	bright	en	34598	564	false		berhtaz		5635	bright	en	34598	626	false		birhtį̄
+fp	670	gulur	is	33204	1755	false		gulaz		4720	geel	nl	33204	1634	false		gelwaz
+fp	682	feitur	is	31811	1142	false		faitaz		1494	fett	de	31811	1144	true		faitidaz
+fp	682	feitur	is	31811	1142	false		faitaz		4585	vet	nl	31811	1144	false		faitidaz
+fp	682	feitur	is	31811	1142	false		faitaz		5505	fat	en	31811	1144	false		faitidaz
+fp	682	feitur	is	31811	1142	false		faitaz		5505	fat	en	31811	1189	false		fatą
+fp	1494	fett	de	31811	1144	true		faitidaz		1648	fet	sv	31811	1142	false		faitaz
+fp	1494	fett	de	31811	1144	true		faitidaz		3068	fed	da	31811	1142	false		faitaz
+fp	1494	fett	de	31811	1144	true		faitidaz		5505	fat	en	31811	1189	false		fatą
+fp	1648	fet	sv	31811	1142	false		faitaz		4585	vet	nl	31811	1144	false		faitidaz
+fp	1648	fet	sv	31811	1142	false		faitaz		5505	fat	en	31811	1144	false		faitidaz
+fp	1648	fet	sv	31811	1142	false		faitaz		5505	fat	en	31811	1189	false		fatą
+fp	3068	fed	da	31811	1142	false		faitaz		4585	vet	nl	31811	1144	false		faitidaz
+fp	3068	fed	da	31811	1142	false		faitaz		5505	fat	en	31811	1144	false		faitidaz
+fp	3068	fed	da	31811	1142	false		faitaz		5505	fat	en	31811	1189	false		fatą
+fp	4585	vet	nl	31811	1144	false		faitidaz		5505	fat	en	31811	1189	false		fatą
+fp	5505	fat	en	31811	1144	false		faitidaz		5505	fat	en	31811	1189	false		fatą
+fp	706	góður	is	34171	1684	false		gōdaz		5665	good	en	34171	1687	false		gōdōną
+fp	3838	gut	de	34171	1684	false		gōdaz		5665	good	en	34171	1687	false		gōdōną
+fp	4750	goed	nl	34171	1684	false		gōdaz		5665	good	en	34171	1687	false		gōdōną
+fp	5665	good	en	34171	1684	false		gōdaz		5665	good	en	34171	1687	false		gōdōną
+fp	747	svo	is	46265	4049	false		swa		747	svo	is	46265	4073	false		swē
+fp	747	svo	is	46265	4049	false		swa		1698	så	da	46265	3469	false		sēaną
+fp	747	svo	is	46265	4049	false		swa		1698	så	da	46265	4073	false		swē
+fp	747	svo	is	46265	4073	false		swē		1698	så	da	46265	3469	false		sēaną
+fp	747	svo	is	46265	4073	false		swē		1698	så	da	46265	4049	false		swa
+fp	1698	så	da	46265	3469	false		sēaną		1698	så	da	46265	4049	false		swa
+fp	1698	så	da	46265	3469	false		sēaną		1698	så	da	46265	4073	false		swē
+fp	1698	så	da	46265	4049	false		swa		1698	så	da	46265	4073	false		swē
+fp	751	þá	is	28663	3390	false		sa		751	þá	is	28663	4773	false		þan
+fp	751	þá	is	28663	3390	false		sa		2487	då	sv	28663	4773	false		þan
+fp	754	áður	is	50801	181	false		airi		754	áður	is	50801	187	false		airiz
+fp	755	fyrst	is	53234	1480	false		furist		755	fyrst	is	53234	1481	false		furistaz
+fp	755	fyrst	is	53234	1480	false		furist		1705	først	da	53234	1481	false		furistaz
+fp	755	fyrst	is	53234	1480	false		furist		2493	först	sv	53234	1481	false		furistaz
+fp	755	fyrst	is	53234	1481	false		furistaz		1705	først	da	53234	1480	false		furist
+fp	755	fyrst	is	53234	1481	false		furistaz		2493	först	sv	53234	1480	false		furist
+fp	1705	først	da	53234	1480	false		furist		1705	først	da	53234	1481	false		furistaz
+fp	1705	først	da	53234	1480	false		furist		2493	först	sv	53234	1481	false		furistaz
+fp	1705	først	da	53234	1481	false		furistaz		2493	först	sv	53234	1480	false		furist
+fp	2493	först	sv	53234	1480	false		furist		2493	först	sv	53234	1481	false		furistaz
+fp	758	oft	de	40112	4298	false		ufta		758	oft	de	40112	4299	false		uftō
+fp	758	oft	de	40112	4298	false		ufta		1708	ofte	da	40112	4299	false		uftō
+fp	758	oft	de	40112	4298	false		ufta		2495	ofta	sv	40112	4299	false		uftō
+fp	758	oft	de	40112	4299	false		uftō		1708	ofte	da	40112	4298	false		ufta
+fp	1708	ofte	da	40112	4298	false		ufta		1708	ofte	da	40112	4299	false		uftō
+fp	1708	ofte	da	40112	4298	false		ufta		2495	ofta	sv	40112	4299	false		uftō
+fp	762	hér	is	34794	1942	false		hē₂r		2497	här	sv	34794	1898	false		harjaz
+fp	762	hér	is	34794	1942	false		hē₂r		5705	here	en	34794	1815	true		hairaz
+fp	762	hér	is	34794	1942	false		hē₂r		5705	here	en	34794	1898	false		harjaz
+fp	762	hér	is	34794	1942	false		hē₂r		5705	here	en	34794	1996	false		hiurijaz
+fp	1711	her	da	34794	1942	false		hē₂r		2497	här	sv	34794	1898	false		harjaz
+fp	1711	her	da	34794	1942	false		hē₂r		5705	here	en	34794	1815	true		hairaz
+fp	1711	her	da	34794	1942	false		hē₂r		5705	here	en	34794	1898	false		harjaz
+fp	1711	her	da	34794	1942	false		hē₂r		5705	here	en	34794	1996	false		hiurijaz
+fp	2497	här	sv	34794	1898	false		harjaz		2497	här	sv	34794	1942	false		hē₂r
+fp	2497	här	sv	34794	1898	false		harjaz		5705	here	en	34794	1815	true		hairaz
+fp	2497	här	sv	34794	1898	false		harjaz		5705	here	en	34794	1942	false		hē₂r
+fp	2497	här	sv	34794	1898	false		harjaz		5705	here	en	34794	1996	false		hiurijaz
+fp	2497	här	sv	34794	1942	false		hē₂r		5705	here	en	34794	1815	true		hairaz
+fp	2497	här	sv	34794	1942	false		hē₂r		5705	here	en	34794	1898	false		harjaz
+fp	2497	här	sv	34794	1942	false		hē₂r		5705	here	en	34794	1996	false		hiurijaz
+fp	5705	here	en	34794	1815	true		hairaz		5705	here	en	34794	1898	false		harjaz
+fp	5705	here	en	34794	1815	true		hairaz		5705	here	en	34794	1942	false		hē₂r
+fp	5705	here	en	34794	1815	true		hairaz		5705	here	en	34794	1996	false		hiurijaz
+fp	5705	here	en	34794	1898	false		harjaz		5705	here	en	34794	1942	false		hē₂r
+fp	5705	here	en	34794	1898	false		harjaz		5705	here	en	34794	1996	false		hiurijaz
+fp	5705	here	en	34794	1942	false		hē₂r		5705	here	en	34794	1996	false		hiurijaz
+fp	775	niður	is	34913	3183	false		niþer		775	niður	is	34913	3185	false		niþjaz
+fp	778	upp	sv	35020	283	false		an		778	upp	sv	35020	4345	false		upp
+fp	778	upp	sv	35020	283	false		an		3103	op	da	35020	4345	false		upp
+fp	778	upp	sv	35020	283	false		an		5716	up	en	35020	4345	false		upp
+fp	778	upp	sv	35020	4345	false		upp		3103	op	da	35020	283	false		an
+fp	3103	op	da	35020	283	false		an		3103	op	da	35020	4345	false		upp
+fp	3103	op	da	35020	283	false		an		5716	up	en	35020	4345	false		upp
+fp	796	undir	is	49096	4311	false		under		4836	onder	nl	49096	4314	false		undurniz
+fp	1740	under	en	49096	4311	false		under		4836	onder	nl	49096	4314	false		undurniz
+fp	3902	unter	de	49096	4311	false		under		4836	onder	nl	49096	4314	false		undurniz
+fp	4836	onder	nl	49096	4311	false		under		4836	onder	nl	49096	4314	false		undurniz
+fp	808	við	is	52293	4573	false		wet		808	við	is	52293	4670	false		wiþiz
+fp	808	við	is	52293	4573	false		wet		3910	wir	de	52293	4666	false		wīz
+fp	808	við	is	52293	4573	false		wet		4845	wij	nl	52293	4666	false		wīz
+fp	808	við	is	52293	4670	false		wiþiz		3910	wir	de	52293	4666	false		wīz
+fp	808	við	is	52293	4670	false		wiþiz		4845	wij	nl	52293	4666	false		wīz
+fp	810	þær	is	45891	3390	false		sa		811	þeir	is	45891	4766	false		þai
+fp	812	hvað	is	51276	2262	false		hwat		812	hvað	is	51276	2266	false		hwaz
+fp	813	hver	is	51825	2257	false		hwarjaz		813	hver	is	51825	2266	false		hwaz
+fp	813	hver	is	51825	2257	false		hwarjaz		813	hver	is	51825	2274	false		hweraz
+fp	813	hver	is	51825	2266	false		hwaz		813	hver	is	51825	2274	false		hweraz
+fp	827	ellefu	is	30450	174	false		ainalif		3929	elf	nl	30450	245	true		albiz
+fp	1762	elleve	da	30450	174	false		ainalif		3929	elf	nl	30450	245	true		albiz
+fp	2541	elva	sv	30450	174	false		ainalif		3929	elf	nl	30450	245	true		albiz
+fp	3929	elf	nl	30450	174	false		ainalif		3929	elf	nl	30450	245	true		albiz
+fp	3929	elf	nl	30450	245	true		albiz		5753	eleven	en	30450	174	false		ainalif
+fp	841	standa	is	46996	3893	false		standaną		1775	stå	da	46996	3892	false		stāną
+fp	841	standa	is	46996	3893	false		standaną		3943	stehen	de	46996	3892	false		stāną
+fp	841	standa	is	46996	3893	false		standaną		4872	staan	nl	46996	3892	false		stāną
+fp	1775	stå	da	46996	3892	false		stāną		5765	stand	en	46996	3893	false		standaną
+fp	3943	stehen	de	46996	3892	false		stāną		5765	stand	en	46996	3893	false		standaną
+fp	4872	staan	nl	46996	3892	false		stāną		5765	stand	en	46996	3893	false		standaną
+fp	843	liggja	is	38394	2781	false		ligjaną		5573	lie	en	38394	2756	false		leuganą
+fp	843	liggja	is	38394	2781	false		ligjaną		5573	lie	en	38394	2831	false		lugiz
+fp	1777	ligge	da	38394	2781	false		ligjaną		5573	lie	en	38394	2756	false		leuganą
+fp	1777	ligge	da	38394	2781	false		ligjaną		5573	lie	en	38394	2831	false		lugiz
+fp	2552	ligga	sv	38394	2781	false		ligjaną		5573	lie	en	38394	2756	false		leuganą
+fp	2552	ligga	sv	38394	2781	false		ligjaną		5573	lie	en	38394	2831	false		lugiz
+fp	3945	liegen	de	38394	2781	false		ligjaną		5573	lie	en	38394	2756	false		leuganą
+fp	3945	liegen	de	38394	2781	false		ligjaną		5573	lie	en	38394	2831	false		lugiz
+fp	4874	liggen	nl	38394	2781	false		ligjaną		5573	lie	en	38394	2756	false		leuganą
+fp	4874	liggen	nl	38394	2781	false		ligjaną		5573	lie	en	38394	2831	false		lugiz
+fp	5573	lie	en	38394	2756	false		leuganą		5573	lie	en	38394	2781	false		ligjaną
+fp	5573	lie	en	38394	2756	false		leuganą		5573	lie	en	38394	2831	false		lugiz
+fp	5573	lie	en	38394	2781	false		ligjaną		5573	lie	en	38394	2831	false		lugiz
+fp	853	skína	is	42509	3642	false		skīnaną		1786	skinne	da	42509	3644	true		skinō
+fp	1786	skinne	da	42509	3642	false		skīnaną		1786	skinne	da	42509	3644	true		skinō
+fp	1786	skinne	da	42509	3644	true		skinō		4883	schijnen	nl	42509	3642	false		skīnaną
+fp	854	blása	is	28037	663	false		blēsaną		5771	blow	en	28037	660	false		blēaną
+fp	854	blása	is	28037	663	false		blēsaną		5771	blow	en	28037	668	true		blewwaną
+fp	854	blása	is	28037	663	false		blēsaną		5771	blow	en	28037	680	false		blōaną
+fp	1788	blåse	nb	28037	663	false		blēsaną		5771	blow	en	28037	660	false		blēaną
+fp	1788	blåse	nb	28037	663	false		blēsaną		5771	blow	en	28037	668	true		blewwaną
+fp	1788	blåse	nb	28037	663	false		blēsaną		5771	blow	en	28037	680	false		blōaną
+fp	2561	blåsa	sv	28037	663	false		blēsaną		5771	blow	en	28037	660	false		blēaną
+fp	2561	blåsa	sv	28037	663	false		blēsaną		5771	blow	en	28037	668	true		blewwaną
+fp	2561	blåsa	sv	28037	663	false		blēsaną		5771	blow	en	28037	680	false		blōaną
+fp	3134	blæse	da	28037	663	false		blēsaną		5771	blow	en	28037	660	false		blēaną
+fp	3134	blæse	da	28037	663	false		blēsaną		5771	blow	en	28037	668	true		blewwaną
+fp	3134	blæse	da	28037	663	false		blēsaną		5771	blow	en	28037	680	false		blōaną
+fp	3994	blasen	de	28037	663	false		blēsaną		5771	blow	en	28037	660	false		blēaną
+fp	3994	blasen	de	28037	663	false		blēsaną		5771	blow	en	28037	668	true		blewwaną
+fp	3994	blasen	de	28037	663	false		blēsaną		5771	blow	en	28037	680	false		blōaną
+fp	4928	blazen	nl	28037	663	false		blēsaną		5771	blow	en	28037	660	false		blēaną
+fp	4928	blazen	nl	28037	663	false		blēsaną		5771	blow	en	28037	668	true		blewwaną
+fp	4928	blazen	nl	28037	663	false		blēsaną		5771	blow	en	28037	680	false		blōaną
+fp	5771	blow	en	28037	660	false		blēaną		5771	blow	en	28037	668	true		blewwaną
+fp	5771	blow	en	28037	660	false		blēaną		5771	blow	en	28037	680	false		blōaną
+fp	5771	blow	en	28037	668	true		blewwaną		5771	blow	en	28037	680	false		blōaną
+fp	855	streyma	is	47532	3957	false		straumijaną		5772	stream	en	47532	3956	false		straumaz
+fp	1789	strømme	da	47532	3957	false		straumijaną		5772	stream	en	47532	3956	false		straumaz
+fp	2563	strömma	sv	47532	3957	false		straumijaną		5772	stream	en	47532	3956	false		straumaz
+fp	3957	strömen	de	47532	3957	false		straumijaną		5772	stream	en	47532	3956	false		straumaz
+fp	4886	stromen	nl	47532	3957	false		straumijaną		5772	stream	en	47532	3956	false		straumaz
+fp	5772	stream	en	47532	3956	false		straumaz		5772	stream	en	47532	3957	false		straumijaną
+fp	856	fljóta	is	32119	1300	false		fleutaną		4887	vloeien	nl	32119	1302	false		flōaną
+fp	856	fljóta	is	32119	1300	false		fleutaną		5773	flow	en	32119	1302	false		flōaną
+fp	2564	flyta	sv	32119	1300	false		fleutaną		4887	vloeien	nl	32119	1302	false		flōaną
+fp	2564	flyta	sv	32119	1300	false		fleutaną		5773	flow	en	32119	1302	false		flōaną
+fp	3135	flyde	da	32119	1300	false		fleutaną		4887	vloeien	nl	32119	1302	false		flōaną
+fp	3135	flyde	da	32119	1300	false		fleutaną		5773	flow	en	32119	1302	false		flōaną
+fp	3958	fließen	de	32119	1300	false		fleutaną		4887	vloeien	nl	32119	1302	false		flōaną
+fp	3958	fließen	de	32119	1300	false		fleutaną		5773	flow	en	32119	1302	false		flōaną
+fp	862	brenna	is	49425	733	false		brannijaną		862	brenna	is	49425	762	false		brinnaną
+fp	862	brenna	is	49425	733	false		brannijaną		3139	brænde	da	49425	762	false		brinnaną
+fp	862	brenna	is	49425	733	false		brannijaną		5777	burn	en	49425	762	false		brinnaną
+fp	862	brenna	is	49425	733	false		brannijaną		5777	burn	en	49425	788	false		brunnô
+fp	862	brenna	is	49425	762	false		brinnaną		1795	brenne	nb	49425	733	false		brannijaną
+fp	862	brenna	is	49425	762	false		brinnaną		2762	bränna	sv	49425	733	false		brannijaną
+fp	862	brenna	is	49425	762	false		brinnaną		3139	brænde	da	49425	733	false		brannijaną
+fp	862	brenna	is	49425	762	false		brinnaną		5777	burn	en	49425	788	false		brunnô
+fp	1795	brenne	nb	49425	733	false		brannijaną		3139	brænde	da	49425	762	false		brinnaną
+fp	1795	brenne	nb	49425	733	false		brannijaną		5777	burn	en	49425	762	false		brinnaną
+fp	1795	brenne	nb	49425	733	false		brannijaną		5777	burn	en	49425	788	false		brunnô
+fp	2762	bränna	sv	49425	733	false		brannijaną		3139	brænde	da	49425	762	false		brinnaną
+fp	2762	bränna	sv	49425	733	false		brannijaną		5777	burn	en	49425	762	false		brinnaną
+fp	2762	bränna	sv	49425	733	false		brannijaną		5777	burn	en	49425	788	false		brunnô
+fp	3139	brænde	da	49425	733	false		brannijaną		3139	brænde	da	49425	762	false		brinnaną
+fp	3139	brænde	da	49425	733	false		brannijaną		5777	burn	en	49425	762	false		brinnaną
+fp	3139	brænde	da	49425	733	false		brannijaną		5777	burn	en	49425	788	false		brunnô
+fp	3139	brænde	da	49425	762	false		brinnaną		5777	burn	en	49425	788	false		brunnô
+fp	5777	burn	en	49425	762	false		brinnaną		5777	burn	en	49425	788	false		brunnô
+fp	864	rigna	is	40859	3336	false		rignijaną		2570	regna	sv	40859	3313	false		regnōną
+fp	864	rigna	is	40859	3336	false		rignijaną		3965	regnen	de	40859	3313	false		regnōną
+fp	864	rigna	is	40859	3336	false		rignijaną		4895	regenen	nl	40859	3313	false		regnōną
+fp	864	rigna	is	40859	3336	false		rignijaną		5281	rain	en	40859	3310	false		regną
+fp	864	rigna	is	40859	3336	false		rignijaną		5281	rain	en	40859	3313	false		regnōną
+fp	2570	regna	sv	40859	3313	false		regnōną		5281	rain	en	40859	3310	false		regną
+fp	3965	regnen	de	40859	3313	false		regnōną		5281	rain	en	40859	3310	false		regną
+fp	4895	regenen	nl	40859	3313	false		regnōną		5281	rain	en	40859	3310	false		regną
+fp	5281	rain	en	40859	3310	false		regną		5281	rain	en	40859	3313	false		regnōną
+fp	870	rotna	is	49589	3388	false		rutjaną		870	rotna	is	49589	3389	false		rutōną
+fp	870	rotna	is	49589	3388	false		rutjaną		2577	ruttna	sv	49589	3389	false		rutōną
+fp	870	rotna	is	49589	3389	false		rutōną		2577	ruttna	sv	49589	3388	false		rutjaną
+fp	870	rotna	is	49589	3389	false		rutōną		3143	rådne	da	49589	3388	false		rutjaną
+fp	2577	ruttna	sv	49589	3388	false		rutjaną		2577	ruttna	sv	49589	3389	false		rutōną
+fp	2577	ruttna	sv	49589	3389	false		rutōną		3143	rådne	da	49589	3388	false		rutjaną
+fp	872	sökkva	is	50128	3453	false		sankwijaną		872	sökkva	is	50128	3548	false		sinkwaną
+fp	875	hverfa	is	50118	2254	false		hwarbijaną		875	hverfa	is	50118	2275	false		hwerbaną
+fp	900	lifa	is	37713	2779	false		libjaną		2607	leva	sv	37713	2662	false		laibijaną
+fp	1830	leve	da	37713	2779	false		libjaną		2607	leva	sv	37713	2662	false		laibijaną
+fp	2607	leva	sv	37713	2662	false		laibijaną		2607	leva	sv	37713	2779	false		libjaną
+fp	2607	leva	sv	37713	2662	false		laibijaną		3999	leben	de	37713	2779	false		libjaną
+fp	2607	leva	sv	37713	2662	false		laibijaną		4633	leven	nl	37713	2779	false		libjaną
+fp	904	drekka	is	48508	982	false		drinkaną		5805	drink	en	48508	997	false		drunkiz
+fp	1834	drikke	da	48508	982	false		drinkaną		5805	drink	en	48508	997	false		drunkiz
+fp	2610	dricka	sv	48508	982	false		drinkaną		5805	drink	en	48508	997	false		drunkiz
+fp	4002	trinken	de	48508	982	false		drinkaną		5805	drink	en	48508	997	false		drunkiz
+fp	4937	drinken	nl	48508	982	false		drinkaną		5805	drink	en	48508	997	false		drunkiz
+fp	5805	drink	en	48508	982	false		drinkaną		5805	drink	en	48508	997	false		drunkiz
+fp	938	róa	is	41753	3356	false		rōaną		1395	ro	da	41753	3364	false		rōwō
+fp	938	róa	is	41753	3356	false		rōaną		5452	row	en	41753	3268	false		raih-
+fp	1395	ro	da	41753	3356	false		rōaną		1395	ro	da	41753	3364	false		rōwō
+fp	1395	ro	da	41753	3356	false		rōaną		5452	row	en	41753	3268	false		raih-
+fp	1395	ro	da	41753	3364	false		rōwō		4974	roeien	nl	41753	3356	false		rōaną
+fp	1395	ro	da	41753	3364	false		rōwō		5452	row	en	41753	3268	false		raih-
+fp	1395	ro	da	41753	3364	false		rōwō		5452	row	en	41753	3356	false		rōaną
+fp	4974	roeien	nl	41753	3356	false		rōaną		5452	row	en	41753	3268	false		raih-
+fp	5452	row	en	41753	3268	false		raih-		5452	row	en	41753	3356	false		rōaną
+fp	940	fljúga	is	32157	1296	false		fleuganą		1866	fly	en	32157	1297	false		fleugǭ
+fp	1866	fly	en	32157	1296	false		fleuganą		1866	fly	en	32157	1297	false		fleugǭ
+fp	1866	fly	en	32157	1297	false		fleugǭ		2641	flyga	sv	32157	1296	false		fleuganą
+fp	1866	fly	en	32157	1297	false		fleugǭ		3171	flyve	da	32157	1296	false		fleuganą
+fp	1866	fly	en	32157	1297	false		fleugǭ		4037	fliegen	de	32157	1296	false		fleuganą
+fp	1866	fly	en	32157	1297	false		fleugǭ		4976	vliegen	nl	32157	1296	false		fleuganą
+fp	989	opna	is	40027	4344	false		upanōną		4709	open	en	40027	4343	false		upanaz
+fp	1909	åpne	nb	40027	4344	false		upanōną		4709	open	en	40027	4343	false		upanaz
+fp	2682	öppna	sv	40027	4344	false		upanōną		4709	open	en	40027	4343	false		upanaz
+fp	3200	åbne	da	40027	4344	false		upanōną		4709	open	en	40027	4343	false		upanaz
+fp	4083	öffnen	de	40027	4344	false		upanōną		4709	open	en	40027	4343	false		upanaz
+fp	4709	open	en	40027	4343	false		upanaz		4709	open	en	40027	4344	false		upanōną
+fp	4709	open	en	40027	4343	false		upanaz		5029	openen	nl	40027	4344	false		upanōną
+fp	990	láta	is	37541	2751	false		lētaną		5935	let	en	37541	2712	false		latjaną
+fp	5127	laten	nl	37541	2751	false		lētaną		5935	let	en	37541	2712	false		latjaną
+fp	5935	let	en	37541	2712	false		latjaną		5935	let	en	37541	2751	false		lētaną
+fp	992	leggja	is	37940	2654	false		lagjaną		5873	lay	en	37940	2652	false		lagą
+fp	992	leggja	is	37940	2654	false		lagjaną		5873	lay	en	37940	2656	false		laguz
+fp	1913	legge	nb	37940	2654	false		lagjaną		5873	lay	en	37940	2652	false		lagą
+fp	1913	legge	nb	37940	2654	false		lagjaną		5873	lay	en	37940	2656	false		laguz
+fp	2687	lägga	sv	37940	2654	false		lagjaną		5873	lay	en	37940	2652	false		lagą
+fp	2687	lägga	sv	37940	2654	false		lagjaną		5873	lay	en	37940	2656	false		laguz
+fp	3202	lægge	da	37940	2654	false		lagjaną		5873	lay	en	37940	2652	false		lagą
+fp	3202	lægge	da	37940	2654	false		lagjaną		5873	lay	en	37940	2656	false		laguz
+fp	4087	legen	de	37940	2654	false		lagjaną		5873	lay	en	37940	2652	false		lagą
+fp	4087	legen	de	37940	2654	false		lagjaną		5873	lay	en	37940	2656	false		laguz
+fp	5035	leggen	nl	37940	2654	false		lagjaną		5873	lay	en	37940	2652	false		lagą
+fp	5035	leggen	nl	37940	2654	false		lagjaną		5873	lay	en	37940	2656	false		laguz
+fp	5873	lay	en	37940	2652	false		lagą		5873	lay	en	37940	2654	false		lagjaną
+fp	5873	lay	en	37940	2652	false		lagą		5873	lay	en	37940	2656	false		laguz
+fp	5873	lay	en	37940	2654	false		lagjaną		5873	lay	en	37940	2656	false		laguz
+fp	996	hengja	is	25784	1871	false		hangijaną		2553	hänga	sv	25784	1873	false		hanhaną
+fp	996	hengja	is	25784	1871	false		hangijaną		3128	hænge	da	25784	1873	false		hanhaną
+fp	2553	hänga	sv	25784	1871	false		hangijaną		2553	hänga	sv	25784	1873	false		hanhaną
+fp	2553	hänga	sv	25784	1871	false		hangijaną		3128	hænge	da	25784	1873	false		hanhaną
+fp	2553	hänga	sv	25784	1873	false		hanhaną		3128	hænge	da	25784	1871	false		hangijaną
+fp	3128	hænge	da	25784	1871	false		hangijaną		3128	hænge	da	25784	1873	false		hanhaną
+fp	1013	beygja	is	27533	530	false		baugijaną		5569	bow	en	27533	576	false		beuganą
+fp	1013	beygja	is	27533	530	false		baugijaną		5569	bow	en	27533	803	false		bugô
+fp	5569	bow	en	27533	576	false		beuganą		5569	bow	en	27533	803	false		bugô
+fp	1032	stinga	is	46920	3933	false		stinganą		4198	stechen	de	46920	3927	false		stikaną
+fp	1032	stinga	is	46920	3933	false		stinganą		5069	steken	nl	46920	3927	false		stikaną
+fp	4198	stechen	de	46920	3927	false		stikaną		5954	sting	en	46920	3933	false		stinganą
+fp	5069	steken	nl	46920	3927	false		stikaną		5954	sting	en	46920	3933	false		stinganą
+fp	1047	fylla	sv	32649	1445	false		fullijaną		3230	fylde	da	32649	1444	false		fullį̄
+fp	1962	fylle	nb	32649	1445	false		fullijaną		3230	fylde	da	32649	1444	false		fullį̄
+fp	3230	fylde	da	32649	1444	false		fullį̄		3230	fylde	da	32649	1445	false		fullijaną
+fp	3230	fylde	da	32649	1444	false		fullį̄		4134	füllen	de	32649	1445	false		fullijaną
+fp	3230	fylde	da	32649	1444	false		fullį̄		5083	vullen	nl	32649	1445	false		fullijaną
+fp	1049	draga	is	52994	954	false		draganą		3233	trække	da	52994	4217	true		trakjaną
+fp	1049	draga	is	52994	954	false		draganą		5087	trekken	nl	52994	4217	false		trakjaną
+fp	1050	toga	is	53001	4244	false		tugōną		1050	toga	is	53001	4247	false		tukkōną
+fp	1061	fá	is	30679	1133	false		faihijaną		1061	fá	is	30679	1168	false		fanhaną
+fp	1061	fá	is	30679	1133	false		faihijaną		1976	få	da	30679	1168	false		fanhaną
+fp	1061	fá	is	30679	1133	false		faihijaną		1976	få	da	30679	1193	false		fawaz
+fp	1061	fá	is	30679	1168	false		fanhaną		1976	få	da	30679	1193	false		fawaz
+fp	1976	få	da	30679	1168	false		fanhaną		1976	få	da	30679	1193	false		fawaz
+fp	1080	vekja	is	51412	4432	false		wakjaną		5929	wake	en	51412	4431	false		wakaną
+fp	1993	vekke	nb	51412	4432	false		wakjaną		5929	wake	en	51412	4431	false		wakaną
+fp	2769	väcka	sv	51412	4432	true		wakjaną		5929	wake	en	51412	4431	false		wakaną
+fp	2769	väcka	sv	51412	4432	false		wakjaną		5929	wake	en	51412	4431	false		wakaną
+fp	3247	vække	da	51412	4432	true		wakjaną		5929	wake	en	51412	4431	false		wakaną
+fp	4170	wecken	de	51412	4432	false		wakjaną		5929	wake	en	51412	4431	false		wakaną
+fp	5118	wekken	nl	51412	4432	false		wakjaną		5929	wake	en	51412	4431	false		wakaną
+fp	5929	wake	en	51412	4431	false		wakaną		5929	wake	en	51412	4432	false		wakjaną
+fp	1098	verja	is	50431	4502	false		warjaną		1098	verja	is	50431	4518	false		wazjaną
+fp	1122	fiska	sv	31954	1272	false		fiskōną		5351	fish	en	31954	1271	false		fiskaz
+fp	2034	fiske	da	31954	1272	false		fiskōną		5351	fish	en	31954	1271	false		fiskaz
+fp	4212	fischen	de	31954	1272	false		fiskōną		5351	fish	en	31954	1271	false		fiskaz
+fp	5163	vissen	nl	31954	1272	false		fiskōną		5351	fish	en	31954	1271	false		fiskaz
+fp	5351	fish	en	31954	1271	false		fiskaz		5351	fish	en	31954	1272	false		fiskōną
+fp	1128	mjólka	is	38793	2978	false		melukōną		4218	melken	nl	38793	2974	false		melkaną
+fp	1128	mjólka	is	38793	2978	false		melukōną		5510	milk	en	38793	2974	false		melkaną
+fp	1128	mjólka	is	38793	2978	false		melukōną		5510	milk	en	38793	2979	false		meluks
+fp	2812	mjölka	sv	38793	2978	false		melukōną		4218	melken	nl	38793	2974	false		melkaną
+fp	2812	mjölka	sv	38793	2978	false		melukōną		5510	milk	en	38793	2974	false		melkaną
+fp	2812	mjölka	sv	38793	2978	false		melukōną		5510	milk	en	38793	2979	false		meluks
+fp	3270	malke	da	38793	2978	false		melukōną		4218	melken	nl	38793	2974	false		melkaną
+fp	3270	malke	da	38793	2978	false		melukōną		5510	milk	en	38793	2974	false		melkaną
+fp	3270	malke	da	38793	2978	false		melukōną		5510	milk	en	38793	2979	false		meluks
+fp	4218	melken	nl	38793	2974	false		melkaną		5510	milk	en	38793	2978	false		melukōną
+fp	4218	melken	nl	38793	2974	false		melkaną		5510	milk	en	38793	2979	false		meluks
+fp	5510	milk	en	38793	2974	false		melkaną		5510	milk	en	38793	2978	false		melukōną
+fp	5510	milk	en	38793	2974	false		melkaną		5510	milk	en	38793	2979	false		meluks
+fp	5510	milk	en	38793	2978	false		melukōną		5510	milk	en	38793	2979	false		meluks
+fp	1150	segja	is	42035	3399	false		sagjaną		3280	sige	da	42035	3525	false		sīganą
+fp	2834	säga	sv	42035	3399	false		sagjaną		3280	sige	da	42035	3525	false		sīganą
+fp	3280	sige	da	42035	3399	false		sagjaną		3280	sige	da	42035	3525	false		sīganą
+fp	1166	læra	is	38128	2676	true		laizijaną		1995	lære	da	38128	2678	true		laizō
+fp	1166	læra	is	38128	2676	true		laizijaną		4260	lernen	de	38128	2813	false		liznaną
+fp	1166	læra	is	38128	2676	true		laizijaną		5995	learn	en	38128	2813	false		liznaną
+fp	1995	lære	da	38128	2676	true		laizijaną		1995	lære	da	38128	2678	true		laizō
+fp	1995	lære	da	38128	2676	true		laizijaną		4260	lernen	de	38128	2813	false		liznaną
+fp	1995	lære	da	38128	2676	true		laizijaną		5995	learn	en	38128	2813	false		liznaną
+fp	1995	lære	da	38128	2678	true		laizō		4260	lernen	de	38128	2813	false		liznaną
+fp	1995	lære	da	38128	2678	true		laizō		5122	leren	nl	38128	2676	false		laizijaną
+fp	1995	lære	da	38128	2678	true		laizō		5995	learn	en	38128	2813	false		liznaną
+fp	4260	lernen	de	38128	2813	false		liznaną		5122	leren	nl	38128	2676	false		laizijaną
+fp	5122	leren	nl	38128	2676	false		laizijaną		5995	learn	en	38128	2813	false		liznaną
+fp	1169	mæla	is	38836	2957	false		maþlijaną		2081	måle	da	38836	2973	false		mēlijaną
+fp	1171	reikna	is	40655	3317	true		rekanōną		1797	regne	da	40655	3313	false		regnōną
+fp	1797	regne	da	40655	3313	false		regnōną		1797	regne	da	40655	3317	true		rekanōną
+fp	1797	regne	da	40655	3313	false		regnōną		2854	räkna	sv	40655	3317	true		rekanōną
+fp	1797	regne	da	40655	3313	false		regnōną		4266	rechnen	de	40655	3317	false		rekanōną
+fp	1797	regne	da	40655	3313	false		regnōną		5210	rekenen	nl	40655	3317	false		rekanōną
+fp	1176	kaupa	is	36039	2418	false		kaupōną		2861	köpa	sv	36039	2416	false		kaupijaną
+fp	1176	kaupa	is	36039	2418	false		kaupōną		3299	købe	da	36039	2416	false		kaupijaną
+fp	1176	kaupa	is	36039	2418	false		kaupōną		5216	kopen	nl	36039	2416	false		kaupijaną
+fp	2861	köpa	sv	36039	2416	false		kaupijaną		2861	köpa	sv	36039	2418	false		kaupōną
+fp	2861	köpa	sv	36039	2416	false		kaupijaną		3299	købe	da	36039	2418	false		kaupōną
+fp	2861	köpa	sv	36039	2416	false		kaupijaną		5216	kopen	nl	36039	2418	false		kaupōną
+fp	2861	köpa	sv	36039	2418	false		kaupōną		3299	købe	da	36039	2416	false		kaupijaną
+fp	2861	köpa	sv	36039	2418	false		kaupōną		5216	kopen	nl	36039	2416	false		kaupijaną
+fp	3299	købe	da	36039	2416	false		kaupijaną		3299	købe	da	36039	2418	false		kaupōną
+fp	3299	købe	da	36039	2416	false		kaupijaną		5216	kopen	nl	36039	2418	false		kaupōną
+fp	3299	købe	da	36039	2418	false		kaupōną		5216	kopen	nl	36039	2416	false		kaupijaną
+fp	5216	kopen	nl	36039	2416	false		kaupijaną		5216	kopen	nl	36039	2418	false		kaupōną
+fp	1182	øre	da	15625	411	false		aurijaz		3304	Ohr	de	15625	413	false		ausô
+fp	1182	øre	da	15625	411	false		aurijaz		4278	oor	nl	15625	413	false		ausô
+fp	1183	nese	nb	15111	3124	false		nasō		4279	neus	nl	15111	3199	false		nusō
+fp	1183	nese	nb	15111	3124	false		nasō		5222	nose	en	15111	3199	false		nusō
+fp	2096	näsa	sv	15111	3124	false		nasō		4279	neus	nl	15111	3199	false		nusō
+fp	2096	näsa	sv	15111	3124	false		nasō		5222	nose	en	15111	3199	false		nusō
+fp	2868	næse	da	15111	3124	false		nasō		4279	neus	nl	15111	3199	false		nusō
+fp	2868	næse	da	15111	3124	false		nasō		5222	nose	en	15111	3199	false		nusō
+fp	3305	Nase	de	15111	3124	false		nasō		4279	neus	nl	15111	3199	false		nusō
+fp	3305	Nase	de	15111	3124	false		nasō		5222	nose	en	15111	3199	false		nusō
+fp	1204	bryst	da	2593	749	false		breustą		3326	Brust	de	2593	790	false		brusts
+fp	1204	bryst	da	2593	749	false		breustą		4295	borst	nl	2593	790	false		brusts
+fp	2106	bröst	sv	2593	749	false		breustą		3326	Brust	de	2593	790	false		brusts
+fp	2106	bröst	sv	2593	749	false		breustą		4295	borst	nl	2593	790	false		brusts
+fp	3326	Brust	de	2593	790	false		brusts		5241	breast	en	2593	749	false		breustą
+fp	4295	borst	nl	2593	790	false		brusts		5241	breast	en	2593	749	false		breustą
+fp	1232	måne	da	14340	2983	false		mēnô		4322	maan	nl	14340	2919	false		manō
+fp	3360	Mond	de	14340	2983	false		mēnô		4322	maan	nl	14340	2919	false		manō
+fp	4322	maan	nl	14340	2919	false		manō		4322	maan	nl	14340	2983	false		mēnô
+fp	4322	maan	nl	14340	2919	false		manō		5268	moon	en	14340	2983	false		mēnô
+fp	1237	vann	nb	22626	4516	false		watōr		2886	vand	da	22626	4474	false		wanduz
+fp	2886	vand	da	22626	4474	false		wanduz		2886	vand	da	22626	4516	false		watōr
+fp	1245	lys	da	34572	2759	false		leuhsą		1245	lys	da	34572	2760	false		leuhsaz
+fp	1245	lys	da	34572	2759	false		leuhsą		2134	ljus	sv	34572	2760	false		leuhsaz
+fp	1245	lys	da	34572	2760	false		leuhsaz		2134	ljus	sv	34572	2759	false		leuhsą
+fp	2134	ljus	sv	34572	2759	false		leuhsą		2134	ljus	sv	34572	2760	false		leuhsaz
+fp	1257	skum	da	17888	3684	false		skūmaz		5290	foam	en	17888	1139	false		faimaz
+fp	3389	Schaum	de	17888	3684	false		skūmaz		5290	foam	en	17888	1139	false		faimaz
+fp	4350	schuim	nl	17888	3684	false		skūmaz		5290	foam	en	17888	1139	false		faimaz
+fp	1273	kilde	da	16295	2449	false		kitilōną		3402	Quelle	de	16295	2630	false		kwellǭ
+fp	1284	rot	en	31515	3388	false		rutjaną		1284	rot	en	31515	3389	false		rutōną
+fp	1284	rot	en	31515	3389	false		rutōną		4902	rotten	nl	31515	3388	false		rutjaną
+fp	1289	bjørk	nb	1987	629	false		birkijǭ		2172	björk	sv	1987	567	false		berkō
+fp	2172	björk	sv	1987	567	false		berkō		2172	björk	sv	1987	629	false		birkijǭ
+fp	2172	björk	sv	1987	567	false		berkō		2906	birk	da	1987	629	false		birkijǭ
+fp	2172	björk	sv	1987	567	false		berkō		3420	Birke	de	1987	629	false		birkijǭ
+fp	1298	hale	da	18864	1844	false		halô		1298	hale	da	18864	1845	true		halōną
+fp	1300	tyr	da	2763	4811	false		þeuraz		2183	tjur	sv	2763	4174	false		terwaz
+fp	1300	tyr	da	2763	4811	false		þeuraz		4382	stier	nl	2763	3921	false		steuraz
+fp	2183	tjur	sv	2763	4174	false		terwaz		4382	stier	nl	2763	3921	false		steuraz
+fp	1312	høne	da	9911	2089	false		hōnijǭ		3451	Huhn	de	9911	2088	false		hōną
+fp	1312	høne	da	9911	2089	false		hōnijǭ		4396	hoen	nl	9911	2088	false		hōną
+fp	1316	and	en	48963	288	false		anadô		1316	and	en	48963	289	false		anadōną
+fp	1316	and	en	48963	288	false		anadô		1316	and	en	48963	308	false		andi
+fp	1316	and	en	48963	288	false		anadô		3941	und	de	48963	308	false		andi
+fp	1316	and	en	48963	289	false		anadōną		1316	and	en	48963	308	false		andi
+fp	1316	and	en	48963	289	false		anadōną		3941	und	de	48963	308	false		andi
+fp	1327	mark	sv	2164	2931	false		marką		1327	mark	sv	2164	2933	false		markō
+fp	1336	sæd	da	17374	3475	false		sēdiz		1336	sæd	da	17374	3524	false		siduz
+fp	1336	sæd	da	17374	3524	false		siduz		5362	seed	en	17374	3475	false		sēdiz
+fp	1388	stemme	da	20490	3888	false		stammijaną		1388	stemme	da	20490	3889	true		stamnijō
+fp	1388	stemme	da	20490	3888	false		stammijaną		2242	stämma	sv	20490	3889	true		stamnijō
+fp	1388	stemme	da	20490	3888	false		stammijaną		3535	Stimme	de	20490	3909	false		stebnō
+fp	1388	stemme	da	20490	3888	false		stammijaną		4473	stem	nl	20490	3889	false		stamnijō
+fp	1388	stemme	da	20490	3889	true		stamnijō		2242	stämma	sv	20490	3888	false		stammijaną
+fp	1388	stemme	da	20490	3889	true		stamnijō		3535	Stimme	de	20490	3909	false		stebnō
+fp	2242	stämma	sv	20490	3888	false		stammijaną		2242	stämma	sv	20490	3889	true		stamnijō
+fp	2242	stämma	sv	20490	3888	false		stammijaną		3535	Stimme	de	20490	3909	false		stebnō
+fp	2242	stämma	sv	20490	3888	false		stammijaną		4473	stem	nl	20490	3889	false		stamnijō
+fp	2242	stämma	sv	20490	3889	true		stamnijō		3535	Stimme	de	20490	3909	false		stebnō
+fp	3535	Stimme	de	20490	3909	false		stebnō		4473	stem	nl	20490	3889	false		stamnijō
+fp	1397	arbeid	nl	674	352	false		arbaidiz		3546	Arbeit	de	674	350	false		arbaidiją
+fp	2248	arbete	sv	674	352	true		arbaidiz		3546	Arbeit	de	674	350	false		arbaidiją
+fp	3546	Arbeit	de	674	350	false		arbaidiją		3546	Arbeit	de	674	352	false		arbaidiz
+fp	1421	side	en	19174	3518	false		sīdaz		1421	side	en	19174	3519	false		sīdǭ
+fp	1421	side	en	19174	3518	false		sīdaz		2268	sida	sv	19174	3519	false		sīdǭ
+fp	1421	side	en	19174	3518	false		sīdaz		3569	Seite	de	19174	3519	false		sīdǭ
+fp	1421	side	en	19174	3518	false		sīdaz		4510	zijde	nl	19174	3519	false		sīdǭ
+fp	1426	hull	nb	13255	2192	false		hulą		2275	hål	sv	13255	2193	false		hulaz
+fp	2275	hål	sv	13255	2192	false		hulą		2275	hål	sv	13255	2193	false		hulaz
+fp	2275	hål	sv	13255	2193	false		hulaz		2965	hul	da	13255	2192	false		hulą
+fp	1441	last	en	38177	2018	false		hlastuz		1441	last	en	38177	2674	false		laistijaną
+fp	1464	dør	da	22018	1040	false		durīz		1464	dør	da	22018	1042	false		durz
+fp	1464	dør	da	22018	1040	false		durīz		2306	dörr	sv	22018	1042	false		durz
+fp	1464	dør	da	22018	1040	false		durīz		3619	Tür	de	22018	1042	false		durz
+fp	1464	dør	da	22018	1040	false		durīz		4555	deur	nl	22018	1042	false		durz
+fp	1464	dør	da	22018	1040	false		durīz		4555	deur	nl	22018	4811	false		þeuraz
+fp	1464	dør	da	22018	1040	false		durīz		4837	door	en	22018	1034	false		durą
+fp	1464	dør	da	22018	1040	false		durīz		4837	door	en	22018	1042	false		durz
+fp	1464	dør	da	22018	1042	false		durz		2306	dörr	sv	22018	1040	false		durīz
+fp	1464	dør	da	22018	1042	false		durz		3619	Tür	de	22018	1040	false		durīz
+fp	1464	dør	da	22018	1042	false		durz		4555	deur	nl	22018	1040	false		durīz
+fp	1464	dør	da	22018	1042	false		durz		4555	deur	nl	22018	4811	false		þeuraz
+fp	1464	dør	da	22018	1042	false		durz		4837	door	en	22018	1034	false		durą
+fp	2306	dörr	sv	22018	1040	false		durīz		2306	dörr	sv	22018	1042	false		durz
+fp	2306	dörr	sv	22018	1040	false		durīz		3619	Tür	de	22018	1042	false		durz
+fp	2306	dörr	sv	22018	1040	false		durīz		4555	deur	nl	22018	1042	false		durz
+fp	2306	dörr	sv	22018	1040	false		durīz		4555	deur	nl	22018	4811	false		þeuraz
+fp	2306	dörr	sv	22018	1040	false		durīz		4837	door	en	22018	1034	false		durą
+fp	2306	dörr	sv	22018	1040	false		durīz		4837	door	en	22018	1042	false		durz
+fp	2306	dörr	sv	22018	1042	false		durz		3619	Tür	de	22018	1040	false		durīz
+fp	2306	dörr	sv	22018	1042	false		durz		4555	deur	nl	22018	1040	false		durīz
+fp	2306	dörr	sv	22018	1042	false		durz		4555	deur	nl	22018	4811	false		þeuraz
+fp	2306	dörr	sv	22018	1042	false		durz		4837	door	en	22018	1034	false		durą
+fp	3619	Tür	de	22018	1040	false		durīz		3619	Tür	de	22018	1042	false		durz
+fp	3619	Tür	de	22018	1040	false		durīz		4555	deur	nl	22018	1042	false		durz
+fp	3619	Tür	de	22018	1040	false		durīz		4555	deur	nl	22018	4811	false		þeuraz
+fp	3619	Tür	de	22018	1040	false		durīz		4837	door	en	22018	1034	false		durą
+fp	3619	Tür	de	22018	1040	false		durīz		4837	door	en	22018	1042	false		durz
+fp	3619	Tür	de	22018	1042	false		durz		4555	deur	nl	22018	1040	false		durīz
+fp	3619	Tür	de	22018	1042	false		durz		4555	deur	nl	22018	4811	false		þeuraz
+fp	3619	Tür	de	22018	1042	false		durz		4837	door	en	22018	1034	false		durą
+fp	4555	deur	nl	22018	1040	false		durīz		4555	deur	nl	22018	1042	false		durz
+fp	4555	deur	nl	22018	1040	false		durīz		4555	deur	nl	22018	4811	false		þeuraz
+fp	4555	deur	nl	22018	1040	false		durīz		4837	door	en	22018	1034	false		durą
+fp	4555	deur	nl	22018	1040	false		durīz		4837	door	en	22018	1042	false		durz
+fp	4555	deur	nl	22018	1042	false		durz		4555	deur	nl	22018	4811	false		þeuraz
+fp	4555	deur	nl	22018	1042	false		durz		4837	door	en	22018	1034	false		durą
+fp	4555	deur	nl	22018	4811	false		þeuraz		4837	door	en	22018	1034	false		durą
+fp	4555	deur	nl	22018	4811	false		þeuraz		4837	door	en	22018	1042	false		durz
+fp	4837	door	en	22018	1034	false		durą		4837	door	en	22018	1042	false		durz
+fp	1472	kniv	da	14087	2495	true		knībaz		1472	kniv	da	14087	2496	false		knīfą
+fp	1487	mål	sv	4387	2956	false		maþlą		1487	mål	sv	4387	2970	false		mēlą
+fp	1487	mål	sv	4387	2956	false		maþlą		5498	meal	en	4387	2970	false		mēlą
+fp	1487	mål	sv	4387	2956	false		maþlą		5498	meal	en	4387	2980	false		melwą
+fp	1487	mål	sv	4387	2970	false		mēlą		5498	meal	en	4387	2980	false		melwą
+fp	5498	meal	en	4387	2970	false		mēlą		5498	meal	en	4387	2980	false		melwą
+fp	1537	gate	en	21783	1605	false		gatą		1537	gate	en	21783	1606	true		gatwǭ
+fp	1542	død	da	21646	887	false		daudaz		1542	død	da	21646	897	false		dauþuz
+fp	1542	død	da	21646	887	false		daudaz		2376	död	sv	21646	897	false		dauþuz
+fp	1542	død	da	21646	887	false		daudaz		3711	Tod	de	21646	897	false		dauþuz
+fp	1542	død	da	21646	887	false		daudaz		4634	dood	nl	21646	897	false		dauþuz
+fp	1542	død	da	21646	887	false		daudaz		5550	death	en	21646	897	false		dauþuz
+fp	1542	død	da	21646	897	false		dauþuz		2376	död	sv	21646	887	false		daudaz
+fp	1542	død	da	21646	897	false		dauþuz		4634	dood	nl	21646	887	false		daudaz
+fp	2376	död	sv	21646	887	false		daudaz		2376	död	sv	21646	897	false		dauþuz
+fp	2376	död	sv	21646	887	false		daudaz		3711	Tod	de	21646	897	false		dauþuz
+fp	2376	död	sv	21646	887	false		daudaz		4634	dood	nl	21646	897	false		dauþuz
+fp	2376	död	sv	21646	887	false		daudaz		5550	death	en	21646	897	false		dauþuz
+fp	2376	död	sv	21646	897	false		dauþuz		4634	dood	nl	21646	887	false		daudaz
+fp	3711	Tod	de	21646	897	false		dauþuz		4634	dood	nl	21646	887	false		daudaz
+fp	4634	dood	nl	21646	887	false		daudaz		4634	dood	nl	21646	897	false		dauþuz
+fp	4634	dood	nl	21646	887	false		daudaz		5550	death	en	21646	897	false		dauþuz
+fp	1553	vare	da	22548	4509	false		warōną		5560	ware	en	22548	4487	false		waraz
+fp	5560	ware	en	22548	4487	false		waraz		5560	ware	en	22548	4509	false		warōną
+fp	1562	vold	da	7483	4439	false		waldą		1562	vold	da	7483	4461	false		walþuz
+fp	1562	vold	da	7483	4461	false		walþuz		2391	våld	sv	7483	4439	false		waldą
+fp	1569	skade	da	17637	3616	false		skaþjaną		1569	skade	da	17637	3617	false		skaþô
+fp	1569	skade	da	17637	3616	false		skaþjaną		1569	skade	da	17637	3618	false		skaþōną
+fp	1569	skade	da	17637	3616	false		skaþjaną		4665	schade	nl	17637	3566	false		skadwaz
+fp	1569	skade	da	17637	3616	false		skaþjaną		4665	schade	nl	17637	3617	false		skaþô
+fp	1569	skade	da	17637	3617	false		skaþô		1569	skade	da	17637	3618	false		skaþōną
+fp	1569	skade	da	17637	3617	false		skaþô		4665	schade	nl	17637	3566	false		skadwaz
+fp	1569	skade	da	17637	3618	false		skaþōną		4665	schade	nl	17637	3566	false		skadwaz
+fp	1569	skade	da	17637	3618	false		skaþōną		4665	schade	nl	17637	3617	false		skaþô
+fp	4665	schade	nl	17637	3566	false		skadwaz		4665	schade	nl	17637	3617	false		skaþô
+fp	1574	tid	da	23868	4184	false		tīdiz		5579	time	en	23868	4196	false		tīmô
+fp	3748	Zeit	de	23868	4184	false		tīdiz		5579	time	en	23868	4196	false		tīmô
+fp	4669	tijd	nl	23868	4184	false		tīdiz		5579	time	en	23868	4196	false		tīmô
+fp	1583	vår	sv	5959	4333	false		unseraz		1583	vår	sv	5959	4520	false		wazrą
+fp	1639	grå	da	33949	1717	false		grēwaz		4723	grijs	nl	33949	1734	false		grīsaz
+fp	3817	grau	de	33949	1717	false		grēwaz		4723	grijs	nl	33949	1734	false		grīsaz
+fp	4723	grijs	nl	33949	1734	false		grīsaz		5642	grey	en	33949	1717	false		grēwaz
+fp	1664	naken	sv	39133	3115	false		nakwadaz		3835	nackt	de	39133	3117	false		nakwōną
+fp	1664	naken	sv	39133	3115	false		nakwadaz		4746	naakt	nl	39133	3117	false		nakwōną
+fp	1664	naken	sv	39133	3115	false		nakwadaz		5663	naked	en	39133	3117	false		nakwōną
+fp	3835	nackt	de	39133	3115	false		nakwadaz		3835	nackt	de	39133	3117	false		nakwōną
+fp	3835	nackt	de	39133	3115	false		nakwadaz		4746	naakt	nl	39133	3117	false		nakwōną
+fp	3835	nackt	de	39133	3115	false		nakwadaz		5663	naked	en	39133	3117	false		nakwōną
+fp	3835	nackt	de	39133	3117	false		nakwōną		4746	naakt	nl	39133	3115	false		nakwadaz
+fp	3835	nackt	de	39133	3117	false		nakwōną		5663	naked	en	39133	3115	false		nakwadaz
+fp	4746	naakt	nl	39133	3115	false		nakwadaz		4746	naakt	nl	39133	3117	false		nakwōną
+fp	4746	naakt	nl	39133	3115	false		nakwadaz		5663	naked	en	39133	3117	false		nakwōną
+fp	4746	naakt	nl	39133	3117	false		nakwōną		5663	naked	en	39133	3115	false		nakwadaz
+fp	5663	naked	en	39133	3115	false		nakwadaz		5663	naked	en	39133	3117	false		nakwōną
+fp	1680	nær	da	39211	3148	false		nēhwiz		2472	nära	sv	39211	3136	true		nazjaną
+fp	2472	nära	sv	39211	3136	true		nazjaną		2472	nära	sv	39211	3148	false		nēhwiz
+fp	1685	første	da	30851	1481	false		furistaz		3855	erster	de	30851	185	false		airistaz
+fp	1685	første	da	30851	1481	false		furistaz		4766	eerste	nl	30851	185	false		airistaz
+fp	1685	første	da	30851	1481	false		furistaz		5684	first	en	30851	1403	false		fristiz
+fp	1685	første	da	30851	1481	false		furistaz		5684	first	en	30851	1480	false		furist
+fp	2477	första	sv	30851	1481	false		furistaz		3855	erster	de	30851	185	false		airistaz
+fp	2477	första	sv	30851	1481	false		furistaz		4766	eerste	nl	30851	185	false		airistaz
+fp	2477	första	sv	30851	1481	false		furistaz		5684	first	en	30851	1403	false		fristiz
+fp	2477	första	sv	30851	1481	false		furistaz		5684	first	en	30851	1480	false		furist
+fp	3855	erster	de	30851	185	false		airistaz		5684	first	en	30851	1403	false		fristiz
+fp	3855	erster	de	30851	185	false		airistaz		5684	first	en	30851	1480	false		furist
+fp	3855	erster	de	30851	185	false		airistaz		5684	first	en	30851	1481	false		furistaz
+fp	4766	eerste	nl	30851	185	false		airistaz		5684	first	en	30851	1403	false		fristiz
+fp	4766	eerste	nl	30851	185	false		airistaz		5684	first	en	30851	1480	false		furist
+fp	4766	eerste	nl	30851	185	false		airistaz		5684	first	en	30851	1481	false		furistaz
+fp	5684	first	en	30851	1403	false		fristiz		5684	first	en	30851	1480	false		furist
+fp	5684	first	en	30851	1403	false		fristiz		5684	first	en	30851	1481	false		furistaz
+fp	5684	first	en	30851	1480	false		furist		5684	first	en	30851	1481	false		furistaz
+fp	1712	hit	en	34387	1993	false		hit		1712	hit	en	34387	1994	false		hittijaną
+fp	1749	hvem	da	51835	2249	false		hwammai		1749	hvem	da	51835	2266	false		hwaz
+fp	1749	hvem	da	51835	2249	false		hwammai		2532	vem	sv	51835	2266	false		hwaz
+fp	1749	hvem	da	51835	2266	false		hwaz		2532	vem	sv	51835	2249	false		hwammai
+fp	2532	vem	sv	51835	2249	false		hwammai		2532	vem	sv	51835	2266	false		hwaz
+fp	1832	ånde	da	25545	288	false		anadô		1832	ånde	da	25545	289	false		anadōną
+fp	1836	svelge	nb	43433	4083	true		swelganą		5807	swallow	en	43433	4060	false		swalwǭ
+fp	2612	svälja	sv	43433	4083	false		swelganą		5807	swallow	en	43433	4060	false		swalwǭ
+fp	5807	swallow	en	43433	4060	false		swalwǭ		5807	swallow	en	43433	4083	false		swelganą
+fp	1885	like	en	38961	1547	false		galīkaz		1885	like	en	38961	2785	false		līkijaną
+fp	1892	rømme	nb	32243	3295	true		raumaz		1892	rømme	nb	32243	3376	false		rūmijaną
+fp	1892	rømme	nb	32243	3295	true		raumaz		2662	rymma	sv	32243	3376	false		rūmijaną
+fp	1897	høre	da	35355	1932	false		hauzijaną		5011	horen	nl	35355	2225	false		hurną
+fp	2665	höra	sv	35355	1932	false		hauzijaną		5011	horen	nl	35355	2225	false		hurną
+fp	4068	hören	de	35355	1932	false		hauzijaną		5011	horen	nl	35355	2225	false		hurną
+fp	5011	horen	nl	35355	1932	false		hauzijaną		5011	horen	nl	35355	2225	false		hurną
+fp	1902	føle	da	32549	1325	true		fōlijaną		5864	feel	en	32549	1218	false		felu
+fp	4072	fühlen	de	32549	1325	false		fōlijaną		5864	feel	en	32549	1218	false		felu
+fp	5015	voelen	nl	32549	1325	false		fōlijaną		5864	feel	en	32549	1218	false		felu
+fp	5864	feel	en	32549	1218	false		felu		5864	feel	en	32549	1325	false		fōlijaną
+fp	1921	løfte	da	35313	2829	false		luftijaną		5889	lift	en	35313	2830	false		luftuz
+fp	2696	lyfta	sv	35313	2829	false		luftijaną		5889	lift	en	35313	2830	false		luftuz
+fp	5889	lift	en	35313	2829	true		luftijaną		5889	lift	en	35313	2830	false		luftuz
+fp	1939	gripe	nb	40140	1730	false		grīpaną		5911	grab	en	40140	1701	false		grappōną
+fp	2718	gripa	sv	40140	1730	false		grīpaną		5911	grab	en	40140	1701	false		grappōną
+fp	3235	gribe	da	40140	1730	false		grīpaną		5911	grab	en	40140	1701	false		grappōną
+fp	1952	bryte	nb	28400	751	false		breutaną		2578	brista	sv	28400	747	false		brestaną
+fp	2578	brista	sv	28400	747	false		brestaną		2728	bryta	sv	28400	751	false		breutaną
+fp	1953	banke	da	36543	485	false		bang-		1953	banke	da	36543	489	false		bankô
+fp	1953	banke	da	36543	489	false		bankô		2729	banka	sv	36543	485	false		bang-
+fp	1989	love	en	38354	2827	false		lubō		1989	love	en	38354	2828	false		lubōną
+fp	1991	kysse	da	37297	2606	false		kussijaną		5927	kiss	en	37297	2605	false		kussaz
+fp	4167	küssen	de	37297	2606	false		kussijaną		5927	kiss	en	37297	2605	false		kussaz
+fp	4611	kussen	nl	37297	2606	false		kussijaną		5927	kiss	en	37297	2605	false		kussaz
+fp	5927	kiss	en	37297	2605	false		kussaz		5927	kiss	en	37297	2606	false		kussijaną
+fp	1994	føre	da	32622	1327	false		fōriją		1994	føre	da	32622	1328	false		fōrijaną
+fp	1994	føre	da	32622	1327	false		fōriją		2771	föra	sv	32622	1328	false		fōrijaną
+fp	1994	føre	da	32622	1327	false		fōriją		4172	führen	de	32622	1328	false		fōrijaną
+fp	1998	lede	da	38076	2664	false		laidijaną		1998	lede	da	38076	4675	false		wlaitōną
+fp	1998	lede	da	38076	2664	false		laidijaną		5933	lead	en	38076	2717	false		laudą
+fp	1998	lede	da	38076	4675	false		wlaitōną		2775	leda	sv	38076	2664	false		laidijaną
+fp	1998	lede	da	38076	4675	false		wlaitōną		4176	leiten	de	38076	2664	false		laidijaną
+fp	1998	lede	da	38076	4675	false		wlaitōną		5125	leiden	nl	38076	2664	false		laidijaną
+fp	1998	lede	da	38076	4675	false		wlaitōną		5933	lead	en	38076	2664	false		laidijaną
+fp	1998	lede	da	38076	4675	false		wlaitōną		5933	lead	en	38076	2717	false		laudą
+fp	2775	leda	sv	38076	2664	false		laidijaną		5933	lead	en	38076	2717	false		laudą
+fp	4176	leiten	de	38076	2664	false		laidijaną		5933	lead	en	38076	2717	false		laudą
+fp	5125	leiden	nl	38076	2664	false		laidijaną		5933	lead	en	38076	2717	false		laudą
+fp	5933	lead	en	38076	2664	false		laidijaną		5933	lead	en	38076	2717	false		laudą
+fp	2030	arbeide	nb	25389	351	true		arbaidijaną		2950	arbejde	da	25389	352	true		arbaidiz
+fp	2806	arbeta	sv	25389	351	true		arbaidijaną		2950	arbejde	da	25389	352	true		arbaidiz
+fp	2950	arbejde	da	25389	351	true		arbaidijaną		2950	arbejde	da	25389	352	true		arbaidiz
+fp	2950	arbejde	da	25389	352	true		arbaidiz		4208	arbeiten	de	25389	351	false		arbaidijaną
+fp	2031	samle	da	42071	3444	true		samlōną		2031	samle	da	42071	3445	true		samnōną
+fp	2031	samle	da	42071	3444	true		samlōną		2807	samla	sv	42071	3445	true		samnōną
+fp	2031	samle	da	42071	3444	true		samlōną		4209	sammeln	de	42071	3445	false		samnōną
+fp	2031	samle	da	42071	3445	true		samnōną		2807	samla	sv	42071	3444	true		samlōną
+fp	2031	samle	da	42071	3445	true		samnōną		4209	sammeln	de	42071	3444	false		samlōną
+fp	2807	samla	sv	42071	3444	true		samlōną		2807	samla	sv	42071	3445	true		samnōną
+fp	2807	samla	sv	42071	3444	true		samlōną		4209	sammeln	de	42071	3445	false		samnōną
+fp	2807	samla	sv	42071	3445	true		samnōną		4209	sammeln	de	42071	3444	false		samlōną
+fp	4209	sammeln	de	42071	3444	false		samlōną		4209	sammeln	de	42071	3445	false		samnōną
+fp	2049	vaske	da	51315	4514	false		waskaną		5178	wassen	nl	51315	4403	false		wahsijaną
+fp	4231	waschen	de	51315	4514	false		waskaną		5178	wassen	nl	51315	4403	false		wahsijaną
+fp	5178	wassen	nl	51315	4403	false		wahsijaną		5178	wassen	nl	51315	4514	false		waskaną
+fp	2071	tenke	nb	28924	4777	true		þankijaną		5989	think	en	28924	4881	false		þunkijaną
+fp	2843	tänka	sv	28924	4777	true		þankijaną		5989	think	en	28924	4881	false		þunkijaną
+fp	3290	tænke	da	28924	4777	true		þankijaną		5989	think	en	28924	4881	false		þunkijaną
+fp	4254	denken	nl	28924	4777	false		þankijaną		5989	think	en	28924	4881	false		þunkijaną
+fp	5989	think	en	28924	4777	false		þankijaną		5989	think	en	28924	4881	false		þunkijaną
+fp	2098	läpp	sv	13175	2747	false		lepô		3309	Lippe	de	13175	2802	true		lipjô
+fp	2098	läpp	sv	13175	2747	false		lepô		3309	Lippe	de	13175	2802	false		lipjô
+fp	2098	läpp	sv	13175	2747	false		lepô		4281	lip	en	13175	2802	false		lipjô
+fp	2869	læbe	da	13175	2747	false		lepô		3309	Lippe	de	13175	2802	true		lipjô
+fp	2869	læbe	da	13175	2747	false		lepô		3309	Lippe	de	13175	2802	false		lipjô
+fp	2869	læbe	da	13175	2747	false		lepô		4281	lip	en	13175	2802	false		lipjô
+fp	2163	flod	da	5656	1304	false		flōduz		3404	Fluss	de	5656	1314	false		flutą
+fp	2198	mask	sv	23590	2883	true		maiskaz		2198	mask	sv	23590	2959	false		maþô
+fp	2199	spindel	sv	19795	3834	true		spinnilō		5354	spider	en	19795	3835	false		spinþrô
+fp	2254	hjälp	sv	9394	1953	false		helpō		4489	hulp	nl	9394	2201	false		hulpiz
+fp	2254	hjälp	sv	9394	1953	false		helpō		5423	help	en	9394	1951	false		helpaną
+fp	2954	hjælp	da	9394	1953	false		helpō		4489	hulp	nl	9394	2201	false		hulpiz
+fp	2954	hjælp	da	9394	1953	false		helpō		5423	help	en	9394	1951	false		helpaną
+fp	3551	Hilfe	de	9394	1953	false		helpō		4489	hulp	nl	9394	2201	false		hulpiz
+fp	3551	Hilfe	de	9394	1953	false		helpō		5423	help	en	9394	1951	false		helpaną
+fp	4489	hulp	nl	9394	2201	false		hulpiz		5423	help	en	9394	1951	false		helpaną
+fp	4489	hulp	nl	9394	2201	false		hulpiz		5423	help	en	9394	1953	false		helpō
+fp	5423	help	en	9394	1951	false		helpaną		5423	help	en	9394	1953	false		helpō
+fp	2264	streck	sv	20760	3970	true		strikiz		5432	stroke	en	20760	3944	false		straikaz
+fp	2264	streck	sv	20760	3970	true		strikiz		5432	stroke	en	20760	3945	false		straikōną
+fp	2959	streg	da	20760	3970	true		strikiz		5432	stroke	en	20760	3944	false		straikaz
+fp	2959	streg	da	20760	3970	true		strikiz		5432	stroke	en	20760	3945	false		straikōną
+fp	3563	Strich	de	20760	3970	false		strikiz		5432	stroke	en	20760	3944	false		straikaz
+fp	3563	Strich	de	20760	3970	false		strikiz		5432	stroke	en	20760	3945	false		straikōną
+fp	5432	stroke	en	20760	3944	false		straikaz		5432	stroke	en	20760	3945	false		straikōną
+fp	2271	vrå	sv	3554	4701	false		wraihaz		2271	vrå	sv	3554	4707	false		wranhō
+fp	2280	mängd	sv	13968	2904	false		managiþō		3585	Menge	de	13968	2903	false		managį̄
+fp	2969	mængde	da	13968	2904	false		managiþō		3585	Menge	de	13968	2903	false		managį̄
+fp	2326	lock	en	18184	2835	false		luką		2326	lock	en	18184	2836	false		lūkaną
+fp	2326	lock	en	18184	2835	false		luką		2326	lock	en	18184	2838	false		lukkaz
+fp	2326	lock	en	18184	2836	false		lūkaną		2326	lock	en	18184	2838	false		lukkaz
+fp	2347	ylle	sv	23393	4737	false		wullīnaz		3001	uld	da	23393	4738	false		wullō
+fp	2360	lina	sv	12897	2799	false		līnǭ		4502	lijn	nl	12897	2790	false		līną
+fp	3686	Leine	de	12897	2799	false		līnǭ		4502	lijn	nl	12897	2790	false		līną
+fp	4502	lijn	nl	12897	2790	false		līną		4502	lijn	nl	12897	2799	false		līnǭ
+fp	2366	styrka	sv	20292	3997	false		sturkiz		3692	Stärke	de	20292	3921	true		steuraz
+fp	2396	skada	sv	27313	3616	false		skaþjaną		2396	skada	sv	27313	3617	false		skaþô
+fp	2396	skada	sv	27313	3616	false		skaþjaną		2396	skada	sv	27313	3618	false		skaþōną
+fp	2396	skada	sv	27313	3617	false		skaþô		2396	skada	sv	27313	3618	false		skaþōną
+fp	2425	slö	sv	47616	3703	false		slaiwaz		3048	sløv	da	47616	3726	false		slōgiz
+fp	3048	sløv	da	47616	3703	false		slaiwaz		3048	sløv	da	47616	3726	false		slōgiz
+fp	2437	söt	sv	47666	4119	false		swōtuz		4713	zoet	nl	47666	3799	false		sōtą
+fp	3062	sød	da	47666	4119	false		swōtuz		4713	zoet	nl	47666	3799	false		sōtą
+fp	3809	süß	de	47666	4119	false		swōtuz		4713	zoet	nl	47666	3799	false		sōtą
+fp	4713	zoet	nl	47666	3799	false		sōtą		4713	zoet	nl	47666	4119	false		swōtuz
+fp	4713	zoet	nl	47666	3799	false		sōtą		5633	sweet	en	47666	4119	false		swōtuz
+fp	2491	före	sv	50805	1327	false		fōriją		2491	före	sv	50805	1458	false		furai
+fp	2491	före	sv	50805	1327	false		fōriją		2491	före	sv	50805	1475	false		furi
+fp	2491	före	sv	50805	1458	false		furai		2491	före	sv	50805	1475	false		furi
+fp	2531	vad	sv	51247	2262	false		hwat		2531	vad	sv	51247	2266	false		hwaz
+fp	2531	vad	sv	51247	2262	false		hwat		2531	vad	sv	51247	4386	false		wadą
+fp	2531	vad	sv	51247	2262	false		hwat		2531	vad	sv	51247	4388	false		wadaz
+fp	2531	vad	sv	51247	2262	false		hwat		2531	vad	sv	51247	4390	false		wadją
+fp	2531	vad	sv	51247	2262	false		hwat		2531	vad	sv	51247	4521	false		waþwô
+fp	2531	vad	sv	51247	2266	false		hwaz		2531	vad	sv	51247	4386	false		wadą
+fp	2531	vad	sv	51247	2266	false		hwaz		2531	vad	sv	51247	4388	false		wadaz
+fp	2531	vad	sv	51247	2266	false		hwaz		2531	vad	sv	51247	4390	false		wadją
+fp	2531	vad	sv	51247	2266	false		hwaz		2531	vad	sv	51247	4521	false		waþwô
+fp	2531	vad	sv	51247	2266	false		hwaz		3912	was	de	51247	2262	false		hwat
+fp	2531	vad	sv	51247	2266	false		hwaz		4824	wat	nl	51247	2262	false		hwat
+fp	2531	vad	sv	51247	2266	false		hwaz		5739	what	en	51247	2262	false		hwat
+fp	2531	vad	sv	51247	4386	false		wadą		2531	vad	sv	51247	4388	false		wadaz
+fp	2531	vad	sv	51247	4386	false		wadą		2531	vad	sv	51247	4390	false		wadją
+fp	2531	vad	sv	51247	4386	false		wadą		2531	vad	sv	51247	4521	false		waþwô
+fp	2531	vad	sv	51247	4386	false		wadą		3912	was	de	51247	2262	false		hwat
+fp	2531	vad	sv	51247	4386	false		wadą		4824	wat	nl	51247	2262	false		hwat
+fp	2531	vad	sv	51247	4386	false		wadą		5739	what	en	51247	2262	false		hwat
+fp	2531	vad	sv	51247	4388	false		wadaz		2531	vad	sv	51247	4390	false		wadją
+fp	2531	vad	sv	51247	4388	false		wadaz		2531	vad	sv	51247	4521	false		waþwô
+fp	2531	vad	sv	51247	4388	false		wadaz		3912	was	de	51247	2262	false		hwat
+fp	2531	vad	sv	51247	4388	false		wadaz		4824	wat	nl	51247	2262	false		hwat
+fp	2531	vad	sv	51247	4388	false		wadaz		5739	what	en	51247	2262	false		hwat
+fp	2531	vad	sv	51247	4390	false		wadją		2531	vad	sv	51247	4521	false		waþwô
+fp	2531	vad	sv	51247	4390	false		wadją		3912	was	de	51247	2262	false		hwat
+fp	2531	vad	sv	51247	4390	false		wadją		4824	wat	nl	51247	2262	false		hwat
+fp	2531	vad	sv	51247	4390	false		wadją		5739	what	en	51247	2262	false		hwat
+fp	2531	vad	sv	51247	4521	false		waþwô		3912	was	de	51247	2262	false		hwat
+fp	2531	vad	sv	51247	4521	false		waþwô		4824	wat	nl	51247	2262	false		hwat
+fp	2531	vad	sv	51247	4521	false		waþwô		5739	what	en	51247	2262	false		hwat
+fp	2537	två	sv	53737	4267	false		twai		2537	två	sv	53737	4904	false		þwahaną
+fp	2537	två	sv	53737	4904	false		þwahaną		3920	zwei	de	53737	4267	false		twai
+fp	2537	två	sv	53737	4904	false		þwahaną		4853	twee	nl	53737	4267	false		twai
+fp	2539	åtta	sv	24429	131	false		ahtōu		3123	otte	da	24429	4318	false		unhtwǭ
+fp	2539	åtta	sv	24429	131	false		ahtōu		3926	acht	nl	24429	129	false		ahtō
+fp	2539	åtta	sv	24429	131	false		ahtōu		3926	acht	nl	24429	325	false		anhtō
+fp	3123	otte	da	24429	131	false		ahtōu		3123	otte	da	24429	4318	false		unhtwǭ
+fp	3123	otte	da	24429	131	false		ahtōu		3926	acht	nl	24429	129	false		ahtō
+fp	3123	otte	da	24429	131	false		ahtōu		3926	acht	nl	24429	325	false		anhtō
+fp	3123	otte	da	24429	4318	false		unhtwǭ		3926	acht	nl	24429	129	false		ahtō
+fp	3123	otte	da	24429	4318	false		unhtwǭ		3926	acht	nl	24429	131	false		ahtōu
+fp	3123	otte	da	24429	4318	false		unhtwǭ		3926	acht	nl	24429	325	false		anhtō
+fp	3926	acht	nl	24429	129	false		ahtō		3926	acht	nl	24429	131	false		ahtōu
+fp	3926	acht	nl	24429	129	false		ahtō		3926	acht	nl	24429	325	false		anhtō
+fp	3926	acht	nl	24429	131	false		ahtōu		3926	acht	nl	24429	325	false		anhtō
+fp	2555	hända	sv	40198	1859	false		handijaną		5767	happen	en	40198	1857	true		hampijaną
+fp	3130	hænde	da	40198	1859	false		handijaną		5767	happen	en	40198	1857	true		hampijaną
+fp	2568	brinna	sv	28519	762	false		brinnaną		3963	brennen	de	28519	733	false		brannijaną
+fp	2573	smälta	sv	43491	3740	false		smeltaną		5780	melt	en	43491	2976	false		meltaną
+fp	3968	schmelzen	de	43491	3740	false		smeltaną		5780	melt	en	43491	2976	false		meltaną
+fp	4898	smelten	nl	43491	3740	false		smeltaną		5780	melt	en	43491	2976	false		meltaną
+fp	2599	skälla	sv	42843	3582	false		skallijaną		5000	schelden	nl	42843	3623	false		skeldaną
+fp	2642	resa	sv	24100	3273	true		raisō		2642	resa	sv	24100	3274	true		raisōną
+fp	2642	resa	sv	24100	3273	true		raisō		2642	resa	sv	24100	3275	false		raizijaną
+fp	2642	resa	sv	24100	3274	true		raisōną		2642	resa	sv	24100	3275	false		raizijaną
+fp	2675	förnimma	sv	49988	3149	false		nemaną		4074	vernehmen	de	49988	1364	false		franemaną
+fp	2675	förnimma	sv	49988	3149	false		nemaną		5018	vernemen	nl	49988	1364	false		franemaną
+fp	2712	böja	sv	27746	530	false		baugijaną		4105	biegen	de	27746	576	false		beuganą
+fp	2712	böja	sv	27746	530	false		baugijaną		5051	buigen	nl	27746	576	false		beuganą
+fp	2734	slipa	sv	43175	3723	true		slīpaną		4128	schleifen	de	43175	3702	false		slaipijaną
+fp	4128	schleifen	de	43175	3702	false		slaipijaną		4128	schleifen	de	43175	3723	false		slīpaną
+fp	4128	schleifen	de	43175	3702	false		slaipijaną		5076	slijpen	nl	43175	3723	false		slīpaną
+fp	2764	räcka	sv	40977	3277	false		rakjaną		4162	reichen	de	40977	3270	false		raikijaną
+fp	2764	räcka	sv	40977	3277	false		rakjaną		5111	reiken	nl	40977	3270	false		raikijaną
+fp	2970	række	da	40977	3277	false		rakjaną		4162	reichen	de	40977	3270	false		raikijaną
+fp	2970	række	da	40977	3277	false		rakjaną		5111	reiken	nl	40977	3270	false		raikijaną
+fp	2772	lära	sv	38014	2676	true		laizijaną		2772	lära	sv	38014	2678	true		laizō
+fp	2772	lära	sv	38014	2678	true		laizō		4173	lehren	de	38014	2676	false		laizijaną
+fp	2782	möta	sv	48344	3063	false		mōtijaną		3253	møde	da	48344	3061	false		mōtą
+fp	3253	møde	da	48344	3061	false		mōtą		3253	møde	da	48344	3063	false		mōtijaną
+fp	3253	møde	da	48344	3061	false		mōtą		5131	ontmoeten	nl	48344	3063	false		mōtijaną
+fp	3253	møde	da	48344	3061	false		mōtą		5939	meet	en	48344	3063	false		mōtijaną
+fp	2897	høj	da	487	1920	false		haugaz		2897	høj	da	487	1923	false		hauhaz
+fp	2948	hvile	da	17279	2280	false		hwīlāną		2948	hvile	da	17279	2282	false		hwīlō
+fp	2968	vægt	da	7600	4606	false		wihtiz		3584	Gewicht	de	7600	1618	false		gawihtiją
+fp	2968	vægt	da	7600	4606	false		wihtiz		4522	gewicht	nl	7600	1618	false		gawihtiją
+fp	3584	Gewicht	de	7600	1618	false		gawihtiją		5449	weight	en	7600	4606	false		wihtiz
+fp	4522	gewicht	nl	7600	1618	false		gawihtiją		5449	weight	en	7600	4606	false		wihtiz
+fp	3047	blød	da	51688	655	false		blautaz		3047	blød	da	51688	659	false		blauþuz
+fp	3069	køn	da	35381	2514	false		kōniz		3069	køn	da	35381	2588	false		kunją
+fp	3119	hvad	da	51246	2262	false		hwat		3119	hvad	da	51246	2266	false		hwaz
+fp	3167	rende	da	41283	3283	false		rannijaną		4028	rennen	nl	41283	3349	false		rinnaną
+fp	4028	rennen	nl	41283	3283	false		rannijaną		4028	rennen	nl	41283	3349	false		rinnaną
+fp	3353	Träne	de	21817	971	false		drēnuz		3353	Träne	de	21817	4216	false		trahnuz
+fp	3353	Träne	de	21817	971	false		drēnuz		4315	traan	nl	21817	4216	false		trahnuz
+fp	3377	Wolke	de	23331	4735	false		wulkaną		3377	Wolke	de	23331	4736	false		wulkną
+fp	3377	Wolke	de	23331	4736	false		wulkną		4337	wolk	nl	23331	4735	false		wulkaną
+fp	3392	Sumpf	de	21107	4018	false		sumpaz		5293	swamp	en	21107	4062	false		swammaz
+fp	5293	swamp	en	21107	4018	true		sumpaz		5293	swamp	en	21107	4062	false		swammaz
+fp	3433	Tier	de	21497	916	false		deuzą		4380	dier	nl	21497	939	false		diurijaz
+fp	4380	dier	nl	21497	916	false		deuzą		4380	dier	nl	21497	939	false		diurijaz
+fp	3442	Bär	de	1323	459	false		bairaz		3442	Bär	de	1323	570	false		berô
+fp	3442	Bär	de	1323	459	false		bairaz		4387	beer	nl	1323	570	false		berô
+fp	3442	Bär	de	1323	459	false		bairaz		5334	bear	en	1323	559	false		beraną
+fp	3442	Bär	de	1323	459	false		bairaz		5334	bear	en	1323	570	false		berô
+fp	3442	Bär	de	1323	570	false		berô		4387	beer	nl	1323	459	false		bairaz
+fp	3442	Bär	de	1323	570	false		berô		5334	bear	en	1323	559	false		beraną
+fp	4387	beer	nl	1323	459	false		bairaz		4387	beer	nl	1323	570	false		berô
+fp	4387	beer	nl	1323	459	false		bairaz		5334	bear	en	1323	559	false		beraną
+fp	4387	beer	nl	1323	459	false		bairaz		5334	bear	en	1323	570	false		berô
+fp	4387	beer	nl	1323	570	false		berô		5334	bear	en	1323	559	false		beraną
+fp	5334	bear	en	1323	559	false		beraną		5334	bear	en	1323	570	false		berô
+fp	3457	Kranich	de	11777	2531	false		kranukaz		5347	crane	en	11777	2530	false		kranô
+fp	3458	Krähe	de	11686	2538	false		krēǭ		5348	crow	en	11686	2536	false		krēaną
+fp	5348	crow	en	11686	2536	false		krēaną		5348	crow	en	11686	2538	false		krēǭ
+fp	3462	Barsch	de	1370	509	false		barsaz		4406	baars	nl	1370	498	false		bardǭ
+fp	4406	baars	nl	1370	498	false		bardǭ		4406	baars	nl	1370	509	false		barsaz
+fp	3504	Mutter	de	14678	3051	false		mōdēr		5382	mother	en	14678	3103	false		muþraz
+fp	5382	mother	en	14678	3051	false		mōdēr		5382	mother	en	14678	3103	false		muþraz
+fp	3536	Wort	de	23420	4749	false		wurdą		5410	word	en	23420	4562	false		werþaną
+fp	4474	woord	nl	23420	4749	false		wurdą		5410	word	en	23420	4562	false		werþaną
+fp	5410	word	en	23420	4562	false		werþaną		5410	word	en	23420	4749	false		wurdą
+fp	3558	Teil	de	21476	853	false		dailą		3558	Teil	de	21476	855	false		dailiz
+fp	3560	Kreis	de	11897	2523	false		kraitaz		4500	kring	nl	11897	2545	false		kringaz
+fp	3593	Last	de	12453	2018	false		hlastuz		5457	load	en	12453	2666	false		laidō
+fp	3620	Tor	de	21771	894	false		dauzô		3620	Tor	de	21771	1034	false		durą
+fp	3640	Eimer	de	3819	165	false		aimuzjǭ		3640	Eimer	de	3819	276	false		ambrijaz
+fp	3701	Pfad	de	15953	3227	false		paþaz		4623	pad	nl	15953	3214	false		paddǭ
+fp	4623	pad	nl	15953	3214	false		paddǭ		4623	pad	nl	15953	3227	false		paþaz
+fp	4623	pad	nl	15953	3214	false		paddǭ		5543	path	en	15953	3227	false		paþaz
+fp	3797	kühl	de	37196	2513	false		kōluz		4703	koel	nl	37196	2510	false		kōlaz
+fp	3797	kühl	de	37196	2513	false		kōluz		5621	cool	en	37196	2510	false		kōlaz
+fp	4703	koel	nl	37196	2510	false		kōlaz		4703	koel	nl	37196	2513	false		kōluz
+fp	4703	koel	nl	37196	2510	false		kōlaz		5621	cool	en	37196	2513	false		kōluz
+fp	4703	koel	nl	37196	2513	false		kōluz		5621	cool	en	37196	2510	false		kōlaz
+fp	5621	cool	en	37196	2510	false		kōlaz		5621	cool	en	37196	2513	false		kōluz
+fp	3812	dunkel	de	29627	1029	false		dunkalaz		4716	donker	nl	29627	1030	false		dunkaraz
+fp	4716	donker	nl	29627	1029	false		dunkalaz		4716	donker	nl	29627	1030	false		dunkaraz
+fp	3833	sanft	de	42118	3342	false		rīkisōną		4743	zacht	nl	42118	3442	false		samftijaz
+fp	3850	nah	de	39162	3143	false		nēhw		3850	nah	de	39162	3146	false		nēhwaz
+fp	3911	ihr	de	35689	1974	false		hezōi		3911	ihr	de	35689	2375	false		jūz
+fp	3973	reißen	de	41030	2145	false		hrītaną		3973	reißen	de	41030	4721	false		wrītaną
+fp	3997	stöhnen	de	47356	3990	true		stunōną		4932	steunen	nl	47356	3911	false		stenaną
+fp	4932	steunen	nl	47356	3911	false		stenaną		4932	steunen	nl	47356	3990	false		stunōną
+fp	4007	schlafen	de	42939	3708	false		slēpaną		5266	sleep	en	42939	3709	false		slēpaz
+fp	4941	slapen	nl	42939	3708	false		slēpaną		5266	sleep	en	42939	3709	false		slēpaz
+fp	5266	sleep	en	42939	3708	false		slēpaną		5266	sleep	en	42939	3709	false		slēpaz
+fp	4023	laufen	de	37604	2020	false		hlaupaną		4960	lopen	nl	37604	2728	false		laupaz
+fp	4960	lopen	nl	37604	2020	false		hlaupaną		4960	lopen	nl	37604	2728	false		laupaz
+fp	4048	warten	de	51171	4490	false		wardāną		4989	wachten	nl	51171	4407	false		wahtwijaną
+fp	4116	lecken	de	37793	2681	false		lakjaną		4116	lecken	de	37793	2786	false		likkōną
+fp	4116	lecken	de	37793	2681	false		lakjaną		5894	lick	en	37793	2786	false		likkōną
+fp	4127	streichen	de	47458	3945	false		straikōną		4127	streichen	de	47458	3969	false		strīkaną
+fp	4155	verderben	de	49448	878	false		darbijaną		4155	verderben	de	49448	909	false		derbaną
+fp	4255	glauben	de	33883	1540	false		galaubijaną		5990	believe	en	33883	612	false		bilaubijaną
+fp	5201	geloven	nl	33883	1540	false		galaubijaną		5990	believe	en	33883	612	false		bilaubijaną
+fp	4264	messen	de	38839	2992	false		metaną		4264	messen	de	38839	2996	false		metōną
+fp	4300	teen	nl	23823	4124	false		taihwǭ		4300	teen	nl	23823	4128	false		tainaz
+fp	4312	maag	nl	13606	2862	false		magô		4312	maag	nl	13606	2966	false		mēgaz
+fp	4334	weer	nl	52090	2268	false		hwaþeraz		4334	weer	nl	52090	4501	false		warīniz
+fp	4334	weer	nl	52090	2268	false		hwaþeraz		4334	weer	nl	52090	4526	false		wedrą
+fp	4334	weer	nl	52090	2268	false		hwaþeraz		4334	weer	nl	52090	4580	false		weþruz
+fp	4334	weer	nl	52090	4501	false		warīniz		4334	weer	nl	52090	4526	false		wedrą
+fp	4334	weer	nl	52090	4501	false		warīniz		4334	weer	nl	52090	4580	false		weþruz
+fp	4334	weer	nl	52090	4526	false		wedrą		4334	weer	nl	52090	4580	false		weþruz
+fp	4352	meer	nl	19070	2891	false		maizô		4352	meer	nl	19070	2924	false		mari
+fp	4366	eiland	nl	10035	433	true		awjōlandą		5309	island	en	10035	432	false		awjō
+fp	5309	island	en	10035	432	false		awjō		5309	island	en	10035	433	false		awjōlandą
+fp	4372	wilg	nl	22675	4613	false		wiligjǭ		5320	willow	en	22675	4612	false		wiligaz
+fp	4472	taal	nl	19898	4122	false		taglą		4472	taal	nl	19898	4139	false		talō
+fp	4498	deel	nl	21449	853	false		dailą		4498	deel	nl	21449	4820	false		þiljǭ
+fp	4527	boot	en	20469	715	false		bōtō		4527	boot	en	20469	841	true		buttaz
+fp	4602	broek	nl	9765	767	false		brōkaz		4602	broek	nl	9765	768	false		brōks
+fp	4733	kwaad	nl	43389	2624	false		kwēdą		4733	kwaad	nl	43389	2625	false		kwēdaz
+fp	4849	hoe	nl	52060	2292	false		hwō		5743	how	en	52060	1920	true		haugaz
+fp	4849	hoe	nl	52060	2292	false		hwō		5743	how	en	52060	2183	false		hūbǭ
+fp	5743	how	en	52060	1920	true		haugaz		5743	how	en	52060	2183	false		hūbǭ
+fp	5743	how	en	52060	1920	true		haugaz		5743	how	en	52060	2292	false		hwō
+fp	5743	how	en	52060	2183	false		hūbǭ		5743	how	en	52060	2292	false		hwō
+fp	4871	of	nl	39948	1066	false		efþau		4871	of	nl	39948	2343	false		jabai
+fp	5016	lijken	nl	42594	1549	false		galīkōną		5016	lijken	nl	42594	2785	false		līkijaną
+fp	5149	prikken	nl	46931	3244	false		prikjaną		5149	prikken	nl	46931	3245	false		prikkōną
+fp	5159	werken	nl	25339	4639	false		wirkijaną		5419	work	en	25339	4552	false		werką
+fp	5159	werken	nl	25339	4639	false		wirkijaną		5419	work	en	25339	4756	false		wurkijaną
+fp	5419	work	en	25339	4552	false		werką		5419	work	en	25339	4639	false		wirkijaną
+fp	5419	work	en	25339	4552	false		werką		5419	work	en	25339	4756	false		wurkijaną
+fp	5419	work	en	25339	4639	false		wirkijaną		5419	work	en	25339	4756	false		wurkijaną
+fp	5221	ear	en	15616	124	false		ahaz		5221	ear	en	15616	361	false		arjaną
+fp	5263	tear	en	52870	4123	false		tahrą		5263	tear	en	52870	4170	false		teraną
+fp	5274	dust	en	20319	1032	false		dunstą		5274	dust	en	20319	1046	false		dustą
+fp	5277	light	en	25331	2795	false		lingwaną		5277	light	en	25331	2810	false		liuhtijaną
+fp	5292	lake	en	19083	2668	false		laiką		5292	lake	en	19083	2669	false		laikaną
+fp	5292	lake	en	19083	2668	false		laiką		5292	lake	en	19083	2680	false		lakaną
+fp	5292	lake	en	19083	2669	false		laikaną		5292	lake	en	19083	2680	false		lakaną
+fp	5295	meadow	en	23073	2965	false		mēdwō		5295	meadow	en	23073	2999	false		mēþwō
+fp	5303	brook	en	1238	767	false		brōkaz		5303	brook	en	1238	777	false		brūkaną
+fp	5345	duck	en	4166	944	true		dōkaz		5345	duck	en	4166	1012	false		dūkaną
+fp	5398	mind	en	22235	1562	false		gamundiz		5398	mind	en	22235	3080	false		mundiz
+fp	5414	sound	en	36445	4020	true		sundą		5414	sound	en	36445	4021	false		sundaz
+fp	5414	sound	en	36445	4020	false		sundą		5414	sound	en	36445	4021	false		sundaz
+fp	5429	half	en	8545	1832	false		halbaz		5429	half	en	8545	1835	false		halbō
+fp	5444	angle	en	23175	319	false		angulaz		5444	angle	en	23175	320	false		angulō
+fp	5458	walk	en	37595	4451	false		walkaną		5458	walk	en	37595	4452	false		walkōną
+fp	5459	step	en	18603	3896	false		stapiz		5459	step	en	18603	3897	false		stapjaną
+fp	5503	bread	en	2430	724	false		braidį̄		5503	bread	en	2430	725	false		braidijaną
+fp	5503	bread	en	2430	724	false		braidį̄		5503	bread	en	2430	734	false		braudą
+fp	5503	bread	en	2430	725	false		braidijaną		5503	bread	en	2430	734	false		braudą
+fp	5541	well	en	2579	4454	false		wallijǭ		5541	well	en	2579	4534	false		wela
+fp	5605	short	en	37219	3690	false		skurtaz		5605	short	en	37219	3692	false		skurtōną
+fp	5614	round	en	41888	3380	false		rūnō		5614	round	en	41888	3382	false		rūnōną
+fp	5625	dry	en	48570	967	false		draugiz		5625	dry	en	48570	992	false		drūgiz
+fp	5636	dark	en	29635	911	false		derkaz		5636	dark	en	29635	912	false		derkōną
+fp	5644	cheap	en	27807	2416	false		kaupijaną		5644	cheap	en	27807	2418	false		kaupōną
+fp	5645	dear	en	38257	917	false		deuzaz		5645	dear	en	38257	939	false		diurijaz
+fp	5668	true	en	51013	4223	false		trewwō		5668	true	en	51013	4227	false		triwwiz
+fp	5682	right	en	40733	1588	false		garihtiją		5682	right	en	40733	3314	false		rehtą
+fp	5682	right	en	40733	1588	false		garihtiją		5682	right	en	40733	3315	false		rehtaz
+fp	5682	right	en	40733	1588	false		garihtiją		5682	right	en	40733	3337	false		rihtijaną
+fp	5682	right	en	40733	3314	false		rehtą		5682	right	en	40733	3315	false		rehtaz
+fp	5682	right	en	40733	3314	false		rehtą		5682	right	en	40733	3337	false		rihtijaną
+fp	5682	right	en	40733	3315	false		rehtaz		5682	right	en	40733	3337	false		rihtijaną
+fp	5702	often	en	40078	4298	false		ufta		5702	often	en	40078	4299	false		uftō
+fp	5714	down	en	34903	1021	true		dūnaz		5714	down	en	34903	1031	false		dūnǭ
+fp	5722	still	en	39762	3930	false		stillijaną		5722	still	en	39762	3931	false		stillijaz
+fp	5729	through	en	29766	4865	false		þrūhs		5729	through	en	29766	4889	false		þurhw
+fp	5770	rise	en	47139	2143	false		hrīsą		5770	rise	en	47139	3353	false		rīsaną
+fp	5815	ache	en	43564	221	false		akaną		5815	ache	en	43564	222	false		akiz
+fp	5842	stay	en	28136	3871	false		stagą		5842	stay	en	28136	3875	false		staigilaz
+fp	5868	want	en	52526	4466	true		wanatōną		5868	want	en	52526	4474	false		wanduz
+fp	5868	want	en	52526	4466	true		wanatōną		5868	want	en	52526	4485	true		wantuz
+fp	5868	want	en	52526	4474	false		wanduz		5868	want	en	52526	4485	true		wantuz
+fp	5877	leave	en	49875	2662	false		laibijaną		5877	leave	en	49875	2715	false		laubijaną
+fp	5878	lose	en	49896	2764	false		leusaną		5878	lose	en	49896	2846	false		lusą
+fp	5885	bend	en	27778	483	false		bandijaną		5885	bend	en	27778	484	true		bandiz
+fp	5928	rock	en	52202	3372	false		rukkô		5928	rock	en	52202	3373	false		rukkōną
+fp	5930	guide	en	32594	4657	true		witaną		5930	guide	en	32594	4658	true		wītaną
+fp	5941	play	en	46572	3234	false		plegô		5941	play	en	46572	3235	false		plegōną
+fp	5950	win	en	46049	4635	false		winnaną		5950	win	en	46049	4744	false		wunjō
+fp	5983	ask	en	32322	112	false		agiþahsijǭ		5983	ask	en	32322	193	false		aiskōną
+fp	6001	read	en	38166	3265	false		raidijaną		6001	read	en	38166	3306	false		rēdaną
+fp	6004	own	en	27350	146	false		aiginijaną		6004	own	en	27350	4329	false		unnaną
+fn	11	old	en	24637	246	false	*alda-	aldaz		12	oud	nl	24654	246	false	*alda-	aldaz
+fn	17	other	en	24800	342	false	*anþara-	anþeraz		18	anderer	de	24798	342	false	*anþara-	anþeraz
+fn	27	oog	nl	1132	404	false	*augōn-	augô		28	Auge	de	1141	404	false	*augōn-	augô
+fn	56	bow	en	27533	576	false	*beugan-	beuganą		57	buigen	nl	27746	576	false	*beugan-	beuganą
+fn	56	bow	en	27533	576	false	*beugan-	beuganą		58	biegen	de	27746	576	false	*beugan-	beuganą
+fn	57	buigen	nl	27746	576	false	*beugan-	beuganą		73	bow	en	27533	576	false	*bōgu-	beuganą
+fn	57	buigen	nl	27746	576	false	*beugan-	beuganą		98	bow	en	27533	576	false	*bugan-	beuganą
+fn	58	biegen	de	27746	576	false	*beugan-	beuganą		73	bow	en	27533	576	false	*bōgu-	beuganą
+fn	58	biegen	de	27746	576	false	*beugan-	beuganą		98	bow	en	27533	576	false	*bugan-	beuganą
+fn	56	bow	en	27533	803	false	*beugan-	bugô		97	Bogen	de	2192	803	false	*bugan-	bugô
+fn	56	bow	en	27533	803	false	*beugan-	bugô		99	boog	nl	2192	803	false	*bugan-	bugô
+fn	73	bow	en	27533	803	false	*bōgu-	bugô		97	Bogen	de	2192	803	false	*bugan-	bugô
+fn	73	bow	en	27533	803	false	*bōgu-	bugô		99	boog	nl	2192	803	false	*bugan-	bugô
+fn	97	Bogen	de	2192	803	false	*bugan-	bugô		98	bow	en	27533	803	false	*bugan-	bugô
+fn	98	bow	en	27533	803	false	*bugan-	bugô		99	boog	nl	2192	803	false	*bugan-	bugô
+fn	81	break	en	52797	741	false	*brekan-	brekaną		83	brechen	de	28428	741	false	*brekan-	brekaną
+fn	82	breken	nl	52797	741	false	*brekan-	brekaną		83	brechen	de	28428	741	false	*brekan-	brekaną
+fn	86	burn	en	49425	788	false	*brinnan-	brunnô		90	Brunnen	de	2554	788	false	*brunna(n)-	brunnô
+fn	87	brother	en	2542	770	false	*brōϸer-	brōþēr		88	broer	nl	2530	770	false	*brōϸer-	brōþēr
+fn	87	brother	en	2542	770	false	*brōϸer-	brōþēr		88	broer	nl	2530	770	false	*brōϸer-	brōþēr
+fn	87	brother	en	2542	770	false	*brōϸer-	brōþēr		89	Bruder	de	2530	770	false	*brōϸer-	brōþēr
+fn	102	day	en	21227	850	false	*daga-	dagaz		103	dag	nl	21217	850	false	*daga-	dagaz
+fn	102	day	en	21227	850	false	*daga-	dagaz		104	Tag	de	21217	850	false	*daga-	dagaz
+fn	106	deaf	en	47830	886	false	*dauba-	daubaz		108	taub	de	47832	886	false	*dauba-	daubaz
+fn	107	doof	nl	47830	886	false	*dauba-	daubaz		108	taub	de	47832	886	false	*dauba-	daubaz
+fn	117	doek	nl	21974	944	false	*dōka-	dōkaz		140	duck	en	4166	944	true	*dūkan-	dōkaz
+fn	118	Tuch	de	21974	944	false	*dōka-	dōkaz		140	duck	en	4166	944	true	*dūkan-	dōkaz
+fn	121	draw	en	52708	954	false	*dragan-	draganą		122	dragen	nl	48219	954	false	*dragan-	draganą
+fn	123	dry	en	48570	967	false	*draugja-	draugiz		124	droog	nl	48558	967	false	*draugja-	draugiz
+fn	140	duck	en	4166	1012	false	*dūkan-	dūkaną		141	duiken	nl	47876	1012	false	*dūkan-	dūkaną
+fn	147	Tor	de	21771	1034	false	*dura-	durą		148	door	en	22018	1034	false	*dura-	durą
+fn	153	I	en	35654	1070	false	*ek(a)	ek		154	ik	nl	35646	1070	false	*ek(a)	ek
+fn	153	I	en	35654	1070	false	*ek(a)	ek		155	ich	de	35646	1070	false	*ek(a)	ek
+fn	157	aarde	nl	4291	1090	false	*erϸō-	erþō		159	earth	en	4295	1090	false	*erϸō-	erþō
+fn	158	Erde	de	4291	1090	false	*erϸō-	erþō		159	earth	en	4295	1090	false	*erϸō-	erþō
+fn	160	eat	en	31085	1099	false	*etan-	etaną		161	essen	de	31052	1099	false	*etan-	etaną
+fn	170	vallen	nl	35126	1155	false	*fallan-	fallaną		171	fallen	de	31191	1155	false	*fallan-	fallaną
+fn	178	four	en	50483	1202	false	*fedwar-	fedwōr		179	vier	nl	50493	1202	false	*fedwar-	fedwōr
+fn	180	fjäll	sv	1714	1215	false	*fella-	fellą		181	Fell	de	4957	1215	false	*fella-	fellą
+fn	188	fünf	de	32676	1251	false	*fimfe	fimf		189	five	en	32699	1251	false	*fimfe	fimf
+fn	188	fünf	de	32676	1251	false	*fimfe	fimf		190	vijf	nl	32692	1251	false	*fimfe	fimf
+fn	189	five	en	32699	1251	false	*fimfe	fimf		190	vijf	nl	32692	1251	false	*fimfe	fimf
+fn	197	fish	en	31954	1271	false	*fiska-	fiskaz		198	Fisch	de	5452	1271	false	*fiska-	fiskaz
+fn	201	fly	en	32157	1297	false	*fleugan-	fleugǭ		204	vlieg	nl	5544	1297	false	*fleugōn-	fleugǭ
+fn	201	fly	en	32157	1297	false	*fleugan-	fleugǭ		205	Fliege	de	5544	1297	false	*fleugōn-	fleugǭ
+fn	204	vlieg	nl	5544	1297	false	*fleugōn-	fleugǭ		206	fly	en	32157	1297	false	*fleugōn-	fleugǭ
+fn	205	Fliege	de	5544	1297	false	*fleugōn-	fleugǭ		206	fly	en	32157	1297	false	*fleugōn-	fleugǭ
+fn	219	freeze	en	33035	1383	false	*freusan-	freusaną		220	frieren	de	32452	1383	false	*freusan-	freusaną
+fn	232	vuil	nl	43707	1433	false	*fūla-	fūlaz		233	faul	de	31447	1433	false	*fūla-	fūlaz
+fn	248	give	en	42619	1626	false	*geban-	gebaną		249	geven	nl	32950	1626	false	*geban-	gebaną
+fn	248	give	en	42619	1626	false	*geban-	gebaną		250	geben	de	32950	1626	false	*geban-	gebaną
+fn	248	give	en	42619	1626	true	*geban-	gebaną		249	geven	nl	32950	1626	false	*geban-	gebaną
+fn	248	give	en	42619	1626	true	*geban-	gebaną		250	geben	de	32950	1626	false	*geban-	gebaną
+fn	251	yellow	en	33184	1634	false	*gelwa-	gelwaz		252	gelb	de	33212	1634	false	*gelwa-	gelwaz
+fn	253	gå	da	33082	1563	false	*gēn-	gāną		255	gaan	nl	33098	1563	false	*gēn-	gāną
+fn	254	go	en	33082	1563	false	*gēn-	gāną		255	gaan	nl	33098	1563	false	*gēn-	gāną
+fn	255	gaan	nl	33098	1563	false	*gēn-	gāną		256	gehen	de	33082	1563	false	*gēn-	gāną
+fn	288	ground	en	2136	1743	false	*grumϸu-	grunduz		290	Grund	de	8295	1743	false	*grumϸu-	grunduz
+fn	289	grond	nl	2136	1743	false	*grumϸu-	grunduz		290	Grund	de	8295	1743	false	*grumϸu-	grunduz
+fn	292	goud	nl	7777	1757	false	*gulϸa-	gulþą		293	Gold	de	7798	1757	false	*gulϸa-	gulþą
+fn	302	hand	en	40997	1870	false	*hinϸan-	handuz		303	Hand	de	8663	1870	false	*hinϸan-	handuz
+fn	310	head	en	11439	1919	false	*ha(u)beda-	haubudą		311	hoofd	nl	11434	1919	false	*ha(u)beda-	haubudą
+fn	315	heap	en	8897	1931	false	*haupa-	haupaz		365	Haufen	de	8917	1931	false	*hūpan-	haupaz
+fn	316	hoop	nl	8897	1931	false	*haupa-	haupaz		365	Haufen	de	8917	1931	false	*hūpan-	haupaz
+fn	317	hear	en	49968	1932	false	*hauzjan-	hauzijaną		318	horen	nl	35355	1932	false	*hauzjan-	hauzijaną
+fn	317	hear	en	49968	1932	false	*hauzjan-	hauzijaną		319	hören	de	35355	1932	false	*hauzjan-	hauzijaną
+fn	317	hear	en	49968	1932	false	*hauzjan-	hauzijaną		366	horen	nl	35355	1932	false	*hurna-	hauzijaną
+fn	318	horen	nl	35355	2225	false	*hauzjan-	hurną		367	Horn	de	9717	2225	false	*hurna-	hurną
+fn	318	horen	nl	35355	2225	false	*hauzjan-	hurną		368	horn	en	9717	2225	false	*hurna-	hurną
+fn	366	horen	nl	35355	2225	false	*hurna-	hurną		367	Horn	de	9717	2225	false	*hurna-	hurną
+fn	366	horen	nl	35355	2225	false	*hurna-	hurną		368	horn	en	9717	2225	false	*hurna-	hurną
+fn	325	haar	nl	8415	1974	false	*hēra-	hezōi		396	ihr	de	35689	1974	false	*jūz	hezōi
+fn	327	herd	en	35611	1958	false	*herdō-	herdō		328	Herde	de	9222	1958	false	*herdō-	herdō
+fn	332	héri	is	8821	1910	false	*hesan-	hasô		334	haas	nl	8856	1910	false	*hesan-	hasô
+fn	332	héri	is	8821	1910	false	*hesan-	hasô		335	Hase	de	8856	1910	false	*hesan-	hasô
+fn	332	héri	is	8821	1910	false	*hesan-	hasô		334	haas	nl	8856	1910	false	*hesan-	hasô
+fn	332	héri	is	8821	1910	false	*hesan-	hasô		335	Hase	de	8856	1910	false	*hesan-	hasô
+fn	333	hare	en	8821	1910	false	*hesan-	hasô		334	haas	nl	8856	1910	false	*hesan-	hasô
+fn	333	hare	en	8821	1910	false	*hesan-	hasô		335	Hase	de	8856	1910	false	*hesan-	hasô
+fn	342	neck	en	8615	2050	false	*hnekkan-	hnakkô		343	nek	nl	6844	2050	false	*hnekkan-	hnakkô
+fn	346	roh	de	41576	2116	false	*hrawa-	hrawaz		348	rauw	nl	41567	2116	false	*hrawa-	hrawaz
+fn	347	raw	en	41576	2116	false	*hrawa-	hrawaz		348	rauw	nl	41567	2116	false	*hrawa-	hrawaz
+fn	350	ring	en	36384	2140	false	*hringa-	hringaz		351	Ring	de	17019	2140	false	*hringa-	hringaz
+fn	350	ring	en	36384	2140	true	*hringa-	hringaz		351	Ring	de	17019	2140	false	*hringa-	hringaz
+fn	373	who	en	51841	2266	false	*hwa-	hwaz		374	wie	nl	51836	2266	false	*hwa-	hwaz
+fn	373	who	en	51841	2266	false	*hwa-	hwaz		376	wer	de	51851	2266	false	*hwa-	hwaz
+fn	374	wie	nl	51836	2266	false	*hwa-	hwaz		376	wer	de	51851	2266	false	*hwa-	hwaz
+fn	378	where	en	52376	2253	false	*hwar	hwar		379	waar	nl	52379	2253	false	*hwar	hwar
+fn	379	waar	nl	52379	2253	false	*hwar	hwar		380	wo	de	52376	2253	false	*hwar	hwar
+fn	387	ijzer	nl	3921	2334	false	*īsarna-	īsarną		388	Eisen	de	3894	2334	false	*īsarna-	īsarną
+fn	395	jij	nl	29554	2375	false	*jūz	jūz		396	ihr	de	35689	2375	false	*jūz	jūz
+fn	397	cold	en	35975	2386	false	*kalda-	kaldaz		398	koud	nl	35955	2386	false	*kalda-	kaldaz
+fn	397	cold	en	35975	2386	false	*kalda-	kaldaz		399	kalt	de	35955	2386	false	*kalda-	kaldaz
+fn	401	comb	en	36009	2391	false	*kamba-	kambaz		402	Kamm	de	10430	2391	false	*kamba-	kambaz
+fn	408	clean	en	41205	2459	false	klīnjan-	klainiz		409	klein	nl	36276	2459	false	klīnjan-	klainiz
+fn	421	knot	en	11329	2505	false	knūþō	knuttô		422	Knoten	de	11325	2505	false	knūþō	knuttô
+fn	438	king	en	11401	2585	false	kunja-	kuningaz		439	koning	nl	11417	2585	false	kunja-	kuningaz
+fn	438	king	en	11401	2585	false	kunja-	kuningaz		440	König	de	11417	2585	false	kunja-	kuningaz
+fn	460	Land	de	12272	2688	false	*landa-	landą		461	land	en	5118	2688	false	*landa-	landą
+fn	471	laten	nl	37541	2751	false	*lētan-	lētaną		472	lassen	de	37547	2751	false	*lētan-	lētaną
+fn	472	lassen	de	37547	2751	false	*lētan-	lētaną		473	let	en	37541	2751	false	*lētan-	lētaną
+fn	477	light	en	25331	2795	false	*leuhada-	lingwaną		478	licht	nl	34552	2795	false	*leuhada-	lingwaną
+fn	497	maag	nl	13606	2862	false	*magan-	magô		498	Magen	de	13645	2862	false	*magan-	magô
+fn	503	meer	nl	19070	2924	false	*mari-	mari		504	Meer	de	13913	2924	false	*mari-	mari
+fn	508	mjólk	is	14130	2979	false	*mel(u)kan-	meluks		509	milk	en	38793	2979	false	*mel(u)kan-	meluks
+fn	509	milk	en	38793	2979	false	*mel(u)kan-	meluks		510	Milch	de	14130	2979	false	*mel(u)kan-	meluks
+fn	518	meten	nl	38822	2992	false	*metan-	metaną		519	messen	de	38839	2992	false	*metan-	metaną
+fn	520	Mutter	de	14678	3051	false	*mōder-	mōdēr		522	moeder	nl	14695	3051	false	*mōder-	mōdēr
+fn	521	mother	en	14678	3051	false	*mōder-	mōdēr		522	moeder	nl	14695	3051	false	*mōder-	mōdēr
+fn	527	mond	nl	14608	3087	false	*munþa-	munþaz		529	mouth	en	14587	3087	false	*munþa-	munþaz
+fn	528	Mund	de	14608	3087	false	*munþa-	munþaz		529	mouth	en	14587	3087	false	*munþa-	munþaz
+fn	530	morgunn	is	14503	3089	false	*murge	murginaz		531	morgen	nl	38976	3089	false	*murge	murginaz
+fn	531	morgen	nl	38976	3089	false	*murge	murginaz		532	Morgen	de	14503	3089	false	*murge	murginaz
+fn	541	nail	en	14982	3110	false	*nagl-	naglaz		542	nagel	nl	14958	3110	false	*nagl-	naglaz
+fn	542	nagel	nl	14958	3110	false	*nagl-	naglaz		543	Nagel	de	14982	3110	false	*nagl-	naglaz
+fn	551	name	en	39431	3119	false	*namōn-	namô		552	naam	nl	15089	3119	false	*namōn-	namô
+fn	569	negen	nl	39539	3161	false	*newun-	newun		570	neun	de	39546	3161	false	*newun-	newun
+fn	582	rook	nl	16457	3294	false	*rauki-	raukiz		583	Rauch	de	16461	3294	false	*rauki-	raukiz
+fn	586	rain	en	40859	3310	false	*regna-	regną		587	regen	nl	16718	3310	false	*regna-	regną
+fn	591	Riemen	de	16925	3331	false	*reuman-	reutaną		592	riem	nl	16924	3331	false	*reuman-	reutaną
+fn	601	rugga	is	52206	3373	false	*ruk[kg]ōn-	rukkōną		602	rock	en	52202	3373	false	*ruk[kg]ōn-	rukkōną
+fn	605	sjór	is	13918	3413	false	sīhwan-	saiwiz		606	sea	en	13916	3413	false	sīhwan-	saiwiz
+fn	605	sjór	is	13918	3413	false	sīhwan-	saiwiz		607	zee	nl	13916	3413	false	sīhwan-	saiwiz
+fn	605	sjór	is	13918	3413	false	sīhwan-	saiwiz		608	See	de	19105	3413	false	sīhwan-	saiwiz
+fn	605	sjór	is	13918	3413	false	sīhwan-	saiwiz		609	See	de	19105	3413	false	sīhwan-	saiwiz
+fn	606	sea	en	13916	3413	false	sīhwan-	saiwiz		608	See	de	19105	3413	false	sīhwan-	saiwiz
+fn	606	sea	en	13916	3413	false	sīhwan-	saiwiz		609	See	de	19105	3413	false	sīhwan-	saiwiz
+fn	607	zee	nl	13916	3413	false	sīhwan-	saiwiz		608	See	de	19105	3413	false	sīhwan-	saiwiz
+fn	607	zee	nl	13916	3413	false	sīhwan-	saiwiz		609	See	de	19105	3413	false	sīhwan-	saiwiz
+fn	617	soft	en	51687	3442	false	*samþu-	samftijaz		618	zacht	nl	42118	3442	false	*samþu-	samftijaz
+fn	622	sink	en	50145	3548	false	*sankwjan-	sinkwaną		648	zinken	nl	46190	3548	false	*sinkwan-	sinkwaną
+fn	622	sink	en	50145	3548	false	*sankwjan-	sinkwaną		649	sinken	de	46190	3548	false	*sinkwan-	sinkwaną
+fn	648	zinken	nl	46190	3548	false	*sinkwan-	sinkwaną		650	sink	en	50145	3548	false	*sinkwan-	sinkwaną
+fn	649	sinken	de	46190	3548	false	*sinkwan-	sinkwaną		650	sink	en	50145	3548	false	*sinkwan-	sinkwaną
+fn	628	seed	en	17374	3475	false	*sēan-	sēdiz		629	zaad	nl	17349	3475	false	*sēan-	sēdiz
+fn	628	seed	en	17374	3475	false	*sēan-	sēdiz		630	Saat	de	17349	3475	false	*sēan-	sēdiz
+fn	636	sinew	en	19150	3499	false	*senuwō-	senawō		637	Sehne	de	19130	3499	false	*senuwō-	senawō
+fn	652	shadow	en	17797	3566	false	*skadu-	skadwaz		653	schaduw	nl	17799	3566	false	*skadu-	skadwaz
+fn	653	schaduw	nl	17799	3566	false	*skadu-	skadwaz		654	Schatten	de	17797	3566	false	*skadu-	skadwaz
+fn	658	schoon	nl	42191	3608	false	*skawan-	skauniz		659	schön	de	43822	3608	false	*skawan-	skauniz
+fn	661	schaap	nl	17647	3627	false	*b	skēpą		662	Schaf	de	17682	3627	false	*b	skēpą
+fn	661	schaap	nl	17647	3627	false	*b	skēpą		663	sheep	en	17663	3627	false	*b	skēpą
+fn	662	Schaf	de	17682	3627	false	*b	skēpą		663	sheep	en	17663	3627	false	*b	skēpą
+fn	666	shoot	en	42792	3633	false	*skeutan-	skeutaną		667	schieten	nl	42772	3633	false	*skeutan-	skeutaną
+fn	666	shoot	en	42792	3633	false	*skeutan-	skeutaną		668	schießen	de	42778	3633	false	*skeutan-	skeutaną
+fn	667	schieten	nl	42772	3633	false	*skeutan-	skeutaną		668	schießen	de	42778	3633	false	*skeutan-	skeutaną
+fn	669	schijnen	nl	42509	3642	false	*skīnan-	skīnaną		670	scheinen	de	42609	3642	false	*skīnan-	skīnaną
+fn	671	shoe	en	18672	3664	false	*skōha-	skōhaz		672	schoen	nl	18685	3664	false	*skōha-	skōhaz
+fn	672	schoen	nl	18685	3664	false	*skōha-	skōhaz		673	Schuh	de	18672	3664	false	*skōha-	skōhaz
+fn	674	schreiten	de	44026	3673	false	*skrīþan-	skrīþaną		675	schrijden	nl	44016	3673	false	*skrīþan-	skrīþaną
+fn	708	speech	en	16567	3854	false	*sprēkō-	sprēkō		709	Sprache	de	19921	3854	false	*sprēkō-	sprēkō
+fn	710	spring	en	5975	3856	false	*spring	springaną		711	springen	nl	46712	3856	false	*spring	springaną
+fn	733	star	en	20394	3913	false	*ster(r)a	sternǭ		734	Stern	de	20406	3913	false	*ster(r)a	sternǭ
+fn	745	stream	en	47532	3956	false	*strauma-	straumaz		746	stroom	nl	5627	3956	false	*strauma-	straumaz
+fn	747	streichen	de	47458	3945	false	*strīkan-	straikōną		748	stroke	en	20760	3945	false	*struk(k)ōn-	straikōną
+fn	780	toe	en	23812	4124	false	*taihwō(n)-	taihwǭ		781	teen	nl	23823	4124	false	*taihwō(n)-	taihwǭ
+fn	785	tooth	en	23710	4146	false	*tanþ-	tanþs		786	tand	nl	23689	4146	false	*tanþ-	tanþs
+fn	785	tooth	en	23710	4146	false	*tanþ-	tanþs		787	Zahn	de	23689	4146	false	*tanþ-	tanþs
+fn	804	two	en	53740	4267	false	*twa-	twai		805	twee	nl	53737	4267	false	*twa-	twai
+fn	804	two	en	53740	4267	false	*twa-	twai		806	zwei	de	53737	4267	false	*twa-	twai
+fn	821	through	en	29766	4889	false	*ϸerhwe	þurhw		822	durch	de	29799	4889	false	*ϸerhwe	þurhw
+fn	829	throw	en	51942	4849	false	*ϸrēan-	þrēaną		830	draaien	nl	29294	4849	false	*ϸrēan-	þrēaną
+fn	829	throw	en	51942	4849	false	*ϸrēan-	þrēaną		831	drehen	de	29294	4849	false	*ϸrēan-	þrēaną
+fn	847	often	en	40078	4298	false	*uba	ufta		848	oft	de	40112	4298	false	*uba	ufta
+fn	847	often	en	40078	4299	false	*uba	uftō		848	oft	de	40112	4299	false	*uba	uftō
+fn	864	wash	en	45840	4514	false	*watar-	waskaną		865	waschen	de	51315	4514	false	*watar-	waskaną
+fn	866	Wasser	de	22601	4516	false	*watar-	watōr		867	water	en	33691	4516	false	*watar-	watōr
+fn	872	work	en	25339	4552	false	*werka-	werką		873	werk	nl	644	4552	false	*werka-	werką
+fn	875	worden	nl	51897	4562	false	*werþan-	werþaną		898	word	en	23420	4562	false	*wurda-	werþaną
+fn	876	werden	de	51897	4562	false	*werþan-	werþaną		898	word	en	23420	4562	false	*wurda-	werþaną
+fn	877	weather	en	22942	4526	false	*weþra-	wedrą		878	weer	nl	52090	4526	false	*weþra-	wedrą
+fn	878	weer	nl	52090	4526	false	*weþra-	wedrą		879	Wetter	de	22942	4526	false	*weþra-	wedrą
