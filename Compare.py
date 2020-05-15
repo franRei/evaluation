@@ -13,6 +13,9 @@ class Compare:
         true_positives = 0
         false_positives = 0
         false_negatives = 0
+        true_positives_borr = 0
+        false_positives_borr = 0
+        false_negatives_borr = 0
         tp_wikitionary = 0
         tp_lst = []
         fn_lst = []
@@ -20,22 +23,24 @@ class Compare:
         for ids, words in wiki.items():
             words_combinations = Compare.get_combinations(self, words)
 
-            tp, fn, aux = Compare.count_values(self, words_combinations, "cog_ID_results")
-
+            tp, fn, aux, borr_aux = Compare.count_values(self, words_combinations, "cog_ID_results")
             true_positives += tp
             false_negatives += fn
+            true_positives_borr += borr_aux[0]
+            false_negatives_borr += borr_aux[1]
             tp_lst.extend(aux[0])
             fn_lst.extend(aux[1])
 
         for ids_2, words in result.items():
             words_wiki_combination = Compare.get_combinations(self, words)
-            tp_wi, fp, aux = Compare.count_values(self, words_wiki_combination, "cog_ID_wiki")
+            tp_wi, fp, aux, borr_aux = Compare.count_values(self, words_wiki_combination, "cog_ID_wiki")
             tp_wikitionary += tp_wi
             false_positives += fp
+            false_positives_borr += borr_aux[1]
             fp_lst.extend(aux[1])
 
 
-        print("true positives: ",true_positives)
+        print("true positives: ", true_positives)
         print("false positives: ", false_positives)
         print("false negatives: ", false_negatives)
         #print("res tp: ", tp_wikitionary)
@@ -55,8 +60,25 @@ class Compare:
 
         print("Borrowed with combined set:")
         Compare.get_frequency_of_borrowed(self, all)
-        print(tp_lst)
-        return tp_lst, fp_lst, fn_lst
+        #print(tp_lst)
+
+
+        print("\nBorrowed influence")
+        print("true positives: ", true_positives_borr)
+        print("false positives: ", false_positives_borr)
+        print("false negatives: ", false_negatives_borr)
+        #print("res tp: ", tp_wikitionary)
+
+        false_positives_borr = false_positives_borr
+        precision = true_positives_borr / (true_positives_borr + false_positives_borr)
+        recall = true_positives_borr / (true_positives_borr + false_negatives_borr)
+        f1 = 2 * ((precision * recall) / (precision + recall))
+
+        print("Precision: ", precision)
+        print("Recall: ", recall)
+        print("F1-Score: ", f1)
+        print("Borrowed influence ende\n")
+        return tp_lst, fp_lst, fn_lst, (precision, recall, f1), (true_positives, false_positives, false_negatives)
 
 
     def get_combinations(self, lst):
@@ -82,16 +104,23 @@ class Compare:
         fn = 0
         lst_tp = []
         lst_fn = []
+        tp_borr = 0
+        fn_borr = 0
 
         for words in word_pairs:
             if not words == []:
                 if words[0][key_id] == words[1][key_id]:
                     tp += 1
                     lst_tp.append((words[0], words[1]))
+                    if words[0]["borrowed"] == "true" or words[1]["borrowed"] == "true":
+                        tp_borr +=1
                 elif words[0][key_id] != words[1][key_id]:
                     fn +=1
                     lst_fn.append((words[0], words[1]))
-        return tp, fn, [lst_tp, lst_fn]
+                    if words[0]["borrowed"] == "true" or words[1]["borrowed"] == "true":
+                        fn_borr +=1
+                        #print(words[0], words[1])
+        return tp, fn, [lst_tp, lst_fn], (tp_borr, fn_borr)
 
 
     def jaccard(self,  tp, fp, fn):
@@ -121,3 +150,21 @@ class Compare:
         print("all: ", all)
 
         return borrowed
+
+    def validation(self, test, val):
+        macro_precision = (test[3][0] + val[3][0]) / 2
+        macro_recall = (test[3][1] + val[3][1]) / 2
+        macro_f1 = 2 * ((macro_precision * macro_recall) / (macro_precision + macro_recall))
+
+        print("macro precision: ", macro_precision)
+        print("macro recall: ", macro_recall)
+        print("macro f1: ", macro_f1)
+
+        micro_precision = (test[4][0] + val[4][0]) / (
+                    test[4][0] + val[4][0] + test[4][1] + val[4][1])
+        micro_recall = (test[4][1] + val[4][1]) / (
+                    test[4][0] + val[4][0] + test[4][2] + val[4][2])
+        micro_f1 = 2 * ((micro_precision * micro_recall) / (micro_precision + micro_recall))
+        print("micro precision: ", micro_precision)
+        print("micro recall: ", micro_recall)
+        print("micro f1: ", micro_f1)
