@@ -1,70 +1,70 @@
 ID_1	cognate_1	language_1	cognateID_results_1	cognateID_wiki_1	borrowed_1	pgmc_forms_results_1	pgmc_forms_wiki_1		ID_2	cognate_2	language_2	cognateID_results_2	cognateID_wiki_2	borrowed_2	pgmc_forms_results_2	pgmc_forms_wiki_2
-17	other	en	24800	false	*anþara-		18	anderer	de	24798	false	*anþara-
-56	bow	en	27533	false	*beugan-		58	biegen	de	27746	false	*beugan-
-58	biegen	de	27746	false	*beugan-		73	bow	en	27533	false	*bōgu-
-58	biegen	de	27746	false	*beugan-		98	bow	en	27533	false	*bugan-
-56	bow	en	27533	false	*beugan-		97	Bogen	de	2192	false	*bugan-
-73	bow	en	27533	false	*bōgu-		97	Bogen	de	2192	false	*bugan-
-97	Bogen	de	2192	false	*bugan-		98	bow	en	27533	false	*bugan-
-81	break	en	52797	false	*brekan-		83	brechen	de	28428	false	*brekan-
-86	burn	en	49425	false	*brinnan-		90	Brunnen	de	2554	false	*brunna(n)-
-87	brother	en	2542	false	*brōϸer-		89	Bruder	de	2530	false	*brōϸer-
-102	day	en	21227	false	*daga-		104	Tag	de	21217	false	*daga-
-106	deaf	en	47830	false	*dauba-		108	taub	de	47832	false	*dauba-
-118	Tuch	de	21974	false	*dōka-		140	duck	en	4166	true	*dūkan-
-147	Tor	de	21771	false	*dura-		148	door	en	22018	false	*dura-
-153	I	en	35654	false	*ek(a)		155	ich	de	35646	false	*ek(a)
-158	Erde	de	4291	false	*erϸō-		159	earth	en	4295	false	*erϸō-
-160	eat	en	31085	false	*etan-		161	essen	de	31052	false	*etan-
-188	fünf	de	32676	false	*fimfe		189	five	en	32699	false	*fimfe
-197	fish	en	31954	false	*fiska-		198	Fisch	de	5452	false	*fiska-
-201	fly	en	32157	false	*fleugan-		205	Fliege	de	5544	false	*fleugōn-
-205	Fliege	de	5544	false	*fleugōn-		206	fly	en	32157	false	*fleugōn-
-219	freeze	en	33035	false	*freusan-		220	frieren	de	32452	false	*freusan-
-248	give	en	42619	false	*geban-		250	geben	de	32950	false	*geban-
-248	give	en	42619	true	*geban-		250	geben	de	32950	false	*geban-
-251	yellow	en	33184	false	*gelwa-		252	gelb	de	33212	false	*gelwa-
-288	ground	en	2136	false	*grumϸu-		290	Grund	de	8295	false	*grumϸu-
-302	hand	en	40997	false	*hinϸan-		303	Hand	de	8663	false	*hinϸan-
-315	heap	en	8897	false	*haupa-		365	Haufen	de	8917	false	*hūpan-
-317	hear	en	49968	false	*hauzjan-		319	hören	de	35355	false	*hauzjan-
-327	herd	en	35611	false	*herdō-		328	Herde	de	9222	false	*herdō-
-332	héri	is	8821	false	*hesan-		335	Hase	de	8856	false	*hesan-
-332	héri	is	8821	false	*hesan-		335	Hase	de	8856	false	*hesan-
-333	hare	en	8821	false	*hesan-		335	Hase	de	8856	false	*hesan-
-350	ring	en	36384	false	*hringa-		351	Ring	de	17019	false	*hringa-
-350	ring	en	36384	true	*hringa-		351	Ring	de	17019	false	*hringa-
-373	who	en	51841	false	*hwa-		376	wer	de	51851	false	*hwa-
-397	cold	en	35975	false	*kalda-		399	kalt	de	35955	false	*kalda-
-401	comb	en	36009	false	*kamba-		402	Kamm	de	10430	false	*kamba-
-421	knot	en	11329	false	knūþō		422	Knoten	de	11325	false	knūþō
-438	king	en	11401	false	kunja-		440	König	de	11417	false	kunja-
-460	Land	de	12272	false	*landa-		461	land	en	5118	false	*landa-
-472	lassen	de	37547	false	*lētan-		473	let	en	37541	false	*lētan-
-508	mjólk	is	14130	false	*mel(u)kan-		509	milk	en	38793	false	*mel(u)kan-
-509	milk	en	38793	false	*mel(u)kan-		510	Milch	de	14130	false	*mel(u)kan-
-528	Mund	de	14608	false	*munþa-		529	mouth	en	14587	false	*munþa-
-601	rugga	is	52206	false	*ruk[kg]ōn-		602	rock	en	52202	false	*ruk[kg]ōn-
-605	sjór	is	13918	false	sīhwan-		606	sea	en	13916	false	sīhwan-
-605	sjór	is	13918	false	sīhwan-		608	See	de	19105	false	sīhwan-
-605	sjór	is	13918	false	sīhwan-		609	See	de	19105	false	sīhwan-
-606	sea	en	13916	false	sīhwan-		608	See	de	19105	false	sīhwan-
-606	sea	en	13916	false	sīhwan-		609	See	de	19105	false	sīhwan-
-622	sink	en	50145	false	*sankwjan-		649	sinken	de	46190	false	*sinkwan-
-649	sinken	de	46190	false	*sinkwan-		650	sink	en	50145	false	*sinkwan-
-628	seed	en	17374	false	*sēan-		630	Saat	de	17349	false	*sēan-
-636	sinew	en	19150	false	*senuwō-		637	Sehne	de	19130	false	*senuwō-
-662	Schaf	de	17682	false	*b		663	sheep	en	17663	false	*b
-666	shoot	en	42792	false	*skeutan-		668	schießen	de	42778	false	*skeutan-
-708	speech	en	16567	false	*sprēkō-		709	Sprache	de	19921	false	*sprēkō-
-733	star	en	20394	false	*ster(r)a		734	Stern	de	20406	false	*ster(r)a
-747	streichen	de	47458	false	*strīkan-		748	stroke	en	20760	false	*struk(k)ōn-
-785	tooth	en	23710	false	*tanþ-		787	Zahn	de	23689	false	*tanþ-
-804	two	en	53740	false	*twa-		806	zwei	de	53737	false	*twa-
-821	through	en	29766	false	*ϸerhwe		822	durch	de	29799	false	*ϸerhwe
-829	throw	en	51942	false	*ϸrēan-		831	drehen	de	29294	false	*ϸrēan-
-847	often	en	40078	false	*uba		848	oft	de	40112	false	*uba
-847	often	en	40078	false	*uba		848	oft	de	40112	false	*uba
-864	wash	en	45840	false	*watar-		865	waschen	de	51315	false	*watar-
-866	Wasser	de	22601	false	*watar-		867	water	en	33691	false	*watar-
-876	werden	de	51897	false	*werþan-		898	word	en	23420	false	*wurda-
+17	other	en	24800	342	false	*anþara-	anþeraz		18	anderer	de	24798	342	false	*anþara-	anþeraz
+56	bow	en	27533	576	false	*beugan-	beuganą		58	biegen	de	27746	576	false	*beugan-	beuganą
+58	biegen	de	27746	576	false	*beugan-	beuganą		73	bow	en	27533	576	false	*bōgu-	beuganą
+58	biegen	de	27746	576	false	*beugan-	beuganą		98	bow	en	27533	576	false	*bugan-	beuganą
+56	bow	en	27533	803	false	*beugan-	bugô		97	Bogen	de	2192	803	false	*bugan-	bugô
+73	bow	en	27533	803	false	*bōgu-	bugô		97	Bogen	de	2192	803	false	*bugan-	bugô
+97	Bogen	de	2192	803	false	*bugan-	bugô		98	bow	en	27533	803	false	*bugan-	bugô
+81	break	en	52797	741	false	*brekan-	brekaną		83	brechen	de	28428	741	false	*brekan-	brekaną
+86	burn	en	49425	788	false	*brinnan-	brunnô		90	Brunnen	de	2554	788	false	*brunna(n)-	brunnô
+87	brother	en	2542	770	false	*brōϸer-	brōþēr		89	Bruder	de	2530	770	false	*brōϸer-	brōþēr
+102	day	en	21227	850	false	*daga-	dagaz		104	Tag	de	21217	850	false	*daga-	dagaz
+106	deaf	en	47830	886	false	*dauba-	daubaz		108	taub	de	47832	886	false	*dauba-	daubaz
+118	Tuch	de	21974	944	false	*dōka-	dōkaz		140	duck	en	4166	944	true	*dūkan-	dōkaz
+147	Tor	de	21771	1034	false	*dura-	durą		148	door	en	22018	1034	false	*dura-	durą
+153	I	en	35654	1070	false	*ek(a)	ek		155	ich	de	35646	1070	false	*ek(a)	ek
+158	Erde	de	4291	1090	false	*erϸō-	erþō		159	earth	en	4295	1090	false	*erϸō-	erþō
+160	eat	en	31085	1099	false	*etan-	etaną		161	essen	de	31052	1099	false	*etan-	etaną
+188	fünf	de	32676	1251	false	*fimfe	fimf		189	five	en	32699	1251	false	*fimfe	fimf
+197	fish	en	31954	1271	false	*fiska-	fiskaz		198	Fisch	de	5452	1271	false	*fiska-	fiskaz
+201	fly	en	32157	1297	false	*fleugan-	fleugǭ		205	Fliege	de	5544	1297	false	*fleugōn-	fleugǭ
+205	Fliege	de	5544	1297	false	*fleugōn-	fleugǭ		206	fly	en	32157	1297	false	*fleugōn-	fleugǭ
+219	freeze	en	33035	1383	false	*freusan-	freusaną		220	frieren	de	32452	1383	false	*freusan-	freusaną
+248	give	en	42619	1626	false	*geban-	gebaną		250	geben	de	32950	1626	false	*geban-	gebaną
+248	give	en	42619	1626	true	*geban-	gebaną		250	geben	de	32950	1626	false	*geban-	gebaną
+251	yellow	en	33184	1634	false	*gelwa-	gelwaz		252	gelb	de	33212	1634	false	*gelwa-	gelwaz
+288	ground	en	2136	1743	false	*grumϸu-	grunduz		290	Grund	de	8295	1743	false	*grumϸu-	grunduz
+302	hand	en	40997	1870	false	*hinϸan-	handuz		303	Hand	de	8663	1870	false	*hinϸan-	handuz
+315	heap	en	8897	1931	false	*haupa-	haupaz		365	Haufen	de	8917	1931	false	*hūpan-	haupaz
+317	hear	en	49968	1932	false	*hauzjan-	hauzijaną		319	hören	de	35355	1932	false	*hauzjan-	hauzijaną
+327	herd	en	35611	1958	false	*herdō-	herdō		328	Herde	de	9222	1958	false	*herdō-	herdō
+332	héri	is	8821	1910	false	*hesan-	hasô		335	Hase	de	8856	1910	false	*hesan-	hasô
+332	héri	is	8821	1910	false	*hesan-	hasô		335	Hase	de	8856	1910	false	*hesan-	hasô
+333	hare	en	8821	1910	false	*hesan-	hasô		335	Hase	de	8856	1910	false	*hesan-	hasô
+350	ring	en	36384	2140	false	*hringa-	hringaz		351	Ring	de	17019	2140	false	*hringa-	hringaz
+350	ring	en	36384	2140	true	*hringa-	hringaz		351	Ring	de	17019	2140	false	*hringa-	hringaz
+373	who	en	51841	2266	false	*hwa-	hwaz		376	wer	de	51851	2266	false	*hwa-	hwaz
+397	cold	en	35975	2386	false	*kalda-	kaldaz		399	kalt	de	35955	2386	false	*kalda-	kaldaz
+401	comb	en	36009	2391	false	*kamba-	kambaz		402	Kamm	de	10430	2391	false	*kamba-	kambaz
+421	knot	en	11329	2505	false	knūþō	knuttô		422	Knoten	de	11325	2505	false	knūþō	knuttô
+438	king	en	11401	2585	false	kunja-	kuningaz		440	König	de	11417	2585	false	kunja-	kuningaz
+460	Land	de	12272	2688	false	*landa-	landą		461	land	en	5118	2688	false	*landa-	landą
+472	lassen	de	37547	2751	false	*lētan-	lētaną		473	let	en	37541	2751	false	*lētan-	lētaną
+508	mjólk	is	14130	2979	false	*mel(u)kan-	meluks		509	milk	en	38793	2979	false	*mel(u)kan-	meluks
+509	milk	en	38793	2979	false	*mel(u)kan-	meluks		510	Milch	de	14130	2979	false	*mel(u)kan-	meluks
+528	Mund	de	14608	3087	false	*munþa-	munþaz		529	mouth	en	14587	3087	false	*munþa-	munþaz
+601	rugga	is	52206	3373	false	*ruk[kg]ōn-	rukkōną		602	rock	en	52202	3373	false	*ruk[kg]ōn-	rukkōną
+605	sjór	is	13918	3413	false	sīhwan-	saiwiz		606	sea	en	13916	3413	false	sīhwan-	saiwiz
+605	sjór	is	13918	3413	false	sīhwan-	saiwiz		608	See	de	19105	3413	false	sīhwan-	saiwiz
+605	sjór	is	13918	3413	false	sīhwan-	saiwiz		609	See	de	19105	3413	false	sīhwan-	saiwiz
+606	sea	en	13916	3413	false	sīhwan-	saiwiz		608	See	de	19105	3413	false	sīhwan-	saiwiz
+606	sea	en	13916	3413	false	sīhwan-	saiwiz		609	See	de	19105	3413	false	sīhwan-	saiwiz
+622	sink	en	50145	3548	false	*sankwjan-	sinkwaną		649	sinken	de	46190	3548	false	*sinkwan-	sinkwaną
+649	sinken	de	46190	3548	false	*sinkwan-	sinkwaną		650	sink	en	50145	3548	false	*sinkwan-	sinkwaną
+628	seed	en	17374	3475	false	*sēan-	sēdiz		630	Saat	de	17349	3475	false	*sēan-	sēdiz
+636	sinew	en	19150	3499	false	*senuwō-	senawō		637	Sehne	de	19130	3499	false	*senuwō-	senawō
+662	Schaf	de	17682	3627	false	*b	skēpą		663	sheep	en	17663	3627	false	*b	skēpą
+666	shoot	en	42792	3633	false	*skeutan-	skeutaną		668	schießen	de	42778	3633	false	*skeutan-	skeutaną
+708	speech	en	16567	3854	false	*sprēkō-	sprēkō		709	Sprache	de	19921	3854	false	*sprēkō-	sprēkō
+733	star	en	20394	3913	false	*ster(r)a	sternǭ		734	Stern	de	20406	3913	false	*ster(r)a	sternǭ
+747	streichen	de	47458	3945	false	*strīkan-	straikōną		748	stroke	en	20760	3945	false	*struk(k)ōn-	straikōną
+785	tooth	en	23710	4146	false	*tanþ-	tanþs		787	Zahn	de	23689	4146	false	*tanþ-	tanþs
+804	two	en	53740	4267	false	*twa-	twai		806	zwei	de	53737	4267	false	*twa-	twai
+821	through	en	29766	4889	false	*ϸerhwe	þurhw		822	durch	de	29799	4889	false	*ϸerhwe	þurhw
+829	throw	en	51942	4849	false	*ϸrēan-	þrēaną		831	drehen	de	29294	4849	false	*ϸrēan-	þrēaną
+847	often	en	40078	4298	false	*uba	ufta		848	oft	de	40112	4298	false	*uba	ufta
+847	often	en	40078	4299	false	*uba	uftō		848	oft	de	40112	4299	false	*uba	uftō
+864	wash	en	45840	4514	false	*watar-	waskaną		865	waschen	de	51315	4514	false	*watar-	waskaną
+866	Wasser	de	22601	4516	false	*watar-	watōr		867	water	en	33691	4516	false	*watar-	watōr
+876	werden	de	51897	4562	false	*werþan-	werþaną		898	word	en	23420	4562	false	*wurda-	werþaną

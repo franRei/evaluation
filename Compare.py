@@ -160,11 +160,18 @@ class Compare:
         print("macro recall: ", macro_recall)
         print("macro f1: ", macro_f1)
 
-        micro_precision = (test[4][0] + val[4][0]) / (
-                    test[4][0] + val[4][0] + test[4][1] + val[4][1])
-        micro_recall = (test[4][1] + val[4][1]) / (
-                    test[4][0] + val[4][0] + test[4][2] + val[4][2])
+        tp = test[4][0] + val[4][0]
+        fp = test[4][1] + val[4][1]
+        fn = test[4][2] + val[4][2]
+
+        micro_precision = tp/ (tp + fp)
+        micro_recall = tp / (tp + fn)
         micro_f1 = 2 * ((micro_precision * micro_recall) / (micro_precision + micro_recall))
         print("micro precision: ", micro_precision)
         print("micro recall: ", micro_recall)
         print("micro f1: ", micro_f1)
+        print("Jaccard ALL")
+
+        jacc = Compare.jaccard(self,tp,fp,fn)
+        print("Jaccard Index: ", jacc[0])
+        print("Jaccard Distance: ", jacc[1])

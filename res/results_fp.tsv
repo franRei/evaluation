@@ -1,202 +1,202 @@
 ID_1	cognate_1	language_1	cognateID_results_1	cognateID_wiki_1	borrowed_1	pgmc_forms_results_1	pgmc_forms_wiki_1		ID_2	cognate_2	language_2	cognateID_results_2	cognateID_wiki_2	borrowed_2	pgmc_forms_results_2	pgmc_forms_wiki_2
-3	own	en	27350	false	*aigena-		3	own	en	27350	false	*aigena-
-9	ache	en	43564	false	*akan-		9	ache	en	43564	false	*akan-
-15	end	en	30487	false	*andja-		15	end	en	30487	false	*andja-
-16	angle	en	23175	false	*angula-		16	angle	en	23175	false	*angula-
-22	Arbeit	de	674	false	*arbaidi-		22	Arbeit	de	674	false	*arbaidi-
-29	east	en	15864	false	*austera-		29	east	en	15864	false	*austera-
-29	east	en	15864	false	*austera-		29	east	en	15864	false	*austera-
-30	ear	en	15616	false	*auzōn-		30	ear	en	15616	false	*auzōn-
-48	bear	en	1323	false	*beran-		48	bear	en	1323	false	*beran-
-48	bear	en	1323	false	*beran-		50	Bär	de	1323	false	*beran-
-48	bear	en	1323	false	*beran-		50	Bär	de	1323	false	*beran-
-48	bear	en	1323	false	*beran-		50	Bär	de	1323	false	*beran-
-50	Bär	de	1323	false	*beran-		50	Bär	de	1323	false	*beran-
-53	bright	en	34598	false	*berhta-		53	bright	en	34598	false	*berhta-
-54	bark	en	27051	true	*berkan-		54	bark	en	27051	false	*berkan-
-56	bow	en	27533	false	*beugan-		56	bow	en	27533	false	*beugan-
-56	bow	en	27533	false	*beugan-		73	bow	en	27533	false	*bōgu-
-56	bow	en	27533	false	*beugan-		98	bow	en	27533	false	*bugan-
-56	bow	en	27533	false	*beugan-		73	bow	en	27533	false	*bōgu-
-56	bow	en	27533	false	*beugan-		98	bow	en	27533	false	*bugan-
-73	bow	en	27533	false	*bōgu-		73	bow	en	27533	false	*bōgu-
-73	bow	en	27533	false	*bōgu-		98	bow	en	27533	false	*bugan-
-73	bow	en	27533	false	*bōgu-		98	bow	en	27533	false	*bugan-
-98	bow	en	27533	false	*bugan-		98	bow	en	27533	false	*bugan-
-66	blow	en	28037	false	*blēan-		66	blow	en	28037	true	*blēan-
-66	blow	en	28037	false	*blēan-		66	blow	en	28037	false	*blēan-
-66	blow	en	28037	false	*blēan-		68	blow	en	28037	true	*blewwan-
-66	blow	en	28037	false	*blēan-		68	blow	en	28037	false	*blewwan-
-66	blow	en	28037	true	*blēan-		66	blow	en	28037	false	*blēan-
-66	blow	en	28037	true	*blēan-		68	blow	en	28037	false	*blewwan-
-66	blow	en	28037	true	*blēan-		68	blow	en	28037	false	*blewwan-
-66	blow	en	28037	false	*blēan-		68	blow	en	28037	false	*blewwan-
-66	blow	en	28037	false	*blēan-		68	blow	en	28037	true	*blewwan-
-68	blow	en	28037	false	*blewwan-		68	blow	en	28037	true	*blewwan-
-68	blow	en	28037	false	*blewwan-		68	blow	en	28037	false	*blewwan-
-68	blow	en	28037	true	*blewwan-		68	blow	en	28037	false	*blewwan-
-74	book	en	2643	false	*bōk(j)ō-		74	book	en	2643	false	*bōk(j)ō-
-84	breast	en	2593	false	*breusta-		92	Brust	de	2593	false	*brust-
-86	burn	en	49425	false	*brinnan-		86	burn	en	49425	false	*brinnan-
-114	dark	en	29635	false	*derka-		114	dark	en	29635	false	*derka-
-123	dry	en	48570	false	*draugja-		123	dry	en	48570	false	*draugja-
-126	dream	en	21860	false	*dreugan-		126	dream	en	21860	false	*dreugan-
-126	dream	en	21860	false	*dreugan-		128	Traum	de	21860	false	*dreugan-
-132	drink	en	48508	false	*drinkan-		132	drink	en	48508	false	*drinkan-
-132	drink	en	48508	false	*drinkan-		136	drink	en	48508	false	*drunki-
-132	drink	en	48508	false	*drinkan-		134	trinken	de	48508	false	*drinkan-
-132	drink	en	48508	false	*drinkan-		136	drink	en	48508	false	*drunki-
-134	trinken	de	48508	false	*drinkan-		136	drink	en	48508	false	*drunki-
-136	drink	en	48508	false	*drunki-		136	drink	en	48508	false	*drunki-
-140	duck	en	4166	true	*dūkan-		140	duck	en	4166	false	*dūkan-
-146	dust	en	20319	false	*dunsta-		146	dust	en	20319	false	*dunsta-
-147	Tor	de	21771	false	*dura-		147	Tor	de	21771	false	*dura-
-148	door	en	22018	false	*dura-		148	door	en	22018	false	*dura-
-197	fish	en	31954	false	*fiska-		197	fish	en	31954	false	*fiska-
-200	flat	en	31984	true	*flatja-		200	flat	en	31984	true	*flatja-
-201	fly	en	32157	false	*fleugan-		201	fly	en	32157	false	*fleugan-
-201	fly	en	32157	false	*fleugan-		206	fly	en	32157	false	*fleugōn-
-201	fly	en	32157	false	*fleugan-		203	fliegen	de	32157	false	*fleugan-
-201	fly	en	32157	false	*fleugan-		206	fly	en	32157	false	*fleugōn-
-203	fliegen	de	32157	false	*fleugan-		206	fly	en	32157	false	*fleugōn-
-206	fly	en	32157	false	*fleugōn-		206	fly	en	32157	false	*fleugōn-
-207	fließen	de	32119	false	*fleutan-		208	flow	en	32119	false	*flōan-
-247	gate	en	21783	false	*gata-		247	gate	en	21783	true	*gata-
-268	good	en	34171	false	*gōda-		268	good	en	34171	false	*gōda-
-268	good	en	34171	false	*gōda-		270	gut	de	34171	false	*gōda-
-299	half	en	8545	false	*halba-		299	half	en	8545	false	*halba-
-312	hay	en	9320	false	*hauja-		312	hay	en	9320	false	*hauja-
-312	hay	en	9320	false	*hauja-		314	Heu	de	9320	false	*hauja-
-324	hair	en	8415	false	*hēra-		326	Haar	de	8415	false	*hēra-
-326	Haar	de	8415	false	*hēra-		326	Haar	de	8415	false	*hēra-
-327	herd	en	35611	false	*herdō-		327	herd	en	35611	false	*herdō-
-336	here	en	34794	true	*hiar-		336	here	en	34794	false	*hiar-
-336	here	en	34794	true	*hiar-		336	here	en	34794	false	*hiar-
-336	here	en	34794	true	*hiar-		336	here	en	34794	false	*hiar-
-336	here	en	34794	false	*hiar-		336	here	en	34794	false	*hiar-
-336	here	en	34794	false	*hiar-		336	here	en	34794	false	*hiar-
-336	here	en	34794	false	*hiar-		336	here	en	34794	false	*hiar-
-350	ring	en	36384	false	*hringa-		350	ring	en	36384	false	*hringa-
-350	ring	en	36384	true	*hringa-		350	ring	en	36384	false	*hringa-
-361	hunger	en	9991	false	*hungru-		361	hunger	en	9991	false	*hungru-
-361	hunger	en	9991	false	*hungru-		363	Hunger	de	9991	false	*hungru-
-396	ihr	de	35689	false	*jūz		396	ihr	de	35689	false	*jūz
-401	comb	en	36009	false	*kamba-		401	comb	en	36009	false	*kamba-
-401	comb	en	36009	false	*kamba-		403	kämmen	de	36009	false	*kamjan-
-401	comb	en	36009	false	*kamba-		403	kämmen	de	36009	false	*kamjan-
-426	cool	en	37196	false	*kōlu-		426	cool	en	37196	false	*kōlu-
-426	cool	en	37196	false	*kōlu-		428	kühl	de	37196	false	*kōlu-
-444	kiss	en	37297	false	*kussjan-		444	kiss	en	37297	false	*kussjan-
-444	kiss	en	37297	false	*kussjan-		446	küssen	de	37297	false	*kussjan-
-449	lay	en	37940	false	*lagjan-		449	lay	en	37940	false	*lagjan-
-449	lay	en	37940	false	*lagjan-		449	lay	en	37940	false	*lagjan-
-449	lay	en	37940	false	*lagjan-		451	legen	de	37940	false	*lagjan-
-449	lay	en	37940	false	*lagjan-		449	lay	en	37940	false	*lagjan-
-449	lay	en	37940	false	*lagjan-		451	legen	de	37940	false	*lagjan-
-454	leave	en	49875	false	*līban-		454	leave	en	49875	false	*līban-
-455	lead	en	38076	false	*laidjan-		455	lead	en	38076	false	*laidjan-
-455	lead	en	38076	false	*laidjan-		464	lead	en	38076	false	*lauda-
-455	lead	en	38076	false	*laidjan-		457	leiten	de	38076	false	*laidjan-
-455	lead	en	38076	false	*laidjan-		464	lead	en	38076	false	*lauda-
-457	leiten	de	38076	false	*laidjan-		464	lead	en	38076	false	*lauda-
-464	lead	en	38076	false	*lauda-		464	lead	en	38076	false	*lauda-
-459	lecken	de	37793	false	*lakjan-		459	lecken	de	37793	false	*lakjan-
-459	lecken	de	37793	false	*lakjan-		486	lick	en	37793	false	*likkōn-
-459	lecken	de	37793	false	*lakjan-		488	lecken	de	37793	false	*likkōn-
-459	lecken	de	37793	false	*lakjan-		488	lecken	de	37793	false	*likkōn-
-486	lick	en	37793	false	*likkōn-		488	lecken	de	37793	false	*likkōn-
-488	lecken	de	37793	false	*likkōn-		488	lecken	de	37793	false	*likkōn-
-461	land	en	5118	false	*landa-		461	land	en	5118	false	*landa-
-465	lie	en	38394	false	*leg(j)an-		465	lie	en	38394	false	*leg(j)an-
-465	lie	en	38394	false	*leg(j)an-		465	lie	en	38394	false	*leg(j)an-
-465	lie	en	38394	false	*leg(j)an-		467	liegen	de	38394	false	*leg(j)an-
-465	lie	en	38394	false	*leg(j)an-		476	lie	en	38394	false	*leugan-
-465	lie	en	38394	false	*leg(j)an-		476	lie	en	38394	false	*leugan-
-465	lie	en	38394	false	*leg(j)an-		465	lie	en	38394	false	*leg(j)an-
-465	lie	en	38394	false	*leg(j)an-		476	lie	en	38394	false	*leugan-
-465	lie	en	38394	false	*leg(j)an-		476	lie	en	38394	false	*leugan-
-465	lie	en	38394	false	*leg(j)an-		467	liegen	de	38394	false	*leg(j)an-
-465	lie	en	38394	false	*leg(j)an-		476	lie	en	38394	false	*leugan-
-465	lie	en	38394	false	*leg(j)an-		476	lie	en	38394	false	*leugan-
-467	liegen	de	38394	false	*leg(j)an-		476	lie	en	38394	false	*leugan-
-467	liegen	de	38394	false	*leg(j)an-		476	lie	en	38394	false	*leugan-
-476	lie	en	38394	false	*leugan-		476	lie	en	38394	false	*leugan-
-476	lie	en	38394	false	*leugan-		476	lie	en	38394	false	*leugan-
-476	lie	en	38394	false	*leugan-		476	lie	en	38394	false	*leugan-
-473	let	en	37541	false	*lētan-		473	let	en	37541	false	*lētan-
-477	light	en	25331	false	*leuhada-		477	light	en	25331	false	*leuhada-
-485	like	en	38961	false	*līka-		485	like	en	38961	false	*līka-
-495	lock	en	18184	false	*lukka-		495	lock	en	18184	false	*lukka-
-495	lock	en	18184	false	*lukka-		495	lock	en	18184	false	*lukka-
-495	lock	en	18184	false	*lukka-		495	lock	en	18184	false	*lukka-
-501	man	en	13702	false	*mannan-		501	man	en	13702	false	*mannan-
-501	man	en	13702	false	*mannan-		502	Mann	de	13702	false	*mannan-
-506	meal	en	4387	false	*mēla-		506	meal	en	4387	false	*mēla-
-507	melt	en	43491	false	*meltan-		692	schmelzen	de	43491	false	*smeltan-
-509	milk	en	38793	false	*mel(u)kan-		509	milk	en	38793	false	*mel(u)kan-
-509	milk	en	38793	false	*mel(u)kan-		509	milk	en	38793	false	*mel(u)kan-
-509	milk	en	38793	false	*mel(u)kan-		509	milk	en	38793	false	*mel(u)kan-
-519	messen	de	38839	false	*metan-		519	messen	de	38839	false	*metan-
-520	Mutter	de	14678	false	*mōder-		521	mother	en	14678	false	*mōder-
-521	mother	en	14678	false	*mōder-		521	mother	en	14678	false	*mōder-
-526	mind	en	22235	false	*mundi-		526	mind	en	22235	false	*mundi-
-528	Mund	de	14608	false	*munþa-		528	Mund	de	14608	false	*munþa-
-548	naked	en	39133	false	*nakwe		548	naked	en	39133	false	*nakwe
-548	naked	en	39133	false	*nakwe		550	nackt	de	39133	false	*nakwe
-548	naked	en	39133	false	*nakwe		550	nackt	de	39133	false	*nakwe
-550	nackt	de	39133	false	*nakwe		550	nackt	de	39133	false	*nakwe
-554	nose	en	15111	false	*nasō-		556	Nase	de	15111	false	*nasō-
-571	nest	en	15245	false	*nista-		571	nest	en	15245	false	*nista-
-571	nest	en	15245	false	*nista-		571	nest	en	15245	false	*nista-
-571	nest	en	15245	false	*nista-		571	nest	en	15245	false	*nista-
-571	nest	en	15245	false	*nista-		572	Nest	de	15245	false	*nista-
-571	nest	en	15245	false	*nista-		572	Nest	de	15245	false	*nista-
-585	read	en	38166	false	*rēdan-		585	read	en	38166	false	*rēdan-
-586	rain	en	40859	false	*regna-		586	rain	en	40859	false	*regna-
-588	right	en	40733	false	*rehta-		588	right	en	40733	false	*rehta-
-588	right	en	40733	false	*rehta-		588	right	en	40733	false	*rehta-
-588	right	en	40733	false	*rehta-		588	right	en	40733	false	*rehta-
-588	right	en	40733	false	*rehta-		588	right	en	40733	false	*rehta-
-588	right	en	40733	false	*rehta-		588	right	en	40733	false	*rehta-
-588	right	en	40733	false	*rehta-		588	right	en	40733	false	*rehta-
-598	row	en	41753	false	*rōan-		598	row	en	41753	false	*rōan-
-602	rock	en	52202	false	*ruk[kg]ōn-		602	rock	en	52202	false	*ruk[kg]ōn-
-611	salt	en	17473	false	*salta-		611	salt	en	17473	false	*salta-
-611	salt	en	17473	false	*salta-		611	salt	en	17473	false	*salta-
-611	salt	en	17473	false	*salta-		611	salt	en	17473	false	*salta-
-611	salt	en	17473	false	*salta-		613	Salz	de	17473	false	*salta-
-611	salt	en	17473	false	*salta-		613	Salz	de	17473	false	*salta-
-614	Sand	de	17547	false	*samda-		615	sand	en	17547	false	*samda-
-615	sand	en	17547	false	*samda-		615	sand	en	17547	false	*samda-
-651	sew	en	39227	false	*siujan-		651	sew	en	39227	false	*siujan-
-686	sleep	en	42939	false	*slēpan-		686	sleep	en	42939	false	*slēpan-
-686	sleep	en	42939	false	*slēpan-		688	schlafen	de	42939	false	*slēpan-
-721	step	en	18603	false	*stap(p)an-		721	step	en	18603	false	*stap(p)an-
-727	stechen	de	46920	false	*stekan-		740	sting	en	46920	false	*stingan-
-745	stream	en	47532	false	*strauma-		745	stream	en	47532	false	*strauma-
-747	streichen	de	47458	false	*strīkan-		747	streichen	de	47458	false	*strīkan-
-748	stroke	en	20760	false	*struk(k)ōn-		748	stroke	en	20760	false	*struk(k)ōn-
-753	sound	en	36445	true	*swimman-		753	sound	en	36445	false	*swimman-
-753	sound	en	36445	false	*swimman-		753	sound	en	36445	false	*swimman-
-761	swallow	en	43433	false	*swalwōn-		761	swallow	en	43433	false	*swalwōn-
-778	tear	en	52870	false	*tagra-		778	tear	en	52870	false	*tagra-
-778	tear	en	52870	false	*tagra-		791	tear	en	52870	false	*teran-
-778	tear	en	52870	false	*tagra-		791	tear	en	52870	false	*teran-
-791	tear	en	52870	false	*teran-		791	tear	en	52870	false	*teran-
-794	Zeit	de	23868	false	*tīdi-		795	time	en	23868	false	*tīman-
-814	think	en	28924	false	*ϸankjan-		814	think	en	28924	false	*ϸankjan-
-814	think	en	28924	false	*ϸankjan-		839	think	en	28924	false	*þunkjan-
-814	think	en	28924	false	*ϸankjan-		839	think	en	28924	false	*þunkjan-
-839	think	en	28924	false	*þunkjan-		839	think	en	28924	false	*þunkjan-
-821	through	en	29766	false	*ϸerhwe		821	through	en	29766	false	*ϸerhwe
-847	often	en	40078	false	*uba		847	often	en	40078	false	*uba
-848	oft	de	40112	false	*uba		848	oft	de	40112	false	*uba
-872	work	en	25339	false	*werka-		872	work	en	25339	false	*werka-
-872	work	en	25339	false	*werka-		872	work	en	25339	false	*werka-
-872	work	en	25339	false	*werka-		872	work	en	25339	false	*werka-
-881	wood	en	9657	false	*widu-		881	wood	en	9657	false	*widu-
-882	wind	en	23139	false	*winda-		882	wind	en	23139	false	*winda-
-882	wind	en	23139	false	*winda-		883	Wind	de	23139	false	*winda-
-884	win	en	46049	false	*winnan-		884	win	en	46049	false	*winnan-
-898	word	en	23420	false	*wurda-		898	word	en	23420	false	*wurda-
-898	word	en	23420	false	*wurda-		900	Wort	de	23420	false	*wurda-
+3	own	en	27350	146	false	*aigena-	aiginijaną		3	own	en	27350	4329	false	*aigena-	unnaną
+9	ache	en	43564	221	false	*akan-	akaną		9	ache	en	43564	222	false	*akan-	akiz
+15	end	en	30487	311	false	*andja-	andijaz		15	end	en	30487	312	false	*andja-	andijōną
+16	angle	en	23175	319	false	*angula-	angulaz		16	angle	en	23175	320	false	*angula-	angulō
+22	Arbeit	de	674	350	false	*arbaidi-	arbaidiją		22	Arbeit	de	674	352	false	*arbaidi-	arbaidiz
+29	east	en	15864	415	false	*austera-	austrą		29	east	en	15864	416	false	*austera-	austraz
+29	east	en	15864	415	false	*austera-	austrą		29	east	en	15864	416	false	*austera-	austraz
+30	ear	en	15616	124	false	*auzōn-	ahaz		30	ear	en	15616	361	false	*auzōn-	arjaną
+48	bear	en	1323	559	false	*beran-	beraną		48	bear	en	1323	570	false	*beran-	berô
+48	bear	en	1323	559	false	*beran-	beraną		50	Bär	de	1323	459	false	*beran-	bairaz
+48	bear	en	1323	559	false	*beran-	beraną		50	Bär	de	1323	570	false	*beran-	berô
+48	bear	en	1323	570	false	*beran-	berô		50	Bär	de	1323	459	false	*beran-	bairaz
+50	Bär	de	1323	459	false	*beran-	bairaz		50	Bär	de	1323	570	false	*beran-	berô
+53	bright	en	34598	564	false	*berhta-	berhtaz		53	bright	en	34598	626	false	*berhta-	birhtį̄
+54	bark	en	27051	503	true	*berkan-	barkuz		54	bark	en	27051	566	false	*berkan-	berkaną
+56	bow	en	27533	576	false	*beugan-	beuganą		56	bow	en	27533	803	false	*beugan-	bugô
+56	bow	en	27533	576	false	*beugan-	beuganą		73	bow	en	27533	803	false	*bōgu-	bugô
+56	bow	en	27533	576	false	*beugan-	beuganą		98	bow	en	27533	803	false	*bugan-	bugô
+56	bow	en	27533	803	false	*beugan-	bugô		73	bow	en	27533	576	false	*bōgu-	beuganą
+56	bow	en	27533	803	false	*beugan-	bugô		98	bow	en	27533	576	false	*bugan-	beuganą
+73	bow	en	27533	576	false	*bōgu-	beuganą		73	bow	en	27533	803	false	*bōgu-	bugô
+73	bow	en	27533	576	false	*bōgu-	beuganą		98	bow	en	27533	803	false	*bugan-	bugô
+73	bow	en	27533	803	false	*bōgu-	bugô		98	bow	en	27533	576	false	*bugan-	beuganą
+98	bow	en	27533	576	false	*bugan-	beuganą		98	bow	en	27533	803	false	*bugan-	bugô
+66	blow	en	28037	660	false	*blēan-	blēaną		66	blow	en	28037	668	true	*blēan-	blewwaną
+66	blow	en	28037	660	false	*blēan-	blēaną		66	blow	en	28037	680	false	*blēan-	blōaną
+66	blow	en	28037	660	false	*blēan-	blēaną		68	blow	en	28037	668	true	*blewwan-	blewwaną
+66	blow	en	28037	660	false	*blēan-	blēaną		68	blow	en	28037	680	false	*blewwan-	blōaną
+66	blow	en	28037	668	true	*blēan-	blewwaną		66	blow	en	28037	680	false	*blēan-	blōaną
+66	blow	en	28037	668	true	*blēan-	blewwaną		68	blow	en	28037	660	false	*blewwan-	blēaną
+66	blow	en	28037	668	true	*blēan-	blewwaną		68	blow	en	28037	680	false	*blewwan-	blōaną
+66	blow	en	28037	680	false	*blēan-	blōaną		68	blow	en	28037	660	false	*blewwan-	blēaną
+66	blow	en	28037	680	false	*blēan-	blōaną		68	blow	en	28037	668	true	*blewwan-	blewwaną
+68	blow	en	28037	660	false	*blewwan-	blēaną		68	blow	en	28037	668	true	*blewwan-	blewwaną
+68	blow	en	28037	660	false	*blewwan-	blēaną		68	blow	en	28037	680	false	*blewwan-	blōaną
+68	blow	en	28037	668	true	*blewwan-	blewwaną		68	blow	en	28037	680	false	*blewwan-	blōaną
+74	book	en	2643	706	false	*bōk(j)ō-	bōkōną		74	book	en	2643	707	false	*bōk(j)ō-	bōks
+84	breast	en	2593	749	false	*breusta-	breustą		92	Brust	de	2593	790	false	*brust-	brusts
+86	burn	en	49425	762	false	*brinnan-	brinnaną		86	burn	en	49425	788	false	*brinnan-	brunnô
+114	dark	en	29635	911	false	*derka-	derkaz		114	dark	en	29635	912	false	*derka-	derkōną
+123	dry	en	48570	967	false	*draugja-	draugiz		123	dry	en	48570	992	false	*draugja-	drūgiz
+126	dream	en	21860	968	false	*dreugan-	draumaz		126	dream	en	21860	969	false	*dreugan-	draumijaną
+126	dream	en	21860	969	false	*dreugan-	draumijaną		128	Traum	de	21860	968	false	*dreugan-	draumaz
+132	drink	en	48508	982	false	*drinkan-	drinkaną		132	drink	en	48508	997	false	*drinkan-	drunkiz
+132	drink	en	48508	982	false	*drinkan-	drinkaną		136	drink	en	48508	997	false	*drunki-	drunkiz
+132	drink	en	48508	997	false	*drinkan-	drunkiz		134	trinken	de	48508	982	false	*drinkan-	drinkaną
+132	drink	en	48508	997	false	*drinkan-	drunkiz		136	drink	en	48508	982	false	*drunki-	drinkaną
+134	trinken	de	48508	982	false	*drinkan-	drinkaną		136	drink	en	48508	997	false	*drunki-	drunkiz
+136	drink	en	48508	982	false	*drunki-	drinkaną		136	drink	en	48508	997	false	*drunki-	drunkiz
+140	duck	en	4166	944	true	*dūkan-	dōkaz		140	duck	en	4166	1012	false	*dūkan-	dūkaną
+146	dust	en	20319	1032	false	*dunsta-	dunstą		146	dust	en	20319	1046	false	*dunsta-	dustą
+147	Tor	de	21771	894	false	*dura-	dauzô		147	Tor	de	21771	1034	false	*dura-	durą
+148	door	en	22018	1034	false	*dura-	durą		148	door	en	22018	1042	false	*dura-	durz
+197	fish	en	31954	1271	false	*fiska-	fiskaz		197	fish	en	31954	1272	false	*fiska-	fiskōną
+200	flat	en	31984	1287	true	*flatja-	flataz		200	flat	en	31984	1288	true	*flatja-	flatją
+201	fly	en	32157	1296	false	*fleugan-	fleuganą		201	fly	en	32157	1297	false	*fleugan-	fleugǭ
+201	fly	en	32157	1296	false	*fleugan-	fleuganą		206	fly	en	32157	1297	false	*fleugōn-	fleugǭ
+201	fly	en	32157	1297	false	*fleugan-	fleugǭ		203	fliegen	de	32157	1296	false	*fleugan-	fleuganą
+201	fly	en	32157	1297	false	*fleugan-	fleugǭ		206	fly	en	32157	1296	false	*fleugōn-	fleuganą
+203	fliegen	de	32157	1296	false	*fleugan-	fleuganą		206	fly	en	32157	1297	false	*fleugōn-	fleugǭ
+206	fly	en	32157	1296	false	*fleugōn-	fleuganą		206	fly	en	32157	1297	false	*fleugōn-	fleugǭ
+207	fließen	de	32119	1300	false	*fleutan-	fleutaną		208	flow	en	32119	1302	false	*flōan-	flōaną
+247	gate	en	21783	1605	false	*gata-	gatą		247	gate	en	21783	1606	true	*gata-	gatwǭ
+268	good	en	34171	1684	false	*gōda-	gōdaz		268	good	en	34171	1687	false	*gōda-	gōdōną
+268	good	en	34171	1687	false	*gōda-	gōdōną		270	gut	de	34171	1684	false	*gōda-	gōdaz
+299	half	en	8545	1832	false	*halba-	halbaz		299	half	en	8545	1835	false	*halba-	halbō
+312	hay	en	9320	1794	false	*hauja-	haguz		312	hay	en	9320	1934	false	*hauja-	hawją
+312	hay	en	9320	1794	false	*hauja-	haguz		314	Heu	de	9320	1934	false	*hauja-	hawją
+324	hair	en	8415	1957	false	*hēra-	hērą		326	Haar	de	8415	1939	false	*hēra-	hazwaz
+326	Haar	de	8415	1939	false	*hēra-	hazwaz		326	Haar	de	8415	1957	false	*hēra-	hērą
+327	herd	en	35611	1958	false	*herdō-	herdō		327	herd	en	35611	1991	false	*herdō-	hirdijaz
+336	here	en	34794	1815	true	*hiar-	hairaz		336	here	en	34794	1898	false	*hiar-	harjaz
+336	here	en	34794	1815	true	*hiar-	hairaz		336	here	en	34794	1942	false	*hiar-	hē₂r
+336	here	en	34794	1815	true	*hiar-	hairaz		336	here	en	34794	1996	false	*hiar-	hiurijaz
+336	here	en	34794	1898	false	*hiar-	harjaz		336	here	en	34794	1942	false	*hiar-	hē₂r
+336	here	en	34794	1898	false	*hiar-	harjaz		336	here	en	34794	1996	false	*hiar-	hiurijaz
+336	here	en	34794	1942	false	*hiar-	hē₂r		336	here	en	34794	1996	false	*hiar-	hiurijaz
+350	ring	en	36384	2140	false	*hringa-	hringaz		350	ring	en	36384	2141	false	*hringa-	hringijaną
+350	ring	en	36384	2140	true	*hringa-	hringaz		350	ring	en	36384	2141	false	*hringa-	hringijaną
+361	hunger	en	9991	2213	false	*hungru-	hungrijaną		361	hunger	en	9991	2214	false	*hungru-	hungruz
+361	hunger	en	9991	2213	false	*hungru-	hungrijaną		363	Hunger	de	9991	2214	false	*hungru-	hungruz
+396	ihr	de	35689	1974	false	*jūz	hezōi		396	ihr	de	35689	2375	false	*jūz	jūz
+401	comb	en	36009	2391	false	*kamba-	kambaz		401	comb	en	36009	2575	false	*kamba-	kumbaz
+401	comb	en	36009	2391	false	*kamba-	kambaz		403	kämmen	de	36009	2392	false	*kamjan-	kambijaną
+401	comb	en	36009	2575	false	*kamba-	kumbaz		403	kämmen	de	36009	2392	false	*kamjan-	kambijaną
+426	cool	en	37196	2510	false	*kōlu-	kōlaz		426	cool	en	37196	2513	false	*kōlu-	kōluz
+426	cool	en	37196	2510	false	*kōlu-	kōlaz		428	kühl	de	37196	2513	false	*kōlu-	kōluz
+444	kiss	en	37297	2605	false	*kussjan-	kussaz		444	kiss	en	37297	2606	false	*kussjan-	kussijaną
+444	kiss	en	37297	2605	false	*kussjan-	kussaz		446	küssen	de	37297	2606	false	*kussjan-	kussijaną
+449	lay	en	37940	2652	false	*lagjan-	lagą		449	lay	en	37940	2654	false	*lagjan-	lagjaną
+449	lay	en	37940	2652	false	*lagjan-	lagą		449	lay	en	37940	2656	false	*lagjan-	laguz
+449	lay	en	37940	2652	false	*lagjan-	lagą		451	legen	de	37940	2654	false	*lagjan-	lagjaną
+449	lay	en	37940	2654	false	*lagjan-	lagjaną		449	lay	en	37940	2656	false	*lagjan-	laguz
+449	lay	en	37940	2656	false	*lagjan-	laguz		451	legen	de	37940	2654	false	*lagjan-	lagjaną
+454	leave	en	49875	2662	false	*līban-	laibijaną		454	leave	en	49875	2715	false	*līban-	laubijaną
+455	lead	en	38076	2664	false	*laidjan-	laidijaną		455	lead	en	38076	2717	false	*laidjan-	laudą
+455	lead	en	38076	2664	false	*laidjan-	laidijaną		464	lead	en	38076	2717	false	*lauda-	laudą
+455	lead	en	38076	2717	false	*laidjan-	laudą		457	leiten	de	38076	2664	false	*laidjan-	laidijaną
+455	lead	en	38076	2717	false	*laidjan-	laudą		464	lead	en	38076	2664	false	*lauda-	laidijaną
+457	leiten	de	38076	2664	false	*laidjan-	laidijaną		464	lead	en	38076	2717	false	*lauda-	laudą
+464	lead	en	38076	2664	false	*lauda-	laidijaną		464	lead	en	38076	2717	false	*lauda-	laudą
+459	lecken	de	37793	2681	false	*lakjan-	lakjaną		459	lecken	de	37793	2786	false	*lakjan-	likkōną
+459	lecken	de	37793	2681	false	*lakjan-	lakjaną		486	lick	en	37793	2786	false	*likkōn-	likkōną
+459	lecken	de	37793	2681	false	*lakjan-	lakjaną		488	lecken	de	37793	2786	false	*likkōn-	likkōną
+459	lecken	de	37793	2786	false	*lakjan-	likkōną		488	lecken	de	37793	2681	false	*likkōn-	lakjaną
+486	lick	en	37793	2786	false	*likkōn-	likkōną		488	lecken	de	37793	2681	false	*likkōn-	lakjaną
+488	lecken	de	37793	2681	false	*likkōn-	lakjaną		488	lecken	de	37793	2786	false	*likkōn-	likkōną
+461	land	en	5118	2013	false	*landa-	hlandą		461	land	en	5118	2688	false	*landa-	landą
+465	lie	en	38394	2756	false	*leg(j)an-	leuganą		465	lie	en	38394	2781	false	*leg(j)an-	ligjaną
+465	lie	en	38394	2756	false	*leg(j)an-	leuganą		465	lie	en	38394	2831	false	*leg(j)an-	lugiz
+465	lie	en	38394	2756	false	*leg(j)an-	leuganą		467	liegen	de	38394	2781	false	*leg(j)an-	ligjaną
+465	lie	en	38394	2756	false	*leg(j)an-	leuganą		476	lie	en	38394	2781	false	*leugan-	ligjaną
+465	lie	en	38394	2756	false	*leg(j)an-	leuganą		476	lie	en	38394	2831	false	*leugan-	lugiz
+465	lie	en	38394	2781	false	*leg(j)an-	ligjaną		465	lie	en	38394	2831	false	*leg(j)an-	lugiz
+465	lie	en	38394	2781	false	*leg(j)an-	ligjaną		476	lie	en	38394	2756	false	*leugan-	leuganą
+465	lie	en	38394	2781	false	*leg(j)an-	ligjaną		476	lie	en	38394	2831	false	*leugan-	lugiz
+465	lie	en	38394	2831	false	*leg(j)an-	lugiz		467	liegen	de	38394	2781	false	*leg(j)an-	ligjaną
+465	lie	en	38394	2831	false	*leg(j)an-	lugiz		476	lie	en	38394	2756	false	*leugan-	leuganą
+465	lie	en	38394	2831	false	*leg(j)an-	lugiz		476	lie	en	38394	2781	false	*leugan-	ligjaną
+467	liegen	de	38394	2781	false	*leg(j)an-	ligjaną		476	lie	en	38394	2756	false	*leugan-	leuganą
+467	liegen	de	38394	2781	false	*leg(j)an-	ligjaną		476	lie	en	38394	2831	false	*leugan-	lugiz
+476	lie	en	38394	2756	false	*leugan-	leuganą		476	lie	en	38394	2781	false	*leugan-	ligjaną
+476	lie	en	38394	2756	false	*leugan-	leuganą		476	lie	en	38394	2831	false	*leugan-	lugiz
+476	lie	en	38394	2781	false	*leugan-	ligjaną		476	lie	en	38394	2831	false	*leugan-	lugiz
+473	let	en	37541	2712	false	*lētan-	latjaną		473	let	en	37541	2751	false	*lētan-	lētaną
+477	light	en	25331	2795	false	*leuhada-	lingwaną		477	light	en	25331	2810	false	*leuhada-	liuhtijaną
+485	like	en	38961	1547	false	*līka-	galīkaz		485	like	en	38961	2785	false	*līka-	līkijaną
+495	lock	en	18184	2835	false	*lukka-	luką		495	lock	en	18184	2836	false	*lukka-	lūkaną
+495	lock	en	18184	2835	false	*lukka-	luką		495	lock	en	18184	2838	false	*lukka-	lukkaz
+495	lock	en	18184	2836	false	*lukka-	lūkaną		495	lock	en	18184	2838	false	*lukka-	lukkaz
+501	man	en	13702	2914	false	*mannan-	mann-		501	man	en	13702	2918	false	*mannan-	mannōną
+501	man	en	13702	2918	false	*mannan-	mannōną		502	Mann	de	13702	2914	false	*mannan-	mann-
+506	meal	en	4387	2970	false	*mēla-	mēlą		506	meal	en	4387	2980	false	*mēla-	melwą
+507	melt	en	43491	2976	false	*meltan-	meltaną		692	schmelzen	de	43491	3740	false	*smeltan-	smeltaną
+509	milk	en	38793	2974	false	*mel(u)kan-	melkaną		509	milk	en	38793	2978	false	*mel(u)kan-	melukōną
+509	milk	en	38793	2974	false	*mel(u)kan-	melkaną		509	milk	en	38793	2979	false	*mel(u)kan-	meluks
+509	milk	en	38793	2978	false	*mel(u)kan-	melukōną		509	milk	en	38793	2979	false	*mel(u)kan-	meluks
+519	messen	de	38839	2992	false	*metan-	metaną		519	messen	de	38839	2996	false	*metan-	metōną
+520	Mutter	de	14678	3051	false	*mōder-	mōdēr		521	mother	en	14678	3103	false	*mōder-	muþraz
+521	mother	en	14678	3051	false	*mōder-	mōdēr		521	mother	en	14678	3103	false	*mōder-	muþraz
+526	mind	en	22235	1562	false	*mundi-	gamundiz		526	mind	en	22235	3080	false	*mundi-	mundiz
+528	Mund	de	14608	3081	false	*munþa-	mundō		528	Mund	de	14608	3087	false	*munþa-	munþaz
+548	naked	en	39133	3115	false	*nakwe	nakwadaz		548	naked	en	39133	3117	false	*nakwe	nakwōną
+548	naked	en	39133	3115	false	*nakwe	nakwadaz		550	nackt	de	39133	3117	false	*nakwe	nakwōną
+548	naked	en	39133	3117	false	*nakwe	nakwōną		550	nackt	de	39133	3115	false	*nakwe	nakwadaz
+550	nackt	de	39133	3115	false	*nakwe	nakwadaz		550	nackt	de	39133	3117	false	*nakwe	nakwōną
+554	nose	en	15111	3199	false	*nasō-	nusō		556	Nase	de	15111	3124	false	*nasō-	nasō
+571	nest	en	15245	3155	false	*nista-	nestą		571	nest	en	15245	3157	false	*nista-	nestōną
+571	nest	en	15245	3155	false	*nista-	nestą		571	nest	en	15245	3174	false	*nista-	nistijaną
+571	nest	en	15245	3157	false	*nista-	nestōną		571	nest	en	15245	3174	false	*nista-	nistijaną
+571	nest	en	15245	3157	false	*nista-	nestōną		572	Nest	de	15245	3155	false	*nista-	nestą
+571	nest	en	15245	3174	false	*nista-	nistijaną		572	Nest	de	15245	3155	false	*nista-	nestą
+585	read	en	38166	3265	false	*rēdan-	raidijaną		585	read	en	38166	3306	false	*rēdan-	rēdaną
+586	rain	en	40859	3310	false	*regna-	regną		586	rain	en	40859	3313	false	*regna-	regnōną
+588	right	en	40733	1588	false	*rehta-	garihtiją		588	right	en	40733	3314	false	*rehta-	rehtą
+588	right	en	40733	1588	false	*rehta-	garihtiją		588	right	en	40733	3315	false	*rehta-	rehtaz
+588	right	en	40733	1588	false	*rehta-	garihtiją		588	right	en	40733	3337	false	*rehta-	rihtijaną
+588	right	en	40733	3314	false	*rehta-	rehtą		588	right	en	40733	3315	false	*rehta-	rehtaz
+588	right	en	40733	3314	false	*rehta-	rehtą		588	right	en	40733	3337	false	*rehta-	rihtijaną
+588	right	en	40733	3315	false	*rehta-	rehtaz		588	right	en	40733	3337	false	*rehta-	rihtijaną
+598	row	en	41753	3268	false	*rōan-	raih-		598	row	en	41753	3356	false	*rōan-	rōaną
+602	rock	en	52202	3372	false	*ruk[kg]ōn-	rukkô		602	rock	en	52202	3373	false	*ruk[kg]ōn-	rukkōną
+611	salt	en	17473	3429	false	*salta-	saltą		611	salt	en	17473	3430	false	*salta-	saltaną
+611	salt	en	17473	3429	false	*salta-	saltą		611	salt	en	17473	3431	false	*salta-	saltaz
+611	salt	en	17473	3430	false	*salta-	saltaną		611	salt	en	17473	3431	false	*salta-	saltaz
+611	salt	en	17473	3430	false	*salta-	saltaną		613	Salz	de	17473	3429	false	*salta-	saltą
+611	salt	en	17473	3431	false	*salta-	saltaz		613	Salz	de	17473	3429	false	*salta-	saltą
+614	Sand	de	17547	3441	false	*samda-	samdaz		615	sand	en	17547	3449	false	*samda-	sandō
+615	sand	en	17547	3441	false	*samda-	samdaz		615	sand	en	17547	3449	false	*samda-	sandō
+651	sew	en	39227	3467	false	*siujan-	sawwą		651	sew	en	39227	3559	false	*siujan-	siwjaną
+686	sleep	en	42939	3708	false	*slēpan-	slēpaną		686	sleep	en	42939	3709	false	*slēpan-	slēpaz
+686	sleep	en	42939	3709	false	*slēpan-	slēpaz		688	schlafen	de	42939	3708	false	*slēpan-	slēpaną
+721	step	en	18603	3896	false	*stap(p)an-	stapiz		721	step	en	18603	3897	false	*stap(p)an-	stapjaną
+727	stechen	de	46920	3927	false	*stekan-	stikaną		740	sting	en	46920	3933	false	*stingan-	stinganą
+745	stream	en	47532	3956	false	*strauma-	straumaz		745	stream	en	47532	3957	false	*strauma-	straumijaną
+747	streichen	de	47458	3945	false	*strīkan-	straikōną		747	streichen	de	47458	3969	false	*strīkan-	strīkaną
+748	stroke	en	20760	3944	false	*struk(k)ōn-	straikaz		748	stroke	en	20760	3945	false	*struk(k)ōn-	straikōną
+753	sound	en	36445	4020	true	*swimman-	sundą		753	sound	en	36445	4021	false	*swimman-	sundaz
+753	sound	en	36445	4020	false	*swimman-	sundą		753	sound	en	36445	4021	false	*swimman-	sundaz
+761	swallow	en	43433	4060	false	*swalwōn-	swalwǭ		761	swallow	en	43433	4083	false	*swalwōn-	swelganą
+778	tear	en	52870	4123	false	*tagra-	tahrą		778	tear	en	52870	4170	false	*tagra-	teraną
+778	tear	en	52870	4123	false	*tagra-	tahrą		791	tear	en	52870	4170	false	*teran-	teraną
+778	tear	en	52870	4170	false	*tagra-	teraną		791	tear	en	52870	4123	false	*teran-	tahrą
+791	tear	en	52870	4123	false	*teran-	tahrą		791	tear	en	52870	4170	false	*teran-	teraną
+794	Zeit	de	23868	4184	false	*tīdi-	tīdiz		795	time	en	23868	4196	false	*tīman-	tīmô
+814	think	en	28924	4777	false	*ϸankjan-	þankijaną		814	think	en	28924	4881	false	*ϸankjan-	þunkijaną
+814	think	en	28924	4777	false	*ϸankjan-	þankijaną		839	think	en	28924	4881	false	*þunkjan-	þunkijaną
+814	think	en	28924	4881	false	*ϸankjan-	þunkijaną		839	think	en	28924	4777	false	*þunkjan-	þankijaną
+839	think	en	28924	4777	false	*þunkjan-	þankijaną		839	think	en	28924	4881	false	*þunkjan-	þunkijaną
+821	through	en	29766	4865	false	*ϸerhwe	þrūhs		821	through	en	29766	4889	false	*ϸerhwe	þurhw
+847	often	en	40078	4298	false	*uba	ufta		847	often	en	40078	4299	false	*uba	uftō
+848	oft	de	40112	4298	false	*uba	ufta		848	oft	de	40112	4299	false	*uba	uftō
+872	work	en	25339	4552	false	*werka-	werką		872	work	en	25339	4639	false	*werka-	wirkijaną
+872	work	en	25339	4552	false	*werka-	werką		872	work	en	25339	4756	false	*werka-	wurkijaną
+872	work	en	25339	4639	false	*werka-	wirkijaną		872	work	en	25339	4756	false	*werka-	wurkijaną
+881	wood	en	9657	4586	false	*widu-	widuz		881	wood	en	9657	4687	false	*widu-	wōdaz
+882	wind	en	23139	4627	false	*winda-	windaną		882	wind	en	23139	4628	false	*winda-	windaz
+882	wind	en	23139	4627	false	*winda-	windaną		883	Wind	de	23139	4628	false	*winda-	windaz
+884	win	en	46049	4635	false	*winnan-	winnaną		884	win	en	46049	4744	false	*winnan-	wunjō
+898	word	en	23420	4562	false	*wurda-	werþaną		898	word	en	23420	4749	false	*wurda-	wurdą
+898	word	en	23420	4562	false	*wurda-	werþaną		900	Wort	de	23420	4749	false	*wurda-	wurdą
