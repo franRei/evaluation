@@ -34,15 +34,15 @@ if __name__ == '__main__':
 
     #writes tsv separated for tp, fp, fn
     Writer.write_csv(aux_test, "res/results_case.tsv")
-    Writer.write_csv_only_short(aux_test, "res/results_short.tsv")
+    #Writer.write_csv_only_short(aux_test, "res/results_short.tsv")
 
-    Writer.write_csv_by_status(aux_test[0], "res/results_tp.tsv")
-    Writer.write_csv_by_status(aux_test[1], "res/results_fp.tsv")
-    Writer.write_csv_by_status(aux_test[2], "res/results_fn.tsv")
+    #Writer.write_csv_by_status(aux_test[0], "res/results_tp.tsv")
+    #Writer.write_csv_by_status(aux_test[1], "res/results_fp.tsv")
+    #Writer.write_csv_by_status(aux_test[2], "res/results_fn.tsv")
 
-    Writer.write_csv_by_status_only_short(aux_test[0], "res/results_tp_short.tsv")
-    Writer.write_csv_by_status_only_short(aux_test[0], "res/results_fp_short.tsv")
-    Writer.write_csv_by_status_only_short(aux_test[0], "res/results_fn_short.tsv")
+    #Writer.write_csv_by_status_only_short(aux_test[0], "res/results_tp_short.tsv")
+    #Writer.write_csv_by_status_only_short(aux_test[0], "res/results_fp_short.tsv")
+    #Writer.write_csv_by_status_only_short(aux_test[0], "res/results_fn_short.tsv")
 
     #validation set
     print("\nVALIDATION STARTS HERE:\n")
@@ -58,5 +58,5 @@ if __name__ == '__main__':
     #precision, recall, f1 for test and validation set
     Compare.validation(aux_test, aux_val)
 
-    Writer.write_csv(aux_val, "val/results_case_val.tsv")
+    #Writer.write_csv(aux_val, "val/results_case_val.tsv")
     Writer.write_csv_by_status(aux_val[1], "val/results_fp_val.tsv")
