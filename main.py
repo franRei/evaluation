@@ -3,8 +3,11 @@ from Mapping import Mapping
 from Compare import Compare
 from Writer import Writer
 
+#gold standard
 filename_wiktionary = "files/wiki_output_with_pgmc_forms.csv"
+#test languages
 filename_results = "files/results.csv"
+#validation languages
 filename_extend = "files/results_kroonen_northeuralex.csv"
 
 if __name__ == '__main__':
